@@ -1,0 +1,35 @@
+name: Update Meta - Posts
+
+on:
+  push:
+    paths:
+      - 'contents/posts/**/*.mdx'
+
+jobs:
+  update_metadata:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
+      - name: Install Yarn
+        run: npm install -g yarn
+
+      - name: Install Dependencies
+        run: yarn install
+
+      - name: Generate Metadata JSON
+        run: node scripts/generateMetaPosts.js
+
+      - name: Commit Metadata JSON
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add metas/generatedMetaPosts.json
+          git commit -m "Update generatedMetaPosts.json" -a || echo "No changes to commit"
+#          git push
