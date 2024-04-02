@@ -17,11 +17,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Yarn
-        run: npm install -g yarn
-
       - name: Install Dependencies
-        run: yarn install
+        run: npm install
 
       - name: Generate Metadata JSON
         run: node scripts/generateMetaPosts.js
@@ -32,4 +29,4 @@ jobs:
           git config user.email github-actions@github.com
           git add metas/generatedMetaPosts.json
           git commit -m "Update generatedMetaPosts.json" -a || echo "No changes to commit"
-#          git push
+          git push
