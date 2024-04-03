@@ -1,9 +1,9 @@
-name: Update Meta - Authors
+name: Generate metadata files
 
 on:
   push:
     paths:
-      - 'contents/authors/**/*.mdx'
+      - 'contents/**/*.mdx'
 
 jobs:
   update_metadata:
@@ -20,14 +20,18 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Generate Metadata JSON
-        run: node scripts/generateMetaAuthors.js
+      - name: Generate Metadata
+        run: node scripts/generateMetadata.js
 
       - name: Commit Metadata JSON
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git pull
-          git add metas/generatedMetaAuthors.json
-          git commit -m "Update generatedMetaAuthors.json" -a || echo "No changes to commit"
+          git add metadata/authors.json
+          git commit -m "Updated authors.json" -a || echo "No changes to commit"
+          git pull
+          git add metadata/posts.json
+          git commit -m "Updated posts.json" -a || echo "No changes to commit"
+          git pull
           git push
