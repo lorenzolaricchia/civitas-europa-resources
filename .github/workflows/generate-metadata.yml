@@ -1,0 +1,33 @@
+name: Generate metadata files
+
+on:
+  push:
+    paths:
+      - 'contents/**/*.mdx'
+
+jobs:
+  update_metadata:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Generate Metadata
+        run: node scripts/generateMetadata.js
+
+      - name: Commit Metadata JSON
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git pull
+          git add metadata/authors.json metadata/posts.json
+          git commit -m "Updated metadata json files" -a || echo "No changes to commit"
+          git push
