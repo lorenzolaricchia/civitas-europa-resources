@@ -1,5 +1,50 @@
 [
   {
+    "avatar": "/images/authors/alessandro-verdoliva.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Alessandro Verdoliva",
+    "twitter": null,
+    "website": null,
+    "slug": "alessandro-verdoliva"
+  },
+  {
+    "avatar": "/images/authors/andrea-scipione.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Andrea Scipione",
+    "twitter": null,
+    "website": null,
+    "slug": "andrea-scipione"
+  },
+  {
+    "avatar": "/images/authors/civitas-europa.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Civitas Europa",
+    "twitter": null,
+    "website": null,
+    "slug": "civitas-europa"
+  },
+  {
+    "avatar": "/images/authors/estefano-tamburrini.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Estefano Tamburrini",
+    "twitter": null,
+    "website": null,
+    "slug": "estefano-tamburrini"
+  },
+  {
+    "avatar": "/images/authors/iulian.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Iulian",
+    "twitter": null,
+    "website": null,
+    "slug": "iulian"
+  },
+  {
     "avatar": "/images/authors/lorenzo-laricchia.png",
     "instagram": "https://www.instagram.com/lollolaricchia/",
     "linkedin": "https://www.linkedin.com/in/lorenzo-laricchia",
@@ -7,5 +52,41 @@
     "twitter": "https://twitter.com/larixDev",
     "website": "https://ticketsms.it",
     "slug": "lorenzo-laricchia"
+  },
+  {
+    "avatar": "/images/authors/lorenzo-ricci.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Lorenzo Ricci",
+    "twitter": null,
+    "website": null,
+    "slug": "lorenzo-ricci"
+  },
+  {
+    "avatar": "/images/authors/massimiliano-palladini.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Massimiliano Palladini",
+    "twitter": null,
+    "website": null,
+    "slug": "massimiliano-palladini"
+  },
+  {
+    "avatar": "/images/authors/omar-yazidi.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Omar Yazidi",
+    "twitter": null,
+    "website": null,
+    "slug": "omar-yazidi"
+  },
+  {
+    "avatar": "/images/authors/riccardo-raspanti.png",
+    "instagram": null,
+    "linkedin": null,
+    "name": "Riccardo Raspanti",
+    "twitter": null,
+    "website": null,
+    "slug": "riccardo-raspanti"
   }
 ]

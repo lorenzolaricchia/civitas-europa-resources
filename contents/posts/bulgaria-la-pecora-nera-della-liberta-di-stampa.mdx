@@ -1,0 +1,80 @@
+---
+title: "Bulgaria, la \"pecora nera\" della libertà di stampa"
+cover: /images/posts/"d985a-bulgaria-bandiera-ue.jpg"
+date: 1618462812
+authors:
+  - civitas-europa
+categories: 
+  - "articoli"
+  - "articoli-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "balcani"
+  - "bojko-borisov"
+  - "bulgaria"
+  - "delyan-peevski"
+  - "elezioni-bulgaria-2021"
+  - "liberta-di-stampa"
+  - "slavi-trifonov"
+  - "stato-di-diritto"
+  - "ue"
+  - "unione-europea"
+---
+
+Ungheria e Polonia sono spesso accusate di non rispettare i valori fondamentali dell'Unione Europea e dello Stato di diritto. Deterioramento della libertà di stampa, riduzione dell'indipendenza della magistratura e scarsa tutela dei diritti civili sono problematiche che accomunano questi due paesi. Eppure, per quanto riguarda la libertà di stampa, c'è uno Stato membro dell'Ue che si trova in una situazione ben peggiore: la Bulgaria.
+
+Definita da Reporter sena frontiere (Rsf) la "pecora nera" dell'Unione Europea, la Bulgaria è lo Stato membro in cui la libertà di stampa è peggio tutelata. La Bulgaria occupa la 111° posizione su 180 nel 2020 World Press Freedom Index elaborato dall'organizzazione. Per fare un confronto, l'Ungheria occupa l'89° posizione mentre la Polonia la 62° \[1\]. Nonostante la gravità della situazione, il paese balcanico, a differenza di Ungheria e Polonia, non viene solitamente accusato di violare i valori fondamentali su cui si fonda l'Unione.
+
+"Corruzione e collusione tra media, politici e oligarchi sono largamente diffuse in Bulgaria" si legge nel rapporto di Rsf del 2019. Personificazione di questo sistema è Delyan Peevski, parlamentare del partito di opposizione Movimento per i Diritti e le Libertà (Dps) nella scorsa legislatura nonché uno degli uomini più potenti del paese, il quale negli ultimi anni ha creato un vastissimo impero mediatico che comprendeva due quotidiani, un canale televisivo e diversi siti web di notizie \[2\].
+
+Recentemente Peevksi ha però deciso di vendere parte del suo impero. I suoi giornali sono stati venduti alla United Group, società di telecomunicazioni molto presente nei paesi balcanici. United Group ha acquistato anche la Nova Broadcasting Group, la più grande società di media multi-piattaforma del paese. L'ingresso di una grande società straniera nel mercato bulgaro potrebbe contribuire ad incrementare il pluralismo dei mezzi d'informazione  \[3\].
+
+Nonostante ciò, la situazione nel paese rimane drammatica. Secondo Maria Spirova, professoressa associata di politica comparata e relazioni internazionali all'università di Leida, il problema del settore privato è dato dall'esistenza di "un'altissima concentrazione dei media nelle mani di poche persone" con conseguenze sulla scelta del personale e sulla definizione delle linee editoriali. Secondo Spirova le radio e le televisioni nazionali hanno "legami politici più o meno aperti con il governo, perché sono governate da consigli d'amministrazione che sono a loro volta nominati dai vari attori politici" \[4\].
+
+Ingerenze della politica, concentrazione oligarchica, commistione tra politici e imprenditori e corruzione sono i problemi che affliggono il settore mediatico bulgaro. Ma non è tutto. Non di rado i giornalisti subiscono attacchi e minacce.
+
+Il 17 marzo 2020 Slavi Angelov, redattore capo del settimanale 168 ore, è stato picchiato con tubi metallici da due uomini mascherati nei pressi del suo appartamento nel centro di Sofia. Angelov, giornalista che si occupava spesso della malavita bulgara, ha riportato gravi ferite ma non è finito in pericolo di vita. \[5\]
+
+Il 5 agosto 2020, durante il congresso del partito Cittadini per lo sviluppo europeo della Bulgaria (Gerb), guidato dal primo ministro Bojko Borisov, due giornaliste sono state aggredite e maltrattate \[6\] mentre il 2 settembre 2020, al culmine di una protesta anti-governativa a Sofia, il giornalista freelance Dimitar Kenarov è stato arrestato e malmenato dalla polizia, riportando lividi evidenti sul proprio volto. Dopo essere stato arrestato sul luogo della protesta, Kenarov è stato portato in una caserma della polizia, dove è rimasto ammanettato per diverse ore. È stato rilasciato il giorno successivo. Durante la detenzione ha subito dei maltrattamenti e gli è stato impedito di contattare il proprio avvocato \[7\]. I responsabili delle violenze inflitte a Kenarov non sono ancora stati indagati \[8\].
+
+Il caso più recente è quello della giornalista Desislava Panayotova. Lo scorso 13 marzo la sua auto è stata danneggiata, per la seconda volta in quattro mesi, mentre era parcheggiata nei pressi della sua residenza nella cittadina di Dupnitsa, nella Bulgaria occidentale. Si presume che il motivo di questi attacchi risieda nelle inchieste condotte dalla giornalista, in particolare quella relativa al caso di Yunuk Milanov, un uomo di Dupnitsa scomparso nel luglio 2020. L'ultima volta che Milanov è stato visto stava salendo sul veicolo di un uomo che in passato aveva lavorato per i fratelli Galevi, criminali bulgari ricercati \[9\].
+
+Che la Bulgaria sia un paese in cui la libertà di stampa gode di scarsa tutela non è una novità. Dal 2014 il paese si trova oltre la 100° posizione nella classifica annuale redatta da Rsf \[10\]. Quattro anni prima Waz Media Group, uno dei più grandi gruppi editoriali tedeschi, decise di abbandonare il mercato bulgaro a causa dei "diffusi abusi di potere" e degli "stretti intrecci tra oligarchi e politici, che stanno avvelenando il mercato" \[11\].
+
+Lo scorso 4 aprile si sono tenute le elezioni parlamentari in Bulgaria. Il partito del primo ministro Borisov ha ottenuto la maggioranza relativa ma ha perso numerosi seggi rispetto alla scorsa legislatura mentre il Partito socialista bulgaro ha incassato il peggior risultato di sempre. Il vincitore indiscusso di questa tornata elettorale è Itn, partito populista e anti-sistema fondato l'anno scorso dal cantante e conduttore televisivo Slavi Trifonov, che si è piazzato secondo per numero di seggi conquistati. Le elezioni del 4 aprile hanno scombussolato gli equilibri politici bulgari rendendo alquanto intricata la formazione del nuovo governo e aprendo una fase di incertezza politica \[12\].
+
+La speranza è che il prossimo esecutivo bulgaro ponga la tutela della libertà di stampa tra le sue priorità. Allo stesso tempo le istituzioni comunitarie dovrebbero usare i mezzi a loro disposizione per sollecitare le riforme necessarie affinché la Bulgaria si adegui ai valori fondamentali dell'Unione Europea, tra i quali vi è la tutela della libertà di espressione e di stampa.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] "2020 World Press Freedom Index", rsf.org. Ultimo accesso 13 aprile 2021.
+
+\[2\] "Bulgaria. Black sheep of the European Union", rsf.org. Ultimo accesso 13 aprile 2021.
+
+\[3\] "Bulgaria, un nuovo attore scuote il settore dei media", euractiv.it, 19 gennaio 2021. Ultimo accesso 13 aprile 2021.
+
+\[4\] "A che punto siamo con la libertà di stampa in Bulgaria", it.euronews.com, 18 novembre 2020. Ultimo accesso 13 aprile 2021.
+
+\[5\] "Bulgarian newspaper editor Slavi Angelov severely beaten in attack by masked man in central Sofia", coe.int, 19 marzo 2020. Ultimo accesso 13 aprile 2021.
+
+\[6\] "Bulgarian journalist Polina Paunova attacked while covering party conference", coe.int, 11 settembre 2020. Ultimo accesso 13 aprile 2021.
+
+\[7\] "Bulgarian freelance journalist Dimitar Kenarov beaten and detained by police while covering protest", coe.int, 04 settembre 2020. Ultimo accesso 13 aprile 2021.
+
+\[8\] "#JusticeForDimiter: Bulgaria turns a blind eye to police violence against journalist Dimiter Kenarov", aej-bulgaria.org, 11 febbraio 2021. Ultimo accesso 13 aprile 2021.
+
+\[9\] "DenNews journalist Desislava Panayotova's car damaged for second time", coe.int, 17 marzo 2021. Ultimo accesso 13 aprile 2021.
+
+\[10\] Vedi nota 2.
+
+\[11\] "Why Bulgaria is the EU's lowest ranked country on press freedom index", theguardian.com, 23 settembre 2014. Ultimo accesso 13 aprile 2021.
+
+\[12\] "Election surprises end Bulgaria's political stability", balkaninsight.com, 06 aprile 2021. Ultimo accesso 13 aprile 2021.

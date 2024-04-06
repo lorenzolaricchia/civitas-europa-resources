@@ -1,0 +1,71 @@
+---
+title: "L'energia nucleare è il futuro dell'Europa?"
+cover: /images/posts/"cf6f4-screenshot-2021-03-05-at-14.38.00.png"
+date: 1614943940
+authors:
+  - civitas-europa
+categories: 
+  - "senza-categoria"
+---
+
+L’energia nucleare è guardata con sospetto dall’opinione pubblica del nostro paese. Fin dal referendum del 1987, l’impiego della fissione si scontra con una forte opposizione: le centrali italiane hanno intrapreso un lungo processo di chiusura e smantellamento, accelerato da un ulteriore referendum abrogativo nel 2011. Sebbene sia sacrosanto un atteggiamento di prudenza verso l’energia nucleare, non si possono ignorare le potenzialità produttive di tale risorsa, i miglioramenti delle tecnologie impiegate, i possibili benefici in termini di abbattimento delle emissioni.
+
+La questione ha fatto brevemente capolino quando il governo italiano ha presentato la lista dei siti eleggibili per ospitare un centro nazionale di stoccaggio delle scorie nucleari, necessario per allinearci al resto d’Europa sulla questione. E’ infatti necessario ricordare che il nostro paese, pur non producendo più energia tramite fissione, genera scorie da altri settori, quale quello sanitario.
+
+L’energia nucleare è stata al centro del processo d’integrazione fin dall’inizio, con la creazione della Comunità Europea dell’Energia Atomica (EURATOM)[\[1\]](#_ftn1). Già nel preambolo del Trattato, firmato nel 1957 a Roma, si leggono quali prospettive vedono i membri della neonata CEE per l’utilizzo dell’energia atomica. E’ considerata “la risorsa essenziale che assicurerà \[…\] il rinnovo delle produzioni e permetterà il progresso delle opere di pace”. I capi di Stato europei pongono due obiettivi paralleli: il primo è “lo sviluppo di una potente industria nucleare, fonte di vaste disponibilità di energia e \[…\] altre e molteplici applicazioni che contribuiscono al benessere dei loro popoli”; il secondo si concentra su “…instaurare condizioni di sicurezza che allontanino i pericoli per la vita e la salute delle popolazioni”.
+
+Il compito della Comunità è “di contribuire, creando le premesse necessarie per la formazione e il rapido incremento delle industrie nucleari, all'elevazione del tenore di vita negli Stati membri e allo sviluppo degli scambi con gli altri paesi”. L’intero Titolo II raccoglie le disposizioni volte a favorire la ricerca e lo sviluppo nel settore, coerentemente con l’obiettivo statuito.
+
+Dalla lettura di questo documento emerge la visione multilaterale, condivisa e pacifica dell’utilizzo della risorsa atomica. Una visione rivolta al futuro benessere dei cittadini della Comunità Europea, che ai tempi era ancora alle prese con la ricostruzione.
+
+Nonostante il coordinamento assicurato dal Trattato EURATOM, la politica nucleare è principalmente prerogativa degli Stati membri. Dal 1957 ad oggi i percorsi dei paesi europei si sono differenziati sempre più: un confronto utile per evidenziare le divergenze è quello tra Italia e Francia.
+
+Negli anni Sessanta l’Italia aveva investito fortemente sull’utilizzo del nucleare a scopi civili. L’arricchimento dell’uranio le era proibito dai trattati di pace, ma tre centrali per la produzione di energia elettrica contribuirono fin dal primo dopoguerra a soddisfare il fabbisogno energetico del Paese, sebbene in percentuali prossime al 4% del totale. Nel 1975 il Piano Energetico Nazionale preparò la costruzione di nuove centrali che sfruttavano l’energia atomica. Nove anni dopo, la svolta. Il disastro di Chernobyl rappresenta di fatto la pietra tombale del programma nucleare italiano. I tre referendum del 1987 posero le basi per lo spegnimento e lo smantellamento delle centrali, incominciato tra il 1988 e il 1990.
+
+La chiusura delle centrali fu compensata da un aumento nell’utilizzo di centrali a combustibili fossili e attraverso l’importazione di energia dall’estero. Attualmente, il coinvolgimento italiano nell’utilizzo dell’energia nucleare è limitato ad investimenti da parte di Enel e Ansaldo SpA in società e centrali in altri paesi, principalmente nell’Unione Europea. Sul finire del primo decennio degli anni 2000 è stata proposta la ripresa di un progetto sull’energia nucleare, per ridurre costi al consumatore e emissioni di CO2[\[2\]](#_ftn2), ma il referendum abrogativo del 2011 ha portato allo stop della legislazione in merito.
+
+La Francia, invece, produce tutt’oggi il 70% del suo fabbisogno attraverso centrali nucleari. L’atomo è utilizzato anche a scopi bellici, ponendo l’industria che lo circonda al centro degli interessi francesi. Dopo il disastro di Fukushima, l’opinione pubblica ha spinto il governo ad impegnarsi per dismettere le centrali più datate e compensare le quote di produzione perdute con energia prodotta da fonti rinnovabili. Ciò fa parte di un ampio piano di de-carbonizzazione del territorio francese, con la chiusura di tutte le centrali a carbone entro il 2022 e di 14 centrali nucleari (su 57) entro il 2035[\[3\]](#_ftn3).
+
+Già da questo limitato confronto si evidenziano le difficoltà a coordinare una politica nucleare comunitaria. Si riscontra, in generale, una tendenza verso la riduzione dell’impiego di tale risorsa nei 13 paesi europei (Regno Unito escluso) che ancora possiedono centrali nucleari attive. La produzione di energia e lo smaltimento delle scorie, come detto, sono prerogativa dei governi nazionali: le istituzioni UE intervengono solo attraverso raccomandazioni e regolamenti su decisioni prese collegialmente dal Consiglio Europeo. Gli Stati custodiscono gelosamente tali prerogative, dato l’altissimo valore strategico della risorsa atomica. Ma la questione dell’impiego pacifico e virtuoso del nucleare e quella del stoccaggio delle scorie non può che generare perplessità sulla capacità di gestione degli stati.
+
+L’energia nucleare, inoltre, può giocare un ruolo chiave nella de-carbonizzazione del continente, coerentemente con gli obiettivi della Commissione Von der Leyen. L’odierno sviluppo delle tecnologie ha migliorato grandemente la sicurezza degli impianti, mentre sono già noti i benefici sulle emissioni dell’utilizzo di centrali nucleari in sostituzioni di impianti a combustibili fossili.
+
+Sulla fissione, un dettagliato rapporto del MIT del 2018[\[4\]](#_ftn4) evidenzia le potenzialità dei moderni impianti nel contribuire alla lotta ai cambiamenti climatici. I problemi in termini di costo dipendono dalle fluttuazioni dei prezzi dei gas naturali, ma assicurano migliori performance in termini di azzeramento delle emissioni e continuità nella fornitura di energia elettrica rispetto alle rinnovabili. Inoltre, i progetti di sviluppo della fusione nucleare, tra cui il progetto internazionale ITER con sede in Francia e sponsorizzato dalla UE, fanno ben sperare per il futuro sviluppo della tecnologia, che potrebbe portare al totale azzeramento delle scorie.
+
+Per andare verso questa direzione sarà necessario ricalibrare la percezione dei cittadini europei sul tema del nucleare. E’ fondamentale mostrare come la tecnologia in questo campo nel corso degli ultimi trent’anni sia sorprendentemente progredita, e come oggi ci metta a disposizione impianti estremamente sicuri e con costi di costruzione relativamente bassi.
+
+La maggior parte delle centrali nucleari attive oggi in Francia, in Giappone e negli Stati Uniti sono state progettate tra la fine degli anni Cinquanta e la seconda metà degli anni Ottanta. Dal punto di vista strutturale questi impianti sono complessi, soggetti ad elevati costi di alimentazione (l’uranio e il suo processo di arricchimento sono molto costosi) e manutenzione. Soprattutto necessitano di un numero elevato di personale specializzato per essere monitorate e mantenute in attività, aumentando conseguentemente il rischio di un errore umano.
+
+Dal 2006 la società americana TerraPower porta avanti un programma sperimentale per la realizzazione di centrali nucleari a reattori veloci, conosciuti anche come reattori di quarta generazione. I nuovi reattori a fissione realizzati da TerraPower sono stati completamente ripensati, scardinando la logica progettuale novecentesca sulla quale si basavano tutti gli impianti di produzione di energia nucleare.
+
+Questi nuovi reattori sono meno ingombranti dei reattori standard e sono caratterizzati da costi di costruzione e mantenimento degli impianti relativamente bassi. Il loro funzionamento è completamente automatizzato, riducendo l’intervento umano alle fasi di manutenzione sporadica di cui necessitano. L’elemento più sorprendente di questa nuova tipologia di reattori riguarda il combustibile che li alimenta. Si tratta di materiale fissile di scarto, reperibile tra quello prodotto dalle centrali nucleari che hanno operato in tutto il mondo durante il corso del Novecento. Tale materiale, una volta consumato all’interno del reattore di quarta generazione riduce in maniera notevole i suoi livelli di radioattività. Questi nuovi impianti, perciò, allo stesso tempo producono energia elettrica a emissioni prossime allo zero e contribuiscono allo smaltimento dei materiali radioattivi oggi stoccati nei depositi sotterranei di tutto il mondo.
+
+Nel settembre 2015 TerraPower ha firmato un accordo con la _China National Nuclear Corporation_ per costruire un prototipo di un reattore da 600 MWe a Xiapu, nella provincia del Fujian. I lavori erano stati previsti durare sette anni, tra il 2018 ed il 2025. Ma a causa della guerra commerciale avviata da Donald Trump fra gli USA e la Cina, la sperimentazione di TerraPower ha subito una brusca battuta d’arresto. Anche se i loro reattori non sono ancora presenti sul mercato, i risultati ottenuti in soli 15 anni di sperimentazione fanno auspicare un rilancio del settore dell’energia nucleare per i prossimi anni.
+
+Ovviamente, nonostante gli sviluppi tecnologici, le fonti rinnovabili devono rimanere al centro dei progetti per il futuro energetico della UE. Ma un approccio più pragmatico all’utilizzo del nucleare faciliterebbe il raggiungimento dell’obbiettivo UE zero emissioni entro il 2050. Il taglio ai finanziamenti sulla ricerca riguardante l’atomo e le sue potenzialità è problematico. Come i fondatori della Comunità Europea ben compresero, lo sviluppo di questa tecnologia è importante per assicurare il futuro benessere degli europei, al quale contribuisce la disponibilità di energia pulita e a basso costo.
+
+Per fare ciò, è necessaria una strategia europea che delinei quanta parte del fabbisogno energetico europeo soddisfare attraverso le centrali nucleari, quali progetti d’innovazione finanziare, quali reattori impiegare e come smaltire e stoccare le scorie in sicurezza. Solo così si può far sì che il Green New Deal riesca a raggiungere i _benchmarks_ prefissati, attraverso una politica energetica sostenibile e lungimirante.
+
+ 
+
+ 
+
+Riccardo Raspanti, Lorenzo Ricci
+
+CIVITAS EUROPA - Divisione Economia
+
+ 
+
+ 
+
+ 
+
+Note:
+
+[\[1\]](#_ftnref1) Unione Europea, _Trattato che istituisce la Comunità Europea dell’Energia Atomica_, 1957
+
+[\[2\]](#_ftnref2) Luca Iezzi, _Scajola: nucleare scelta obbligata per non restare a secco di energia_, Repubblica, 25 febbraio 2009
+
+[\[3\]](#_ftnref3) Guillaume Petit, _Francia tra nucleare e fonti rinnovabili_, euronews.com, 20 ottobre 2020
+
+[\[4\]](#_ftnref4) MIT (interdisciplinary), _The Future of Nuclear Energy in a Carbon-Costrained World_, 2018

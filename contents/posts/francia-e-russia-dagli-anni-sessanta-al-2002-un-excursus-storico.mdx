@@ -1,0 +1,107 @@
+---
+title: "Francia e Russia dagli anni Sessanta al 2002, un excursus storico"
+cover: "/images/posts/francia-e-russia-dagli-anni-sessanta-al-2002-un-excursus-storico.jpg"
+date: 1590474474
+authors:
+  - omar-yazidi
+categories: 
+  - "senza-categoria"
+tags: 
+  - "francois-mitterrand"
+  - "helmuth-kohl"
+  - "jacques-chirac"
+  - "mikhail-gorbaciov"
+  - "perestrojka"
+  - "trattato-di-maastricht"
+  - "unione-europea"
+---
+
+_In questa terza parte osserviamo l'evoluzione di Francia e Russia dai primi anni Sessanta fino al 2002, anno importante sia per la Francia che per l'integrazione europea. Se non avete letto la seconda parte potete farlo cliccando_ [qui](https://civitaseuropadoteu.wordpress.com/2020/05/11/francia-e-russia-dalla-grande-guerra-alla-crisi-di-suez-un-excursus-storico/)_._
+
+ 
+
+L'apice della tensione della Guerra Fredda fu toccato tra l'ottobre e il novembre 1962 con la Crisi dei missili di Cuba. Gli Stati Uniti del Presidente John F. Kennedy e l'Unione Sovietica di Nikita Krusciov giunsero a un passo dalla guerra termonucleare. Dopo quella crisi le superpotenze compresero la necessità di impegnarsi per la coesistenza pacifica e il 5 agosto 1963 fu firmato il trattato di Mosca. Le potenze nucleari – USA, URSS, UK – decisero di mettere al bando, parzialmente, gli esperimenti nucleari.
+
+Nel frattempo, la Francia del Presidente **Charles De Gaulle** si distanziava parzialmente dalle politiche atlantiste e decideva di entrare nel club riservato delle potenze nucleari. De Gaulle decise anche di uscire dal comando integrato della NATO e di riconoscere la Cina comunista. Il 1968 è un anno molto importante: la Francia è alle prese con le rivolte studentesche ed operaie, mentre i sovietici devono rivendicare la loro sfera d'influenza in Cecoslovacchia, dove la locale dirigenza comunista vuole costruire un socialismo dal volto umano.
+
+De Gaulle uscì di scena nel 1969. Dopo che un referendum da lui proposto sulla riforma del Senato e sulla regionalizzazione ebbe risultato negativo, si dimise dall'incarico di Presidente della Repubblica. Il carismatico generale morì l'anno seguente.
+
+La distensione tra le superpotenze entra nel vivo negli anni Settanta con la firma degli accordi SALT per la limitazione della corsa agli armamenti strategici. Ma la crisi del gigante sovietico inizia a palesarsi.
+
+Dopo la Crisi dei missili di Cuba, Krusciov viene allontanato dal potere. Gli succede nel 1964 **Leonid Breznev** che guiderà l'URSS fino alla morte nel 1982. Dopo la breve parentesi di Andropov e Chernenko, nel 1985 **Mikail Gorbaciov** viene eletto segretario Generale del PCUS. **Egli apparteneva a una generazione più giovane di quella dei suoi predecessori e portò con sé novità e riforme, racchiuse nei famosi slogan _perestrojka_ (ristrutturazione), _glasnost_ (trasparenza) e _uskorenie_ (accelerazione dello sviluppo economico) .** La guerra in Afghanistan, iniziata nel dicembre 1979, si stava rivelando più lunga e costosa del previsto, la questione degli euromissili era ancora irrisolta e gli Stati Uniti erano ora guidati dall'agguerrito Ronald Reagan, contrario alla distensione dei suoi predecessori. Gorbaciov era intenzionato a riabilitare l'immagine dell'URSS sul piano internazionale, abbassare la tensione con l'Occidente e risolvere i problemi economico-sociali che mettevano in discussione il futuro della superpotenza comunista.
+
+**Secondo molti storici, la fine dell’URSS comincia con il disastro di Chernobyl, una catastrofe imprevista. Tale sfortunato evento rivelò al mondo tutte le debolezze strutturali del sistema sovietico, inefficiente e dilaniato da una corruzione endemica.** Gorbaciov stesso voleva risolvere tali problemi riformando il sistema dal punto di vista politico ed economico. Il 29 novembre 1988 fu un giorno cruciale: l’URSS acconsentì ai cittadini sovietici di accedere a fonti di informazione diverse da quelle istituzionali. Un cambiamento epocale, vista la rigida censura per quanto riguarda l’accesso alle informazioni. **Tra il 1989 e il 1990 si consumò il collasso del blocco comunista nell'Europa centro-orientale. La data che simboleggia questo processo è il 9 novembre 1989, giorno della caduta del Muro di Berlino.**
+
+Alla fine il processo di dissoluzione investì anche l'Unione Sovietica. Le quindici repubbliche che la componevano iniziarono a chiedere l'indipendenza: la prima fu la Lituania, che l'11 marzo 1990 dichiarò l'indipendenza, seguita nei mesi successivi da altre repubbliche. Gorbaciov osservò la dissoluzione dello Stato che presiedeva senza far ricorso allo strumento militare per bloccare i moti indipendentisti.
+
+**La storia sovietica terminò nel 1991.** Il 1° luglio di quell'anno venne sciolto il Patto di Varsavia, l'alleanza militare contrapposta alla NATO. In agosto, mentre Gorbaciov era in vacanza in Crimea, un gruppo di irriducibili dirigenti sovietici tentò di fermare l'onda che stava travolgendo la superpotenza con un colpo di Stato. Il golpe non ebbe fortuna e la fine della superpotenza comunista avvenne nei mesi successivi. **Il giorno di Natale Gorbaciov si dimise e a Santo Stefano il Soviet Supremo dissolse l’URSS.** Le Repubbliche ex sovietiche ebbero la loro indipendenza.
+
+Probabilmente nessun politologo previde una caduta così rapida e rumorosa, ma sin dagli anni Settanta la crisi dell’Urss era evidente: la spesa militare era altissima (si arrivò a un punto in cui le spese militari coprivano il 25% del PIL) e mentre le economie occidentali crescevano vertiginosamente, gli apparati obsoleti sovietici erano sempre più fatiscenti non riuscendo più a tenere il passo. Forte impulso alla dissoluzione fu dato anche dal crollo del prezzo del petrolio e dalle forti differenze etniche che presero il sopravvento. I popoli sotto Mosca non si sentivano così omogenei come l’Unione voleva dimostrare. I nazionalismi furono determinanti, ma anche la perestrojka di Gorbaciov produsse conseguenze inaspettate.
+
+All'origine della crisi dell'URSS troviamo la stagnazione economica, la corruzione endemica e la burocratizzazione del partito, quindi dello Stato. Gorbaciov non usò la violenza per fermare il crollo del blocco orientale e dell'URSS, marcando una profonda discontinuità con i suoi predecessori. Tuttavia, bisogna dargli atto che le sue riforme introdussero finalmente la libertà di stampa ed espressione. Le riforme di Gorbaciov erano impensabili fino a pochi anni prima e furono talmente sconvolgenti che una parte della vecchia guardia sovietica tentò di destituirlo.
+
+**La dissoluzione dell'URSS porta alla nascita di quindici repubbliche indipendenti. Tra queste, la più importante e forte è la Federazione Russa, il cui presidente è Boris Eltsin.** **Gli anni Novanta furono un periodo molto difficile per la Russia dal punto di vista economico e sociale.** La crisi sotto Eltsin era così forte che nel 1994 il PIL scese del 12,7 %. Per la Russia, il passaggio da economia pianificata a libero mercato fu quindi drammatico e costoso. A causa dei problemi interni e delle sue ridotte dimensioni, Mosca perse la capacità di proiettare l'influenza all’estero di cui aveva goduto nei decenni precedenti. Negli anni Novanta gli Stati Uniti sono la superpotenza incontrastata.
+
+La tribolata era Eltsin termina nel 1999. Gli succede alla presidenza della Repubblica un giovane ex funzionario del KGB, già direttore dell'FSB, ovvero i servizi segreti russi. Il suo nome è **Vladimir Putin**.
+
+Per quanto riguarda l'evoluzione della politica francese nel periodo storico considerato, **Georges Pompidou**, Presidente dal 1969 al 1974, succede a De Gaulle. Nel 1974 fu eletto Presidente **Valery Giscard d’Estaing**, ex Ministro delle Finanze, di destra ma non gollista. Mentre i Repubblicani Indipendenti e i Cattolici centristi moderati si unirono per formare l’UDF (Unione per la Democrazia Francese), nel 1968 nacque il Partito Socialista Unificato. Si creò così la cosiddetta **“quadriglia bipolare”**, situazione in cui il panorama politico francese si compose di quattro partiti divisi in due poli: a destra avevamo l'UDF e i gollisti, mentre a sinistra c’erano i socialisti e i comunisti.
+
+Al terzo tentativo, nel 1981 **Francois Mitterrand** viene eletto Presidente della Repubblica. Egli corse alle presidenziali già nel 1965 e nel 1974. La sua elezione fece scalpore dal momento che fino ad allora la V Repubblica vide solo Presidenti gollisti, o almeno di destra. Mitterrand fu il primo presidente socialista. All’inizio degli anni Ottanta si forma una nuova fazione di estrema destra: il **Front National di Jean-Marie LePen**, colui che raccolse le lamentele di chi non accettò la decolonizzazione, di chi era contro l’immigrazione e l’estensione dei diritti civili.
+
+Mitterrand, riconfermato nel 1988, fu a capo della Repubblica francese a cavallo degli anni Ottanta e Novanta, periodo storico di primaria importanza per il processo d'integrazione europea. **Nel 1992 fu infatti firmato il trattato di Maastricht che diede vita all'Unione Europea. In Francia tale trattato fu sottoposto a referendum.** Il quesito referendario era il seguente. _“Approvate il progetto di legge presentato al popolo francese da parte del Presidente della Repubblica autorizzante la ratifica del trattato sull'Unione Europea?”_. **Il “sì” vinse di misura, incassando il 51 % dei consensi.**
+
+Gli anni Novanta sono molto importanti per il processo d'integrazione europea. Oltre al trattato di Maastricht, **nel 1995 Austria, Svezia e Finlandia aderiscono all'UE ed entra in vigore la convenzione di Schengen, firmata nel 1990.**
+
+Durante la sua lunga presidenza (1981-1995), Mitterrand stabilì un rapporto proficuo con il Cancelliere tedesco **Helmuth Kohl**, un'altra figura di primo piano della politica europea degli anni Ottanta e Novanta.
+
+Le elezioni presidenziali francesi del 1995 decretarono la vittoria di **Jacques Chirac**. Egli governò durante la **coabitazione**, ovvero quando la maggioranza parlamentare e il capo dello Stato appartengono a due schieramenti politici differenti. Presidente mite, fu colui che riconobbe per primo la responsabilità dello Stato francese dinanzi alla politica antisemita imposta dai nazisti. Queste dichiarazioni di responsabilità gli portarono grande popolarità.
+
+**Alle elezioni presidenziali del 2002 Chirac affrontò al ballottaggio il leader del Front National Jean-Marie LePen. E ottenne un risultato sconvolgente: l’82 % dei consensi.** Ciò fu possibile grazie alla cosiddetta **“disciplina repubblicana”**, vale a dire quella dottrina utilizzata da qualsiasi partito moderato quando al secondo turno si presenta l'estrema destra: sia la destra che la sinistra si impegnano a votare per il candidato che si scontra con l’estrema destra. Quindi, pur di non far vincere il candidato estremista, la sinistra vota per la destra e viceversa. Le elezioni presidenziali del 2002 sono degne di menzione perché, per la prima volta, il ballottaggio non fu tra un candidato gollista e uno socialista.
+
+Il 2002 fu però un anno importante per tutta l'Unione Europea, non solo per la Francia. Quell'anno infatti entrò in circolazione la moneta unica, l'Euro. L'introduzione della moneta unica, sebbene non adottata da tutti i Paesi membri, è stato indubbiamente uno dei momenti più significativi della storia dell'integrazione europea.
+
+ 
+
+_Nell'ultima parte dell'excursus storico osserveremo l'evoluzione di Francia e Russia dal 2002 fino ai giorni nostri._
+
+ 
+
+CIVITAS EUROPA - Divisione Relazioni Internazionali
+
+Omar Yazidi; Massimiliano Palladini
+
+ 
+
+ 
+
+**Sitografia**
+
+LaRepubblica.it
+
+Lacittafutura.it
+
+Insideover.it
+
+Bloomberg.it
+
+Ilpost.it
+
+Limes.it
+
+Euronews.it
+
+Startmag.it
+
+Russiabeyond.it
+
+Startingfinance.it
+
+Rusalia.it
+
+ 
+
+**Bibliografia**
+
+Antonio Varsori, Storia internazionale dal 1919 ad oggi, Il Mulino, 2015, Bologna
+
+Guido Formigoni, Storia della politica internazionale nell’età contemporanea, Il Mulino, 2018, Bologna

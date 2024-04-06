@@ -1,0 +1,63 @@
+---
+title: "UE e Turchia: cattivi vicini?"
+cover: /images/posts/"d7afd79f-76e2-4ec8-983f-4c855e913bd6-1552-0000024c75ca8b17.jpg"
+date: 1584885250
+authors:
+  - massimiliano-palladini
+categories: 
+  - "senza-categoria"
+tags: 
+  - "erdogan"
+  - "estefano-soler"
+  - "massimiliano-palladini"
+  - "migranti"
+  - "turchia"
+  - "unione-europea"
+---
+
+La geografia non lascia scampo. Dal punto di vista dell'Unione Europea la posizione geografica della Turchia è il primo fattore che contribuisce a rendere di primaria importanza le relazioni con Ankara, e viceversa. La Turchia – o, più correttamente l'Anatolia – è per chi proviene dal Caucaso meridionale, dal Medio Oriente e dall'Iran, un ponte per l'Europa. Questa funzione “ponte” della Turchia è stata confermata durante la crisi migratoria del 2015-2016, quando i rifugiati siriani attraversarono la penisola anatolica per raggiungere l'Europa. In seguito all'accordo siglato da Bruxelles ed Ankara per mettere fine alla crisi, la Turchia è diventata, di fatto, la guardiana dei confini dell'Unione Europea. Il riaccendersi della tensione al confine greco-turco nelle ultime settimane ha confermato questo fatto.
+
+L'utilizzo dei migranti come arma di ricatto da parte del presidente turco Recep Tayyip Erdogan ha contribuito a peggiorare una relazione, quella tra Bruxelles ed Ankara, che, seppur di capitale importanza, si è via via deteriorata nel corso degli ultimi anni. Tale relazione è importantissima non solo perché Ue e Turchia confinano, ma anche per motivi economici, energetici e militari, siccome quasi tutti gli stati membri dell'Ue sono anche membri della Nato. Questo rapporto, come si è accennato, negli ultimi anni si è incrinato. Per almeno tre motivi: l'allontanamento della Turchia dalla democrazia e il suo progressivo scivolamento verso l'autoritarismo; l'interventismo militare di Ankara nel nord della Siria; l'accordo sui migranti del 2016, grazie al quale la Turchia ha ottenuto un notevole potere di ricatto che, una volta utilizzato, ha concorso a inasprire gli animi tra Ankara e Bruxelles, come si è visto di recente.
+
+Il 2016 è un anno chiave nella storia recente delle relazioni tra Ue e Turchia. Quell'anno, oltre all'accordo sui rifugiati siriani, vide anche il tentativo di colpo di stato in Turchia (15 luglio) e l'inizio dell'operazione Scudo dell'Eufrate (24 agosto), la prima operazione militare turca in Siria. Questi ultimi due eventi, con le conseguenze che hanno prodotto, hanno causato un raffreddamento dei rapporti tra Bruxelles ed Ankara. In particolare, la dura repressione seguita al tentativo di colpo di stato, che ha coinvolto decine di migliaia di persone tra militari, insegnanti, professori universitari, funzionari pubblici e giornalisti, ha allarmato l'Ue. 
+
+  
+Una risoluzione non vincolante approvata dal Parlamento Europeo nel novembre 2016 chiese la sospensione temporanea dei negoziati di accesso della Turchia all'Ue e denunciò le “sproporzionate misure repressive” applicate dal governo turco nei confronti dei presunti sostenitori del tentato golpe. La risoluzione fu approvata a larghissima maggioranza: 479 favorevoli; 37 contrari; 107 astenuti. Nello specifico, i parlamentari europei espressero la loro contrarietà alla reintroduzione della pena di morte \[1\] . Su tale questione intervenne anche il presidente della Commissione Europea Jean-Claude Juncker. “Gli ho detto: se reintroduci la pena di morte allora è finita” disse Juncker riferendosi a una conversazione avuta con Erdogan in merito alla ripresa dei negoziati. Per il presidente della Commissione Europea la pena di morte era una linea rossa che non doveva essere superata \[2\] .
+
+Da allora le relazioni tra Ankara e Bruxelles non sono migliorate, anzi. I negoziati sono fermi dal 2016 mentre l'accentramento dei poteri da parte di Erdogan e le ulteriori offensive militari in territorio siriano hanno raffreddato ancora di più le relazioni.
+
+I rapporti della Turchia sono tesi non solo con l'Ue ma anche con gli Stati Uniti. Ankara appare sempre più come un alleato ambiguo. È evidente che Erdogan voglia rilanciare la Turchia come potenza regionale autonoma in grado di proiettare influenza all'estero facendo leva su economia, cultura e forza militare, sfruttando ovviamente la sua posizione geografica strategica. Il distacco dall'Occidente si concretizza quindi non solo in termini valoriali (allontanamento dalla democrazia) ma anche geopolitici. L'interventismo di Ankara in politica estera negli ultimi anni ha infatti incontrato l'opposizione, più o meno velata, dei suoi partner storici occidentali. La Turchia di Erdogan non vuole più essere etichettata come mero baluardo mediorientale della Nato o come ponte tra Oriente ed Occidente; bensì vuole essere riconosciuta come potenza regionale autonoma, cioè in grado di perseguire una politica estera che, in alcuni casi, si distacca, e può entrare in contrapposizione, con gli interessi americani e che, in ogni caso, viene messa in atto senza dover dipendere dalle risorse statunitensi. Tale impostazione di fondo spiega, per esempio, le varie offensive militari in Siria e l'intervento nella guerra di Libia, iniziative osteggiate dall'Ue, e la cooperazione con Russia ed Iran, avversari degli Stati Uniti, nell'ambito della guerra di Siria.
+
+In questi giorni, in particolare, la Turchia e l’Europa vivono una delle fasi più complicate del loro rapporto. La situazione dei diritti umani e delle libertà fondamentali ad Ankara è, ufficialmente, il primo impedimento per l’adesione di Ankara all’UE. Come già riportato, a decretare la battuta di arresto quasi definitiva per la candidatura turca è stata la svolta autoritaria intrapresa dal regime di Erdogan dopo il fallito golpe del 2016. Ciò non vuol dire che le relazioni tra l’Unione e la Turchia fossero state armoniose prima di allora. In più di un’occasione, ad Ankara si sono spazientiti per ciò che considerano un’attesa immotivata con la quale si ostacola la loro membership mentre dall’Europa giungono voci di preoccupazione per la violazione delle libertà fondamentali che più volte ha imperversato il la vita politica nel Paese.
+
+In precedenza, la possibile adesione della Turchia all’UE aveva suscitato un interessante dibattito tra gli stessi membri fondatori. La candidatura era stata formalmente accettata nel 1999 e i negoziati erano stati avviati all’unanimità nel 2005 ma Ankara non ha mai soddisfatto i requisiti per entrare nell’UE. Le riforme promesse non sono mai state avviate. Così, un primo freno all’adesione è stato posto nel 2007, durante la visita dell’allora presidente francese ad Ankara, il quale argomentando la non appartenenza di quest’ultima all’Europa, ha messo sul tavolo la possibilità di una partnership speciale. In risposta, il Primo ministro Gul ha ribadito l’obiettivo della Turchia di entrare a far parte dell’UE ma ciò non ha potuto evitare il congelamento dei negoziati.
+
+Come abbiamo accennato all’inizio, l’instabilità politica vissuta dopo il tentato golpe del 2016 ha segnato uno spartiacque nelle relazioni tra Ankara e Bruxelles. La caccia alle streghe e le drastiche misure adottate da Erdogan per annientare ogni avversario politico e garantire così la propria permanenza al potere hanno contribuito ad archiviare, all’unanimità, la candidatura di Ankara. Date le condizioni, lo stesso Presidente della Commissione Jean-Claude Junker aveva dichiarato le proprie perplessità sull’operato della Turchia che, a suo avviso, appariva intenzionata a “spingere all’interruzione dei negoziati per poi dare la colpa all’UE” \[3\].
+
+La chiusura o l’acquisto forzato dei media e delle catene radiotelevisive; l’ostracismo, le persecuzioni e la violenza politica nei confronti della dissidenza; l’imprigionamento di alcuni giornalisti e il controllo sui siti web e socialnetwork nel Paese, hanno posizionato la Turchia (nel 2018) al 157° posto sui 180 Paesi analizzati dell’indice sulla libertà di stampa pubblicato dall’ONG _Reporters Without Borde_rs \[4\] L’assenza di un debito processo è stata la costante di tutte queste condanne eseguite secondo criteri e interessi politici.
+
+Dopo uno Stato di emergenza durato almeno due anni, lo Stato di diritto ha subito una profonda regressione in Turchia. Conducendo il Paese verso l’estremo del Presidenzialismo, Erdogan ha riformato la costituzione diminuendo i poteri del Parlamento. Tra l’altro, le misure adottate nel pieno dell’emergenza si sono sedimentate nell’ordinamento giuridico sotto la figura di norme antiterrorismo. Secondo lo stesso Ministero di Giustizia, su una popolazione carceraria di 246.426 persone, almeno 48.924 sono condannati per “terrorismo”. E in questo calderone, almeno 34.241 sono imputati per la loro presunta affiliazione col gruppo FETO a cui fa capo il dissidente Gulen, il quale è stato segnalato da Erdogan come l’autore intellettuale del tentato golpe. Altri invece sono imputati per affiliazione al Partito dei Lavoratori del Kurdistan e allo Stato islamico \[5\]. Sotto queste condizioni, caratterizzate dalla censura, dalla repressione e dalla persecuzione come meccanismo per silenziare ogni voce dissidente, Erdogan è stato rieletto presidente nel giugno 2018.
+
+A questo punto potremmo essere tentati di giudicare come “chiusa” la pagina UE-Turchia ma, realisticamente parlando, entrambe le parti restano e resteranno intrecciate sia geografica che strategicamente. In effetti, è inutile cercare di far pressione sul regime turco per le continue violazioni dei diritti fondamentali, se dall’altra parte gli abbiamo delegato loro la custodia delle nostre frontiere orientali. Pur contenendo gli inarrestabili flussi migratori, l’accordo sulla rotta dei Balcani, che è costato all’UE circa 6 miliardi di euro in cambio dell’accoglienza di più o meno 3,6 milioni di profughi siriani, ha finito per intrecciare il nostro destino a quello di Ankara.
+
+In altre parole, il potere di ricatto di un partner indesiderato sembra il prezzo da pagare per non aver assunto, sin dall’inizio, una responsabilità diretta sulle frontiere comunitarie. L’ironia ha voluto che, pur restando lontano dall’UE, il Sultano avesse in mano le chiavi del nostro condominio.
+
+* * *
+
+CIVITAS EUROPA – Divisione Relazioni internazionali
+
+Dr. Massimiliano Palladini, Dr. Estefano Soler
+
+* * *
+
+\[1\] "Freeze EU accession talks with Turkey until it halts repression, urge MEPs", europarl.europa.eu, 24 novembre 2016. Ultimo accesso 22 marzo 2020.
+
+\[2\] "Death penalty in Turkey would mean end to Turkey accession talks: Juncker", reuters.com, 31 maggio 2017. Ultimo accesso 22 marzo 2020.
+
+\[3\] Si veda l’articolo _“Turkey-EU relations: Which countries are for or against Turkish accession?” (DW)_
+
+https://www.dw.com/en/turkey-eu-relations-which-countries-are-for-or-against-turkish-accession/a-40381533
+
+\[4\] Si veda lo studio pubblicato da Reporters Sans Frontieres/Reporters Without Borders https://rsf.org/en/turkey.
+
+\[5\] Si veda il report di Human Rights Watch sulla Turchia (2018) [https://www.hrw.orghttps://www.hrw.org/world-report/2019/country-chapters/turkey/world-report/2019/country-chapters/turkey](https://www.hrw.org/world-report/2019/country-chapters/turkey).

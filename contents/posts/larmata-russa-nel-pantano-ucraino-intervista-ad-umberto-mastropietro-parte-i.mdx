@@ -1,0 +1,79 @@
+---
+title: "L'armata russa nel pantano ucraino: intervista ad Umberto Mastropietro (parte I)"
+cover: /images/posts/"f5c64-soldato-russo.jpg"
+date: 1650611449
+authors:
+  - civitas-europa
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "corridoio-di-suwalki"
+  - "donbass"
+  - "guerra-russo-ucraina"
+  - "nato"
+  - "russia"
+  - "ucraina"
+  - "umberto-mastropietro"
+  - "vladimir-putin"
+  - "volodymyr-zelensky"
+---
+
+Civitas Europa ha avuto il piacere di intervistare **Umberto Mastropietro**, ex militare attivo nella riserva dell'esercito tedesco, autore per diverse riviste tedesche di tattica e strategia nonché consigliere del [Comites di Berlino](http://www.comites-berlin.de/). L'intervista, che pubblichiamo in due parti, si è concentrata sugli aspetti prettamente militari dell'invasione russa dell'Ucraina.
+
+_**Il presidente Volodymyr Zelenksyy, oltre a chiedere il blocco dei cieli (No fly zone), ha fatto richiesta anche di carri armati e caccia: potrebbero questi strumenti essere davvero utili per la strategia ucraina o sarebbe meglio continuare col modello di Urban Warfare?**_
+
+Bisogna comprendere che la strategia ucraina si basava su uno svolgimento dell'attacco da parte dei russi diverso da quello poi effettuato. Lo scopo principale della resistenza ucraina era infliggere più perdite possibili alle grandi unità russe su un fronte che si prevedeva più liquido. Le truppe sono state quindi addestrate a operare in piccoli gruppi dotati di armi anticarro portatili.
+
+L'inaspettato disorientamento delle truppe russe, sbilanciate in una formazione offensiva e con difficoltà logistiche, ha dato agli ucraini la possibilità di sferrare un contrattacco ma non dispongono di aerei e carri a sufficienza per poter affrontare i russi in una battaglia campale. Se gli ucraini disponessero di un numero sufficiente di mezzi corazzati da combattimento, aerei per assicurare la superiorità nei cieli e caccia bombardieri per colpire i russi in ritirata potrebbero effettivamente vincere una serie di scontri a livello tattico molto importanti per allentare la pressione sui centri abitati, demoralizzare ulteriormente le truppe russe e aumentare il proprio morale.
+
+In ogni caso carri armati e aerei non bastano per formare un'armata. C'è bisogno di apparati logistici, di comunicazione, catene di comando, ospedali da campo, munizioni, carburante, pezzi di ricambio.
+
+**_Parlando di organizzazione degli eserciti, qual è il modello tattico operativo dell’esercito ucraino? Quanti militari conta? Negli ultimi otto anni gli Stati Uniti hanno addestrato l'esercito ucraino? È vero che gli ucraini si sono addestrati all'Urban Warfare?_**
+
+L'esercito ucraino ha a disposizione circa 170.000 militari regolari e addestrati oltre a un numero imprecisato (ma probabilmente vicino alle 100.000 unità) di irregolari e truppe territoriali.
+
+Un vero e proprio programma di addestramento da parte degli Stati Uniti in Ucraina non è avvenuto. È risaputo che la Russia ha infiltrato parecchie spie all'interno dell'esercito ucraino ed un programma di addestramento diretto sarebbe stato subito scoperto. Il governo statunitense ha però confermato che il SAD (Special Activities Division, un'unità paramilitare al servizio della CIA) ha addestrato gruppi scelti di militari ucraini ma solo in tattiche difensive, potenziandone le capacità di contrattaccare contro i russi.
+
+È plausibile che gli ucraini siano stati addestrati proprio all'Urban Warfare, un ambiente in cui le forze armate russe hanno dei deficit e dove è più facile contrastare le loro truppe, poiché normalmente montate su mezzi corazzati che sono poco efficienti in centri urbani.
+
+**_Quali erano gli obiettivi tattici iniziali della Russia e quali possono essere adesso? Si può affermare che i piani siano cambiati in itinere?_** 
+
+Su quali fossero le intenzioni russe è difficile speculare. Sicuramente il modo con cui hanno svolto questa operazione è contrario alla loro dottrina militare che prevede offensive che "scorrano come l'acqua" ed evitino centri di resistenza che vengono di solito aggirati e isolati.
+
+I centri urbani vengono normalmente assediati. Si tagliano i rifornimenti, l'acqua, l'energia elettrica, si occupano gli aeroporti con truppe aviotrasportate, si cerca di eliminare la classe politica locale con attacchi aerei, missilistici o raid di forze speciali.
+
+Questo tipo di operazioni ha una durata di 7-14 giorni ed ha come obiettivi: 1) l’eliminazione possibilmente a terra della forza aerea avversaria;  2) la distruzione dei sistemi radar ed anti-aerei; 3) l'occupazione delle principali arterie stradali e ferroviarie; 4) l'occupazione del numero maggiore di chilometri quadrati di territorio nemico; 5) costringere il nemico a combattimenti in campo aperto dove sfruttare la propria maggiore potenza di fuoco e superiorità numerica. Il tutto avanzando in maniera omogenea e veloce, evitando punte avanzate in profondità o di proiettare le proprie unità in salienti troppo esposti.
+
+Nel frattempo si cerca una soluzione diplomatica parlamentando da un punto di forza.  Se la diplomazia dovesse fallire, si ricorre alla distruzione sistematica dei centri di resistenza urbani facendo uso massiccio di artiglieria pesante e attacchi aerei per poi avanzare con la fanteria e occupare quartiere dopo quartiere la città.
+
+In quest’offensiva invece i russi hanno operato diversamente. Hanno lanciato la fanteria con poche riserve e scarso appoggio logistico in profondità ai lati dello schieramento ucraino e soprattutto hanno inviato le truppe corazzate e meccanizzate direttamente contro i centri urbani, come Kiev o Mariupol. Ciò mi fa sospettare che Putin sperasse in un collasso delle truppe ucraine o che il comando ucraino deponesse il presidente Zelenskyy.
+
+Tutte le operazioni sono state di scarso valore tattico e avevano più il compito d' impressionare i soldati ucraini e chiudere così la partita in poche ore o pochi giorni. È chiaro secondo me che l'aspetto politico-propagandistico imposto da Putin abbia costretto i generali russi a un attacco azzardato e svolto contrariamente ai metodi e alle tattiche per cui i soldati sono stati addestrati.
+
+Il caos creato dall'adozione di una strategia non ortodossa per un esercito, quello russo, in cui la dottrina militare unitaria è fondamentale (molto più che negli eserciti NATO) è provato anche dal grosso numero di ufficiali superiori e generali uccisi in prossimità del fronte dai cecchini ucraini. I comandi sono dovuti avanzare per rendersi conto della situazione. Un reggimento russo solitamente avanza su un fronte profondo circa 50 chilometri e largo poco più di 5 con il comando a 40 chilometri dalle punte esplorative, non a tiro delle armi leggere.
+
+Per riassumere gli errori russi: una vera e propria sottovalutazione della capacità di resistenza delle forze ucraine (che si addestrano dal 2014 a questo scenario); una tremenda sottovalutazione delle capacità di intelligence ucraine che, coadiuvate dagli Stati Uniti, hanno saputo ben contrastare l'avanzata e schivare gli attacchi preparatori russi; una sottovalutazione della capacità di sopportazione della popolazione e una sopravvalutazione della volontà di questa di essere "liberata".
+
+Probabilmente Putin è stato vittima della sua stessa propaganda mentre i pur competenti generali russi non hanno avuto il coraggio di opporsi ai piani da lui imposti.
+
+**_Il corridoio di Suwalki che collega la Bielorussia a Kaliningrad è un potenziale bersaglio di future azioni russe? È un punto difendibile dalla NATO?_**
+
+Il corridoio di Suwalki, allo stato attuale, è imprendibile da parte dell'esercito russo. I collegamenti ferroviari sono troppo pochi e le strade sono troppo malridotte. Si tratterebbe in ogni caso dello scoppio della terza guerra mondiale.
+
+Un attacco attraverso la Bielorussia è improbabile perché un coinvolgimento di questa in un eventuale conflitto aprirebbe centinaia di chilometri di fronte poco difendibile. Tra Hrodna e Brest il terreno è poco praticabile da truppe corazzate o meccanizzate russe, che sarebbero costrette a un attacco verso la Polonia per evitare in quei luoghi una difesa statica che sarebbe facile preda dell'aviazione NATO e della fanteria polacca.
+
+Credo che alla Russia convenga di più una Bielorussia non belligerante. Un attacco dalla Russia verso Kalliningrad dovrebbe quasi obbligatoriamente avvenire da est verso ovest, ma prevederebbe l'occupazione di Vilnius, Alytus e infine Marijampolé. Tre centri abitati troppo grandi per essere conquistati velocemente, cioè prima che arrivino ulteriori rinforzi NATO per la Lituania.
+
+Attaccare da Kaliningrad , cioè da ovest verso est, è altrettanto improbabile perché il rifornimento via mare di un grande numero di soldati sarebbe insostenibile per la Russia che non può sperare di ottenere la superiorità navale nel Baltico. Io credo piuttosto che in quella zona i russi manterrebbero una forza di difesa ben fortificata in attesa che le forze russe arrivino da nord-est, se Estonia e Lettonia capitolassero e la Lituania fosse attaccata da tre lati.
+
+Nel 2017 russi e bielorussi simularono un attacco in quella zona con 23.000 soldati. L'esercitazione fu dichiarata un successo ma si trattava di un attacco di sorpresa e in ogni caso questi "successi" sono spesso esagerati per uso interno. Oggi la situazione è differente.
+
+ 
+
+_Nei prossimi giorni pubblicheremo sul nostro sito la seconda parte dell'intervista._
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI

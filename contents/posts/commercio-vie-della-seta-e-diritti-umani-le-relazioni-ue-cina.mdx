@@ -1,0 +1,100 @@
+---
+title: "Commercio, vie della seta e diritti umani: le relazioni Ue-Cina"
+cover: /images/posts/"4877d-europa-china-c-gettyimages-922565946.jpg"
+date: 1621933972
+authors:
+  - civitas-europa
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "belt-and-road-initiative"
+  - "bruxelles"
+  - "cina"
+  - "diritti-umani"
+  - "indo-pacifico"
+  - "mar-cinese-meridionale"
+  - "mar-cinese-orientale"
+  - "nuove-vie-della-seta"
+  - "pechino"
+  - "stati-uniti"
+  - "ue"
+  - "uiguri"
+---
+
+Fare il resoconto in poche righe delle relazioni tra l'Unione Europea e la Cina non è cosa semplice. A partire dalla nascita dell'Unione nel 1992, la Cina ha conosciuto un'impressionante crescita economica senza precedenti nella storia che ne ha accresciuto l'importanza agli occhi di Bruxelles, tant'è che negli ultimi anni si è imposta tra i principali partner commerciali dell'Unione. Contemporaneamente, dato l'interesse reciproco, il governo cinese ha lanciato la Belt and Road Initiative (Bri), ambiziosissimo insieme di progetti infrastrutturali che mira, in ultima istanza, ad aumentare le relazioni commerciali tra le due estremità dell'Eurasia. Tuttavia vi sono anche delle criticità: diritti umani, sanzioni incrociate, dispute nei Mari Cinesi e un terzo incomodo.
+
+Vediamo separatamente ciascuno di questi aspetti.
+
+**Commercio e Bri**
+
+Come anticipato, grazie alla rapida crescita economica degli ultimi decenni, la Cina è diventata uno dei principali partner commerciali dell'Unione. Nel decennio 2010-2020 le esportazioni di merci europee verso la Cina sono quasi raddoppiate passando da 105 miliardi di euro a 203 miliardi, mentre le importazioni sono passate da 239 miliardi ( nel 2013) a 383 miliardi (nel 2020). Nell'anno della pandemia la Cina è stata la prima fonte di importazione di merci (22,4 %), quasi doppiando gli Stati Uniti (11,8 %), e la terza destinazione per le esportazioni di merci europee.
+
+Osservando i singoli Stati membri salta subito all'occhio come la Germania traini le esportazioni europee verso la Cina. Le esportazioni tedesche valgono ben 96 426 milioni di euro, seguite a lunghissima distanza da quelle francesi (17 493 milioni) e da quelle olandesi (15 692 milioni). \[1\]
+
+Per quanto riguarda la Bri, due terzi degli Stati membri Ue ne fanno formalmente parte. Gli investimenti cinesi hanno riguardato soprattutto la Grecia, dove la Cosco ha ammodernato il porto del Pireo, il Portogallo, dove la Cina sta investendo nel settore energetico e nelle infrastrutture portuali, e l'Ungheria, dove è in fase di costruzione la linea ferroviaria ad alta velocità Budapest-Belgrado. \[2\]
+
+L'Italia, in seguito all'adesione alla Bri nel marzo 2019, non ha visto un significativo incremento dell'interscambio con la Cina, né la concretizzazione di investimenti infrastrutturali. Secondo Francesca Ghiretti, ricercatrice dell'Istituto Affari Internazionali (Iai), ciò è dovuto a tre ragioni, due di carattere esterno e una di carattere interno: l'incremento della pressione statunitense sugli alleati europei; la pandemia di Covid-19; l'instabilità politica italiana, che ha visto avvicendarsi ben tre governi dall'inizio della legislatura. \[3\]
+
+**La questione dei diritti umani**
+
+Recentemente l'Unione Europea ha deciso di porre i diritti umani al centro delle relazioni  con la Cina, chiedendo che Pechino sia maggiormente sensibile da questo punto di vista. In sostanza, per Bruxelles il rispetto dei diritti umani da parte cinese è una condizione necessaria per approfondire ulteriormente le relazioni.
+
+La disputa è scoppiata lo scorso marzo quando l'Unione ha deciso di sanzionare alcuni funzionari cinesi coinvolti nella repressione degli uiguri dello Xinjiang, minoranza turcofona e di religione musulmana che da anni Pechino sta cercando di sinizzare con la forza. Per la prima volta dal massacro di piazza Tienanmen del 1989 le istituzioni europee hanno deciso di sanzionare la Cina per questioni relative al rispetto dei diritti umani. La risposta cinese non si è fatta attendere: Pechino a sua volta ha sanzionato funzionari ed entità legate all'Unione Europea. \[4\]
+
+La disputa sui diritti umani ha avuto delle importanti conseguenze in ambito economico e politico poiché la ratifica del Comprehensive Agreement on Investment (Cai), l'importante accordo sugli investimenti siglato lo scorso dicembre, è stata bloccata dal Parlamento europeo. \[5\]
+
+La recente crisi sui diritti umani ha portato le relazioni Ue-Cina in una fase di stallo. Le sanzioni reciproche hanno bloccato la ratifica e l'implementazione del Cai, pregiudicando quindi lo sfruttamento delle opportunità di investimento per le imprese europee e cinesi. L'attuale impasse potrebbe anche rivelarsi un freno per il commercio sino-europeo che, come abbiamo visto, è in costante crescita da anni.
+
+**Le dispute nei Mari Cinesi**
+
+Un'altra questione potenzialmente in grado di peggiorare le relazioni Ue-Cina è quella relativa alle dispute nel Mar Cinese Meridionale e in quello Orientale. La Cina rivendica porzioni di questi mari e sta militarizzando atolli e scogli nel Mar Cinese Meridionale, creando così tensioni con i paesi rivieraschi e gli Stati Uniti. Non è da escludere che venga richiesto agli Stati europei di aumentare la presenza di forze navali nella regione. La nuova amministrazione statunitense è infatti intenzionata a creare un ampio fronte di contenimento della Cina in modo da dissuaderla dal compiere atti di forza.
+
+In aprile il Giappone ha chiesto alla Germania di inviare una nave da guerra per compiere esercitazioni militari congiunte, mentre pochi giorni fa forze navali francesi hanno condotto, per la prima volta, esercitazioni militari insieme ai giapponesi e agli americani. \[6\]
+
+Pure il Regno Unito farà sentire la sua presenza nella regione. Nelle prossime settimane la portaerei Queen Elizabeth, ammiraglia della Royal Navy britannica, compirà una missione nell'Indo-Pacifico, transiterà per il Mar Cinese Meridionale e compirà esercitazioni congiunte con la marina nipponica. È possibile che in futuro le acque di quella regione verranno solcate anche dalla marina italiana. \[7\]
+
+L'incremento dell'interesse europeo per l'Indo-Pacifico, testimoniato anche da alcuni recenti documenti redatti dai governi francese e tedesco \[8\], è conseguenza della crescente assertività cinese, delle dispute marittime e della volontà statunitense di creare un ampio fronte anti-Pechino. È probabile che la presenza navale europea nella regione aumenterà all'aumentare della tensione tra la Cina, gli Stati Uniti e i loro alleati regionali.
+
+**Il terzo incomodo: gli Stati Uniti**
+
+Le relazioni Ue-Cina sono un tema molto sensibile per gli Stati Uniti. Washington vede in Pechino il principale rivale strategico di cui bisogna contenere l'ascesa e limitare la diffusione dell'influenza, specialmente verso gli alleati storici. Nella relazione Bruxelles-Pechino c'è quindi un terzo incomodo, Washington, intenzionata ad impedire che l'Ue si avvicini troppo alla Cina.
+
+Le manifestazioni di questa postura si sono fatte palesi in occasione dell'adesione italiana alla Bri e durante la disputa sullo sviluppo delle reti 5G. Gli Stati Uniti hanno fatto pressione sui governi europei affinché escludessero la cinese Huawei dai bandi per la costruzione di tali reti. \[9\]
+
+Inoltre, la crisi sino-europea sui diritti umani è stata sfruttata dagli Stati Uniti per creare un più ampio fronte. Infatti, l'imposizione di sanzioni ai funzionari cinesi non fu un'iniziativa esclusivamente europea bensì un'azione portata avanti anche da Stati Uniti, Regno Unito e Canada. \[10\]
+
+Portare la rivalità con la Cina sul piano dei valori e delle differenze di sistema politico serve agli Stati Uniti per compattare il blocco occidentale. È ragionevole supporre che il congelamento della ratifica del Cai sia stato ben accolto a Washington, in quanto manifestazione dello stallo nelle relazioni Bruxelles-Pechino.
+
+Stretta tra autonomia, atlantismo e volontà di esportare i diritti umani, per l'Ue la Cina si presenta come un vero e proprio rompicapo. Che fare? Nel prossimo articolo parleremo di come l'Unione dovrebbe relazionarsi con Pechino.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] "China-EU international trade in goods statistics", ec.europa.eu, 25 marzo 2021. Ultimo accesso 22 maggio 2021
+
+\[2\] "The Belt and Road Initiative: forcing Europe to reckon with China?", cfr.org, 27 aprile 2021. Ultimo accesso 22 maggio 2021.
+
+\[3\] "The Belt and Road in Italy: 2 years later", thediplomat.com, 23 marzo 2021. Ultimo accesso 22 maggio 2021.
+
+\[4\] "EU-China investment deal put on ice over sanctions", dw.com, 4 aprile 2021. Ultimo accesso 22 maggio 2021.
+
+\[5\] "EU parliament freezes China deal ratifications until Beijing lifts sanctions", reuters.com, 21 maggio 2021. Ultimo accesso 22 maggio 2021.
+
+\[6\] Per la richiesta giapponese alla Germania vedere "Japan seeks German help to counter China's clout in Indo-Pacific", dw.com, 14 aprile 2021. Per le esercitazioni tra Francia, Giappone e Stati Uniti vedere "Japan conducts first joint drills with France and the US with eye on China, North Korea", scmp.com, 11 maggio 2021. Ultimo accesso a entrambi 22 maggio 2021.
+
+\[7\] Per il viaggio della HMS Queen Elizabeth vedere "HMS Queen Elizabeth: why is a UK aircraft carrier going on a world tour?", bbc.com, 21 maggio 2021. Per la possibile visita della marina italiana nella regione vedere "Gli alleati chiamano l'Italia nel Mar Cinese Meridionale", limesonline.com, 10 novembre 2020. Ultimo accesso a entrambi 22 maggio 2021.
+
+\[8\] Per il documento del governo francese vedere "France's partnership in the Indo-Pacific", diplomatie.gouv.fr, aprile 2021. Per il documento del governo tedesco vedere "Policy guidelines for the Indo-Pacific region", rangun.diplo.de, settembre 2020. Ultimo accesso a entrambi 22 maggio 2021.
+
+\[9\] Vedere nota 3.
+
+\[10\] "West sanctions China over Xinjiang abuses, Beijing hits back at EU", reuters.com, 22 marzo 2021. Ultimo accesso 22 maggio 2021.

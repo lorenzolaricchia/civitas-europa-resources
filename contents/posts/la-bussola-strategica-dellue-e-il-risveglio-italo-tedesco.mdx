@@ -1,0 +1,65 @@
+---
+title: "La Bussola strategica dell'Ue e il risveglio italo-tedesco"
+cover: /images/posts/"1bc3b-draghi-scholz.jpg"
+date: 1648196625
+authors:
+  - massimiliano-palladini
+categories: 
+  - "articoli"
+  - "articoli-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "autonomia-strategica-europea"
+  - "bussola-strategica"
+  - "germania"
+  - "guerra-russo-ucraina"
+  - "italia"
+  - "nato"
+  - "russia"
+  - "ucraina"
+  - "ue"
+  - "unione-europea"
+  - "ursula-von-der-leyen"
+---
+
+_"Il mondo che abbiamo davanti sta subendo cambiamenti rapidi e drastici. In Europa è scoppiata una guerra di grave portata. Come Unione europea, stiamo adottando azioni immediate e senza precedenti. Insieme ai nostri partner, difendiamo l'ordine di sicurezza europeo e globale e rafforziamo la nostra posizione geopolitica"_ \[1\]
+
+Il 21 marzo scorso il Consiglio dei ministri degli affari esteri e della difesa dell'Unione Europea ha formalmente approvato la Bussola strategica, ovvero il "piano d'azione per rafforzare la politica di sicurezza e di difesa dell'UE entro il 2030". \[2\]
+
+Il progetto della Bussola strategica era in cantiere già da tempo ma il destino ha voluto che la sua approvazione formale coincidesse con l'invasione russa dell'Ucraina. Si tratta del più grande conflitto interstatale combattuto in Europa dai tempi della Seconda guerra mondiale. La drammaticità della situazione in Ucraina e le conseguenze della guerra sul sistema internazionale impongono all'Unione Europea di accelerare il passo lungo il cammino che porta all'autonomia strategica _parziale_ \[3\]. Come disse Ursula Von der Leyen in tempi non sospetti, "l'Europa deve imparare anche il linguaggio della potenza". \[4\]
+
+La Bussola strategica si divide in quattro ambiti: azione, sicurezza, investimenti, partner. Tra i progetti più ambiziosi vi è quello di dotare l'Unione di una capacità di dispiegamento rapido composta da un massimo di 5000 militari \[5\]. Si tratta a tutti gli effetti dell'embrione di un esercito europeo. Il documento approvato dal Consiglio dell'Ue tocca numerosi argomenti cruciali per l'autonomia strategica: esercitazioni congiunte; potenziamento delle capacità d'intelligence; sicurezza informatica; istituzione di un polo di innovazione nel settore della difesa; coordinamento delle spese militari degli Stati membri; dialogo e cooperazione con i partner; eccetera.
+
+L'elaborazione della Bussola strategica va di pari passo con l'aumento della spesa in armamenti deciso da molti paesi europei. Dopo la Germania, anche l'Italia si avvia verso un netto aumento della quota di bilancio dedicata a questo settore; così facendo il nostro paese raggiungerà l'obiettivo del 2 % del Pil investito in difesa \[6\].
+
+Questa soglia era stata stabilita dalla Nato nel 2014 in seguito all'annessione della Crimea e all'intervento russo nel Donbass. Tuttavia, l'impegno del 2 % era stato onorato da pochissimi Stati. L'invasione russa dell'Ucraina ha però convinto anche i paesi più prudenti - tra i quali vi erano proprio Germania ed Italia - a investire risorse per potenziare le forze armate.
+
+[Come abbiamo già notato in un precedente articolo](https://civitaseuropadoteu.wordpress.com/2022/03/08/le-conseguenze-della-guerra-in-ucraina-sugli-equilibri-internazionali/), la decisione del governo tedesco di investire 100 miliardi di euro nella difesa è particolarmente significativa. Finora la riluttanza tedesca ha rappresentato un grosso ostacolo verso l'autonomia strategica dell'Unione. Volente o nolente, la Germania è il paese più importante dell'Unione per via del suo peso demografico ed economico. Pertanto, senza la Germania  non è possibile portare avanti un progetto europeo così importante ed ambizioso come quello dell'autonomia strategica.
+
+La competizione tra le grandi potenze, esacerbata dall'aggressione russa dell'Ucraina, è un dato di fatto ineluttabile e probabilmente si aggraverà nei prossimi anni e decenni. Considerata l'instabilità del contesto internazionale, è tempo che la  Germania si assuma le proprie responsabilità politiche in seno all'Unione Europea.
+
+Le istituzioni comunitarie redigono piani e predispongono progetti - come la Bussola strategica - che necessitano l'impegno concreto degli Stati membri per essere attuati. L'approvazione espressa nelle sedi istituzionali e le dichiarazioni d'intenti sono insufficienti. L'impegno concreto implica lo stanziamento e l'investimento di risorse, che sono una manifestazione di volontà politica.
+
+Finora Germania e Italia si sono mostrate molto prudenti nei confronti dell'autonomia strategica, lasciando alla Francia il ruolo di portavoce solitario delle istanze autonomiste europee. Se è vero che non vi può essere un'autonomia strategica europea senza un'intesa tra i tre principali paesi dell'Unione, allo stesso tempo bisogna notare che l'aumento della spesa in armamenti è un passaggio necessario ma non sufficiente per rendere l'Unione Europea più autonoma sullo scacchiere internazionale. Occorre anche implementare i progetti contenuti nella Bussola strategica. Ciò comporta diventare consapevoli una volta per tutte che gli Stati europei non possono fare affidamento esclusivo sulla Nato.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] _Una bussola strategica per la sicurezza e la difesa. Per un'Unione europea che protegge i suoi cittadini, i suoi valori e i suoi interessi e contribuisce alla pace e alla sicurezza internazionali_, data.consilium.europa.eu, 21 marzo 2022, p.47, https://data.consilium.europa.eu/doc/document/ST-7371-2022-INIT/it/pdf.
+
+\[2\] _Una bussola strategica per rafforzare la sicurezza e la difesa dell'UE nel prossimo decennio_, consilium.europa.eu, 21 marzo 2022, https://www.consilium.europa.eu/it/press/press-releases/2022/03/21/a-strategic-compass-for-a-stronger-eu-security-and-defence-in-the-next-decade/.
+
+\[3\] Distinguiamo l'autonomia strategica europea _parziale_ da quella _totale_. L'autonomia parziale è complementare alla Nato. L'Unione Europea si dota di capacità d'intelligence e militari autonome ma senza pregiudicare i legami transatlantici. L'autonomia totale implica la fine della Nato, il ritiro degli Stati Uniti dall'Europa e una maggiore integrazione a livello politico - se non una vera e propria unificazione - tra gli Stati membri dell'Ue. In questo quadro l'Unione Europea si configura come attore politico totalmente sovrano ed indipendente, quindi svincolato dai legami transatlantici. In questo articolo si fa riferimento esclusivamente all'eventuale autonomia parziale.
+
+\[4\] "Von der Leyen: "Europe must learn the language of power", dw.com, 8 novembre 2019, https://www.dw.com/en/von-der-leyen-europe-must-learn-the-language-of-power/a-51172902.
+
+\[5\] "Entro il 2025 sarà pienamente operativa una capacità di dispiegamento rapido dell'UE in grado di permettere il rapido dispiegamento di una forza modulare di un massimo di 5 000 militari in ambiente non permissivo. A tal fine concorderemo scenari operativi nel 2022. A partire dal 2023 esercitazioni reali periodiche contribuiranno alla prontezza e all'interoperabilità". _Una bussola strategica per la sicurezza e la difesa_, data.consilium.europa.eu, 21 marzo 2022, p. 25, https://data.consilium.europa.eu/doc/document/ST-7371-2022-INIT/it/pdf.
+
+\[6\] "Ucraina, sulle armi Draghi sfida i malumori nella maggioranza: spesa Difesa al 2 % del Pil", ilsole24ore.com, 23 marzo 2022, https://www.ilsole24ore.com/art/ucraina-armi-draghi-sfida-malumori-maggioranza-spesa-difesa-2percento-pil-AEhzDDMB .

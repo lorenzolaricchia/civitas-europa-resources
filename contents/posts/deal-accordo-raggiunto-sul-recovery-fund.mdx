@@ -1,0 +1,76 @@
+---
+title: "Deal! Accordo raggiunto sul Recovery Fund"
+cover: /images/posts/"8652d-deal.jpg"
+date: 1595524296
+authors:
+  - riccardo-raspanti
+categories: 
+  - "articoli"
+  - "articoli-economia"
+tags: 
+  - "angela-merkel"
+  - "bruxelles"
+  - "commissione-europea"
+  - "consiglio-europeo"
+  - "emmanuel-macron"
+  - "mes"
+  - "recoveryfund"
+  - "ue"
+  - "ursula-von-der-leyen"
+  - "visegrad"
+  - "web-tax"
+---
+
+Dopo quattro giorni e quattro notti di negoziati, i leaders europei sono giunti ad un accordo. Il confronto sul _Recovery Fund_ è stato serrato: per mesi si è dubitato della possibilità che lo strumento vedesse la luce, eppure la convergenza è stata trovata.
+
+Il compromesso è frutto di una commistione delle diverse posizioni in campo: da una parte lo schieramento dei “paesi frugali” (Olanda, Austria, Svezia, Danimarca e Finlandia), dall’altra il resto dell’Unione, sebbene con svariate sfumature. L’Italia e l’Olanda, rispettivamente il paese più colpito e quello più intransigente, si sono scontrate duramente.
+
+Ad avvicinare i due “litiganti” sono stati Germania e Francia, portatori della proposta da 750 miliardi[\[1\]](#_ftn1) e “pacieri” della discussione. Con l’appoggio della Spagna, Merkel e Macron hanno trovato il modo di soddisfare gli interessi di tutti gli attori coinvolti.
+
+Il gruppo di Visegrad, invece, si è ritagliato un ruolo più marginale. Ungheria e Polonia, in particolare, si sono limitate ad adoperarsi per far rimuovere la clausola di accesso ai fondi relativa al rispetto dello stato di diritto.
+
+E’ importante sottolineare che la faglia di divisione tra i blocchi in campo non ha riguardato questioni ideologiche (ad esempio, tre dei governi “frugali” sono social-democratici, uno liberale e uno conservatore), quanto visioni differenti sul ruolo e le funzioni dell’Unione, influenzate dai rispettivi contesti nazionali. Tre sono gli esempi più esplicativi: in Italia, l’opinione pubblica mantiene un atteggiamento euroscettico nei confronti di un’Unione ritenuta “poco solidale”. In Olanda, dopo lo scampato pericolo alle elezioni europee dell’anno scorso, le forze politiche prestano molta attenzione a non offrire in fianco alla narrazione sovranista, che critica l’Europa come istituzione che foraggia il “sud spendaccione” con i soldi del nord. Infine, il caso della Germania, dove Angela Merkel sta per uscire di scena e la lotta per la leadership nella CDU vede candidati maggiormente euroscettici salire alla ribalta. Al contempo, l’opinione pubblica tedesca sta vivendo una nuova stagione di euro entusiasmo, trainata dal voto giovanile.
+
+Di queste situazioni è necessario tenere conto, per valutare l’influenza che la politica nazionale esercita sulle decisioni europee.
+
+Ma torniamo al _Recovery Fund_. L’importo totale è rimasto invariato: 750 miliardi di euro, 390 miliardi in _grants_ (sovvenzioni) e 360 miliardi in _loans_ (prestiti)[\[2\]](#_ftn2). Le garanzie necessarie alla Commissione per indebitarsi sui mercati internazionali provengono dal bilancio dell’Unione Europea, ovvero le risorse a disposizione esclusiva dell’azione comunitaria. Una grossa fetta di queste è data dalle contribuzioni annuali degli stati membri, che sono state ricalibrate per coprire l’aumento del denaro a disposizione senza gravare sui paesi più colpiti. Ad esempio, la Germania da sola coprirà 200 miliardi in garanzie. L’erogazione dei fondi sarà condizionata all’analisi dei programmi di riforma, di cui si incaricheranno Commissione e Consiglio.
+
+I “frugali”, che inizialmente chiedeva un riconversione in prestiti di tutte le risorse, hanno ottenuto un riequilibrio parziale delle sovvenzioni e l’inserimento del “_emergency brake_” sui programmi di riforma approvati dalla Commissione. Il Consiglio Europeo, infatti, potrà chiedere la modifica con un voto a maggioranza qualificata (55% degli stati membri, rappresentanti almeno il 65% della popolazione UE). Inoltre gli è stato accordato uno sconto sulla quota di contribuzione al fondo.
+
+L’Italia, da parte sua, ha ottenuto un importo maggiore di quello inizialmente destinatogli, con questi 209 miliardi di euro che costituiscono il 28% del _Recovery Fund_ e circa l’11% del piano di interventi _Next Generation EU_.
+
+Il fondo introduce diverse novità nel panorama comunitario. La prima è l’emissione di debito comunitario: sebbene anche il MES si indebiti sul mercato con le garanzie degli stati europei, in questo caso l’iniziativa è affidata alla Commissione. E’ il preludio di un possibile passo in avanti nell’integrazione in materia di gestione delle risorse pubbliche e di politica fiscale comune.
+
+Il bilancio UE viene anche dotato di risorse proprie, provenienti dalla tassazione europea sulle emissioni di CO2, dalla _web tax_ e da altre fiscalità comunitarie in fase di progettazione.
+
+L’altra novità, che ricalca i principi utilizzati fino ad oggi dalla Commissione in materia di fondi europei, è la definizione di quattro pilastri di investimento per i quali utilizzare le risorse: lavoro e occupazione, transizione energetica, ecologia, digitalizzazione.
+
+Non mancano i punti critici, dato che per reindirizzare le risorse sono stati sacrificati diversi fondi previsti per il Quadro Finanziario Pluriennale (QFP) 2021-2027: EU4Health, un programma di investimenti sanitari da 7,7 miliardi, è stato cancellato; Horizon Europe, il programma comunitario di ricerca scientifica, è stato dimezzato; il Just Transition Fund è passato da 30 a 10 miliardi di dotazione. Questa ricalibrazione dei fondi potrebbe avere effetti deleteri sul raggiungimento degli obiettivi fissati dal _Green New Deal_ della Commissione Europea.
+
+Va ricordato, però, che il _Recovery Fund_ ha fatto propri questi stessi paletti. Il fondo è inserito in un più ampio pacchetto di interventi: il già citato _Next Generation EU_[\[3\]](#_ftn1)_,_ che prevede investimenti per 1900 miliardi di euro nel corso dei sette anni del QFP 2021-2027. Con l’accordo trovato in sede di Consiglio, ora spetterà a Parlamento Europeo e Commissione il compito di implementare il piano.
+
+Il nostro paese sarà il principale beneficiario. Con l’ausilio del _Recovery Fund_ e del MES sanitario possiamo davvero ripartire dopo mesi di incertezza. Senza questi fondi, ci saremmo trovati ad affrontare una perdita di 11,2 punti di PIL nel 2020, con le casse dello Stato già in condizioni critiche. Per la prima volta dalla creazione della CEE, l’Italia diventa un paese beneficiario netto[\[4\]](#_ftn2). E dovrà fare di tutto per recuperare il suo status di contribuente netto e il prestigio e l’influenza che ne derivano.
+
+E’ l’opportunità di recuperare la credibilità perduta e modificare un modello di gestione delle risorse pubbliche che si è rivelato disfunzionale e deleterio in più di un’occasione.
+
+Se sapremo presentare programmi di riforma credibili e di ampio respiro, che affrontino le questioni più impellenti (tra tutte, il lavoro) ma guardino al futuro del Paese, allora riprenderemo il ruolo che ci spetta. Quello di protagonisti della storia dell’Europa unita, come Paese fondatore e terza economia dell’Unione.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE ECONOMIA
+
+Riccardo Raspanti
+
+ 
+
+**Note**
+
+[\[1\]](#_ftnref1) Commissione Europea, Piano per la ripartenza dell’Europa: [https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response/recovery-plan-europe\_it](https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response/recovery-plan-europe_it)
+
+[\[2\]](#_ftnref2) Europa Today: [https://europa.today.it/euro-fake-fact/recovery-fund-soldi-tempi.html](https://europa.today.it/euro-fake-fact/recovery-fund-soldi-tempi.html)
+
+Il Foglio: [https://www.ilfoglio.it/economia/2020/07/22/news/con-il-recovery-fund-litalia-riceve-dall-ue-piu-di-quanto-da-ce-poco-da-festeggiare-322639/?underPaywall=true](https://www.ilfoglio.it/economia/2020/07/22/news/con-il-recovery-fund-litalia-riceve-dall-ue-piu-di-quanto-da-ce-poco-da-festeggiare-322639/?underPaywall=true)
+
+[\[3\]](#_ftnref1) Civitas Europa, “La proposta franco-tedesca e il futuro del Recovery Fund”: [https://civitaseuropadoteu.wordpress.com/2020/05/23/una-settimana-decisiva-la-proposta-franco-tedesca-e-il-futuro-del-recovery-fund/](https://civitaseuropadoteu.wordpress.com/2020/05/23/una-settimana-decisiva-la-proposta-franco-tedesca-e-il-futuro-del-recovery-fund/)
+
+[\[4\]](#_ftnref2) Conclusioni finali del Consiglio Europeo, 21/07/2020: [https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf](https://www.consilium.europa.eu/media/45109/210720-euco-final-conclusions-en.pdf)

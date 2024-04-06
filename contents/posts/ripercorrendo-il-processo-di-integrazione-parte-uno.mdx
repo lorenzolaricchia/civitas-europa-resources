@@ -1,0 +1,83 @@
+---
+title: "Ripercorrendo il processo di integrazione - Parte uno: \"Un continente in ginocchio.\""
+cover: /images/posts/"7fe09-5d377d6a-0001-0004-0000-000000103381_w996_r1.77_fpx37.05_fpy49.98.jpg"
+date: 1589373454
+authors:
+  - estefano-tamburrini
+categories: 
+  - "senza-categoria"
+---
+
+_Nelle prossime settimane pubblicheremo su questa piattaforma un excursus storico sul processo di integrazione, diviso in più parti. In questa prima parte viene raccontata l'Europa occidentale ridotta in macerie dell'immediato dopoguerra, alle prese con la necessità di costruire la pace, con l'ingombrante rapporto di tutela degli Stati Uniti e con la minaccia potenziale rappresentata dall'Armata Rossa._
+
+Gli insegnamenti lasciati dalla mutua distruzione hanno ispirato la formazione di una comunità fondata sulla cooperazione. Dalle macerie rimaste da due guerre senza precedenti, i nostri nonni sono riusciti a dar vita a un’entità politica eccezionale, nella quale gli Stati hanno deciso di cedere oppure accomunare porzioni della loro sovranità per dar vita a una forma di governabilità unica nella quale si potesse garantire l’attuale status di pace e convivenza.
+
+Le due guerre mondiali avevano lasciato, nel loro complesso, circa 93 milioni di morti senza contare la quantità di feriti e mutilati che i due eventi causarono. L’estate del 1945 si era conclusa testimoniando la distruzione del vecchio continente e, una volta finite le ostilità, la pioggia autunnale dovette cascare sulle macerie di un’Europa rasa al suolo. Era questo l’epilogo di almeno due secoli di violenza interstatale, pretese egemoniche e mire espansionistiche degli uni contro gli altri.
+
+Erano pochi i presupposti dai quali si poteva ripartire. Gli Stati europei avevano perso il loro primato politico e bellico per soggiacere alla discrezionalità di Washington e Mosca che, da Yalta a Potsdam, tra febbraio e agosto del 1945, cercarono di ricreare un ordine mondiale fondato sul reciproco riconoscimento e il rispetto delle rispettive sfere d’influenza. Possiamo notare come l’ironia abbia giocato con il destino dell’Europa occidentale che, a partire da quel momento, sarebbe stata inclusa nella sfera di influenza degli Stati Uniti. Questa volta erano i figli a farsi carico di una madre moribonda e irriconoscibile dopo essere inciampata due volte con la stessa pietra. Un soccorso che però non è stato incondizionato.
+
+Le condizioni di vita nei vari Paesi erano molto difficili e ripartire era possibile soltanto facendo il contrario di ciò che era stato fatto fino a quel momento, facendo prevalere la cooperazione sulle rivalità nazionali, i diritti sulla coercizione e le libertà fondamentali sulla sopraffazione. Al momento di ricostruire l’Europa, non era più possibile rimettere gli Stati nazione al centro del progetto comunitario. Questa volta bisognava prendere in considerazione coloro che, da Paese a Paese, avevano sofferto di più gli effetti della guerra, ovvero, i cittadini.
+
+L’unico elemento comune tra francesi e tedeschi era la necessità obiettiva di convivere nella prossimità di uno spazio ridotto e conteso come quello europeo. Questo spazio era popolato da milioni di persone accomunate dal logoramento fisico e spirituale lasciato da un trentennio difficile. I sogni di quella generazione non erano più le promesse tradite di una gloria mai raggiunta. I superstiti della guerra condividevano il solo desiderio di una pace che a noi potrebbe apparire scontata, ma che nel loro caso era stata assente per molto tempo. E la sua assenza aveva condizionato l’immaginario di un’intera generazione costretta a vedere il lato peggiore dei deliri di grandezza che ispiravano la rivalità tra Nazioni fin troppo vicine. Nessun altro se non loro, stanchi di ripararsi dal pericolo e di veder morire i loro simili per via di progetti ispirati da sfrenate ambizioni, potevano desiderare la pace. Soltanto la centralità nell'esercizio dei diritti fondamentali come quadro di riferimento poteva costituire la base di un futuro diritto comunitario che regolasse i rapporti tra gli europei durante e dopo la ricostruzione di questo vecchio e martoriato continente.
+
+Ma come abbiamo già accennato l’Europa non era più da sola, non era più padrona del suo destino. E tanto meno era in grado di porsi alla guida del nuovo ordine internazionale. Con l’emergere delle Superpotenze si avverava la Profezia scritta da Tocqueville nell’opera intitolata _La democrazia in America._
+
+>  _“(…) al mondo esistono due popoli con diversi destini, con diverse origini, con un futuro nascosto nella nebbia, ma ispirati da uno spirito diverso, uno dallo spirito della libertà, gli americani, l’altro dallo spirito della schiavitù, servitù, i russi; questi popoli ad un certo punto determineranno il destino di metà del mondo.”_
+
+Esattamente 110 anni dopo le parole di Tocqueville, russi e americani concordavano la spartizione di un’Europa sconfitta e con essa la divisione del mondo in due blocchi ispirati, da un lato, dalla democrazia liberale e, dall’altro, dal socialismo reale.
+
+ 
+
+**Rinascita tedesca e _Containment_: motori dell’integrazione.**
+
+A tracciare i primi passi del percorso di integrazione sono state le iniziative atlantiche quali l’Organizzazione per la Sicurezza e Cooperazione Economica Europea (OECE)\[1\] e la NATO. In seguito, il 5 maggio 1949 si dà vita al Consiglio d’Europa composto da 47 Stati che decidono all’unanimità senza alcuna intenzione di federarsi.
+
+Nel seno del Consiglio d’Europa, il 4 novembre 1950, è nata la Convenzione Europea dei Diritti dell’Uomo che cerca di conferire un livello minimo di Salvaguardia dei diritti e delle libertà fondamentali. La Convenzione conta su una Commissione Europea dei Diritti Umani e il suo braccio di esecuzione è la Corte di Strasburgo che condanna le violazioni dei diritti fondamentali negli Stati membri. Questo organo giurisdizionale gode, caso sui generis, di una forza coercitiva sugli Stati contraenti, consentendo quindi il diritto attivo e non solo passivo da parte dei cittadini degli stessi Stati membri.
+
+L’OECE invece era nata su iniziativa degli USA – e precisamente dell’allora Min. degli Esteri statunitense George Marshall – per incentivare la cooperazione economica tra gli Stati europei. Essa aveva la funzione di incentivare il libero scambio tra gli Stati al fine di garantire la ricostruzione pacifica del Continente. Un anno prima, Marshall aveva sollecitato agli Stati europei di unire i loro sforzi nel percorso verso la ricostruzione economica. L’OECE, dunque, era nata nel 1948 per Amministrare quello che sarebbe stato il Piano Marshall.
+
+L’insieme di queste Organizzazioni ha costituito un quadro di riferimento essenziale per il futuro percorso di integrazione. L’OECE, la NATO e la CEDU blindavano le rinascenti democrazie dell’Europa occidentale a livello economico, militare e giuridico. Queste prime costruzioni sovranazionali avevano lo scopo di garantire la cooperazione multi-settoriale all’interno di uno spazio politicamente instabile.
+
+L’accesa contrapposizione dei due blocchi ha ridefinito gli assetti politici europei. L’avvio del Piano Marshall da un lato e del COMINFORM (1947) dall’altro hanno sancito l’inizio della Guerra Fredda.
+
+**Dal Colpo di Praga al Patto di Bruxelles.**
+
+Il colpo di Stato a Praga il 25 febbraio del 1948 fece accendere l’allarme sulla violenza e le forzature con cui il Comunismo sovietico cercava di imporre il proprio modello oltre confine. Questo evento non ha solo provocato la fine della Terza repubblica Cecoslovacca, ma ha anche suscitato un ventaglio di reazioni tra gli alleati occidentali.
+
+Il Ministro degli Esteri del Regno Unito, Ernest Bevin, vedeva l’Italia come il “posto a rischio immediato”. Il sostegno bipartisan di Comunisti e Socialisti al “Colpo di Stato” del ’48 in Cecoslovacchia accelerava il sostegno di Londra alla Democrazia Cristiana “nonostante i suoi difetti”. Reazioni simili sono arrivate anche dagli Stati Uniti nella cui ambasciata si respirava il timore di un possibile _bandwagoning_ qualora gli elettori si fossero schierati opportunisticamente con il PCI. Timori che sono stati smentiti sia dall’esito delle elezioni che hanno dato una leggera differenza alla DC rispetto al PCI, sia perché Stalin si riteneva già soddisfatto della mancata reazione militare degli Stati Uniti.
+
+Alle elezioni generali del 1948 parteciparono il 92,23% degli aventi diritto (26.855.741 elettori su un totale 29.117.554). In esse, la DC ha ottenuto il 48% (12.740.042 voti), il Fronte Democratico Popolare invece si è fermato al 30,98% (8.136.637 voti) mentre l’Unità Socialista è rimasta lontana dalle prime due forze politiche con il 7,07% (1.858.116 voti) seguita dal Blocco Nazionale e altre forze politiche di minoranza\[2\].
+
+A Parigi, invece, gli eventi di Praga hanno rappresentato un terreno scivoloso su cui il leader del PCF Maurice Thorez è scivolato affermando di sostenere l’armata rossa dinanzi a un’ipotetica invasione di Mosca. Il Leader del PCF era conosciuto per la sua devozione a Mosca e una particolare fedeltà alla figura di Stalin. Già il 17 novembre 1947 – immaginando la mancata apertura di un Secondo fronte nel Nord della Francia da parte di Churchill – Thorez aveva assicurato che “il popolo francese avrebbe accolto con entusiasmo l’arrivo dell’Armata Rossa”. Nell’euforia di tali affermazioni, Thorez si era lasciato andare dicendo “benché io sia francese, ho l’anima di un cittadino sovietico”. Il Colpo di Stato a Praga aveva alimentato il sogno di vedere replicare l’evento a Parigi\[3\]. Questa sua politica fondata su un’esagerata devozione verso Mosca, oltre al sabotaggio della politica interna e all’incontrastabile simpatia che il Piano Marshall destava presso l’opinione pubblica, hanno portato al tracollo del PCF.
+
+L’avvicinarsi del Bolscevismo in prossimità al cuore dell’Europa ha spinto gli occidentali al dibattito sulla Sicurezza comune. Il dibattito su cosa fare con la Germania sconfitta non divideva più di tanto la Francia, il Regno Unito e gli Stati Uniti costretti a far fronte comune contro l’espansionismo bolscevico. Si passava così dal Trattato di Dunkirk che era stato sigillato da Parigi e Londra per contrastare l’aggressione tedesca al Trattato di Difesa Collettiva firmato da entrambi gli attori insieme ai Paesi del Benelux nel dicembre 17 maggio 1948\[4\]. C’è anche l’intenzione di inserire una Germania democratica nel quadro.
+
+In questa prima fase, gli Stati Uniti si mostrano scettici sulla possibile funzionalità del Patto di Bruxelles che nel suo articolo 4° prevedeva l’intervento automatico in caso di aggressione contro uno degli aderenti. Senza prevedere il “come” sarebbe scaturito l’intervento militare, questo articolo sembrava destinato a lanciare piuttosto un messaggio di coesione politica tra i firmatari.
+
+I Ministri degli Esteri Bevin e Marshall avevano l’intenzione di andare ben oltre il Patto di Bruxelles attraverso un sistema di sicurezza atlantica che prevedesse il pieno coinvolgimento degli Stati Uniti. Allo stesso modo, si pensava all’estensione del sistema difensivo verso il Mediterraneo data la delicata situazione politica italiana.
+
+Il coinvolgimento statunitense nella protezione militare dell’Europa occidentale fu anche il frutto delle pressioni francesi. Da Bidault a Schuman, la pressione proveniente dal Ministero degli esteri parigino era sempre più insistente. Sebbene la Germania fosse il chiodo fisso delle richieste parigine, si respirava una maggior preoccupazione per la minaccia rappresentata dalla capacità di dispiegamento dell’Armata Rossa. Parigi si aspettava la creazione di comandi condivisi, il rifornimento di equipaggiamenti militari per le 25 divisioni francesi e, finalmente, la presenza di una base militare americana nel territorio della Repubblica Federale tedesca. Tali richieste erano state accolte in parte nella _risoluzione Vandenberg_ approvata dal Senato statunitense, la quale però conteneva anche un’esortazione affinché gli europei si difendessero con le proprie risorse.
+
+L'Europa, con il coinvolgimento attivo degli Stati Uniti, diveniva così uno dei fronti della Guerra Fredda in procinto di incominciare.
+
+ 
+
+Estefano Soler
+
+ 
+
+CIVITAS EUROPA - Divisione Relazioni Internazionali
+
+ 
+
+ 
+
+Note:
+
+\[1\] Nel 1960, l’OECE viene sostituita dall’attuale OCSE, la quale è stata istituita con la Convenzione sull’Organizzazione per la Cooperazione e lo Sviluppo economico firmata il 14 dicembre 1960 ed entrata in vigore il 30 settembre 1961.
+
+\[2\] Per sapere di più sui risultati delle elezioni generali del 1948 si veda l’archivio online del Dipartimento degli Affari Interni e Territoriali del Ministero dell’interno disponibili. Queste informazioni possono essere reperite  nel seguente link [https://elezionistorico.interno.gov.it/index.php?tpel=C&dtel=18/04/1948&tpa=I&tpe=A&lev0=0&levsut0=0&es0=S&ms=S](https://elezionistorico.interno.gov.it/index.php?tpel=C&dtel=18/04/1948&tpa=I&tpe=A&lev0=0&levsut0=0&es0=S&ms=S)
+
+\[3\] Per sapere di più sul sostegno di Thorez all’eventuale occupazione di Parigi da parte dell’Armata Rossa, si veda:  [https://www.lefigaro.fr/livres/2009/02/12/03005-20090212ARTFIG00452-et-si-thorez-avait-pris-le-pouvoir-.php](https://www.lefigaro.fr/livres/2009/02/12/03005-20090212ARTFIG00452-et-si-thorez-avait-pris-le-pouvoir-.php)
+
+\[4\]Per sapere di più si consulti Rebuilding Europe: Western Europe, America and Postwar reconstruction. David W. Ellwood.

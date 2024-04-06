@@ -1,0 +1,168 @@
+---
+title: "Dossier elezioni USA 2020 - L'altra faccia di Joe"
+cover: /images/posts/"55ceb-unnamed.jpg"
+date: 1607078641
+authors:
+  - civitas-europa
+categories: 
+  - "divisione-relazioni-internazionali"
+  - "dossier"
+  - "dossier-relazioni-internazionali"
+tags: 
+  - "collegio-elettorale"
+  - "covid-19"
+  - "donald-trump"
+  - "economia"
+  - "elezioni-usa-2020"
+  - "joe-biden"
+  - "kamala-harris"
+  - "mike-pence"
+  - "politica-estera"
+  - "stati-uniti"
+---
+
+_Con la collaborazione di Giulia Mastropietri e Giacomo Mannucci._
+
+ 
+
+**_“Potremmo anche essere avversari, ma non siamo nemici, siamo americani”_ – Joe Biden**
+
+Joe Biden è il presidente eletto degli Stati Uniti d’America. Ha incassato il record assoluto di voti (81 milioni) con un incremento significativo di voti dai bianchi e da certe sfere repubblicane. Donald Trump perde in molte zone dove invece nel 2016 aveva trionfato. In particolare, la sconfitta di Trump in Arizona, Wisconsin, Michigan e Pennsylvania si è rivelata fatale.
+
+Ma cosa significa una vittoria di Biden? Chi è Joe Biden? Fra la narrazione semplificata, o l’immaginario collettivo, e la realtà dei fatti c’è molta differenza. Definire Biden un “uomo di sinistra” (nonostante la crescente polarizzazione a sinistra dei Dem) risulta ancora oggi un abominio.
+
+Joe Biden si distingue infatti per essere un fervente pro-Israele, egli stesso si autodefinisce “sionista”. Egli è stato un collaboratore del NRA (National Rifle Association), la lobby delle armi americane, lavorando per le loro istanze. Nel 2002 appoggiò una timida regolamentazione delle armi d’assalto. Egli stesso possiede due fucili a pompa. Ancor prima, nel 1986, Biden supportò il FOPA (Firearm Owner Protection Act), a tutela dei diritti dei possessori di armi da fuoco.
+
+Biden supportò nel 2003 il Partial-Abortion Act, una legge che vieta l’esecuzione dell’aborto tardivo.
+
+Nel 1994 presenta una legge che porterà il suo nome, la Biden Crime Law, che incrementa i fondi e il potere di intervento delle forze dell’ordine, apre i registri dei molestatori sessuali e muta in termini espansivi le condizioni legate alla pena capitale (federal death penalty), nonostante in futuro Biden si applicherà per una graduale rinuncia della pena capitale.
+
+Biden si distingue anche per il soprannome di “drug-warrior”: la sua netta posizione proibizionista mira a rendere illegale anche la Marijuana per scopi ricreativi e nel 2006 supporta il Secure Fence Act, cioè una legge atta a costruire una recinzione al confine col Messico per evitare trasmigrazioni incontrollate.
+
+Da fervente uomo anti-droga, le critiche a Trump sul famoso muro non sono di merito ma di metodo: il muro di Trump è troppo costoso e non impedisce né l’immigrazione clandestina né il traffico di stupefacenti.
+
+Abituati alle facili retoriche mediatiche, questa di Biden sembra la descrizione di un uomo di Fratelli d’Italia. Ma non è così. L’America è l’America e ogni nazione ha i propri assetti valoriali, per alcuni di noi, forse, inassociabili alla “sinistra”.
+
+La presidenza Trump è così giunta al termine. La politica rivoluzionariamente occlusa e revisionista del tycoon ha avuto enormi effetti (in)desiderati sulle relazioni internazionali: una ritrovata compattezza Europea che ha resistito all’ondata populista e alla Brexit, l’emergere di un mondo multipolare con ASEAN, Cina ed Europa nuovamente attori di rilievo geopolitici.
+
+L’elezione di Biden probabilmente riaccorcerà le distanze tra le due sponde dell’Atlantico, ma ciò potrebbe avere conseguenze negative per gli europei. Essi perderanno margine di manovra nei confronti dell’Iran, della Russia e della Cina mentre il vassallaggio Washington-Bruxelles verrà confermato. Al contrario, altri quattro anni di presidenza Trump, ovvero di conflitto euro-americano, sarebbero stati un’occasione per l’Europa per adottare una postura autonoma in politica internazionale.
+
+Biden non è entrato ancora alla Casa Bianca ma, colpi di scena esclusi, lo farà entro gennaio 2021.
+
+Ma prima che la sua vittoria fosse acclamata, com’era la situazione negli USA e come sarà in futuro? Quali sono gli step per comprendere le elezioni statunitensi per non cadere vittime di teorie semplicistiche?
+
+ 
+
+**Sistema elettorale USA**
+
+- Gli USA hanno un sistema a elezione semidiretta: il Presidente lo scelgono i cittadini, ma passando per i grandi elettori (538) che formano il collegio elettorale. Vince il candidato che ottiene almeno 270 voti dei grandi elettori, la metà + 1 del collegio elettorale (il cui numero è pari al numero dei rappresentanti al congresso 435 deputati, 100 senatori e 3 rappresentanti per il District of Columbia). Se nessun candidato raggiunge quella soglia spetta alla camera eleggere il presidente mentre il senato sceglie il vicepresidente.
+- Il fenomeno bipartitico si deve in larga misura all’uso generalizzato di sistemi elettorali basati su una forma plurality (maggioranza semplice) applicata a collegi uninominali, sistema utilizzato sia per l’elezione dei titolari di cariche monocratiche di governo sia per i componenti delle assemblee legislative (S. Vassallo. Sistemi politici comparati).
+- La camera viene rinnovata ogni 2 anni, 1/3 del Senato ogni 2 anni, la presidenza ogni 4 anni. Le elezioni per il Congresso si tengono sempre il primo martedì successivo al primo lunedì di novembre degli anni pari (3 novembre 2020), le elezioni presidenziali coincidono con quelle congressuali ogni 4 anni. Le elezioni sono precedute dalle campagne elettorali più lunghe e costose (nel 2020 circa 14 miliardi di dollari) di qualsiasi altra democrazia liberale. La scelta dei candidati è affidata agli elettori attraverso elezioni primarie.
+- Inoltre, sono previste elezioni di “Midterm”: dopo 2 anni dalle elezioni presidenziali riguardano il Congresso, le assemblee elettive degli Stati e alcuni governatori dei singoli stati (le ultime si sono tenute il 6 novembre 2018).
+
+ 
+
+**Le elezioni del 2016**
+
+- Le elezioni presidenziali negli Stati Uniti del 2016 si sono tenute l’8 novembre. La candidata democratica Hillary Clinton aveva vinto il voto popolare con 62.521.739 voti contro i 61.195.258 voti del candidato repubblicano Trump, ma non è potuta diventare presidente poiché Trump si è aggiudicato i voti dei grandi elettori (306 voti Trump e 232 Clinton) diventando così il 45° presidente degli Stati Uniti.
+
+ 
+
+**Le elezioni del 3 novembre 2020**
+
+- Oltre ad eleggere il 46° presidente degli Stati Uniti (Trump repubblicani vs. Biden democratici), alle elezioni del 3 novembre, si vota anche per eleggere il vicepresidente (Mike Pence per i repubblicani e Kamala Harris per i democratici) e per rinnovare l’intera Camera dei Rappresentanti (435 membri) e 1/3 del Senato (33 dei 100 membri). Ogni stato è rappresentato alla camera in base alla sua popolazione, mentre al senato ognuno può contare su 2 seggi. Al momento (dopo elezioni midterm) i democratici controllano la camera e i repubblicani il senato. Inoltre, si vota per eleggere 11 governatori statali e molti parlamentari locali.
+
+ 
+
+Se Joe Biden si fosse aggiudicato una vittoria in termini risicati molto probabilmente Donald Trump non avrebbe accettato la sconfitta avvalendosi sia della motivazione relativa all’Early voting sia relativa al voto via posta. Sconforta però al giorno d’oggi che nonostante l’ampio margine di sconfitta, Trump sembri non rassegnarsi.
+
+Se le cose, ad oggi – nonostante una netta sconfitta dei repubblicani - dovessero complicarsi, sarebbe onere della Corte Suprema redimere la controversia. Qualora dovesse accertarsi che non vi è una chiara maggioranza, allora la palla passerebbe alla Camera. Ad essa spetta l'elezione del Presidente degli Stati Uniti, se nessun candidato ottiene la maggioranza assoluta dei voti dei grandi elettori presidenziali. In tal caso, il Presidente deve essere eletto fra i tre candidati con il maggior numero di voti elettorali; nella votazione, l'insieme dei rappresentanti di ciascuno Stato ha un solo voto. La Camera ha dovuto esercitare questo potere soltanto due volte: nel 1800, quando elesse Thomas Jefferson, e nel 1824, quando elesse John Quincy Adams.
+
+ 
+
+**Lo spauracchio di una corte suprema politicizzata**
+
+- Molti analisti e militanti democratici vedono un ulteriore rischio nella composizione dell’attuale Corte Suprema (6 giudici nominati da un presidente repubblicano, 3 democratici), che sarebbe chiamata ad esprimersi sulla nomina presidenziale in caso di incertezza dei risultati, specie di quelli dei voti postali.
+- Vi erano stati timori alimentati dalle vicende che hanno riguardato la nomina di Amy Coney Barrett appena ad una settimana dalle elezioni: secondo il _Wall Street_ _Journal_ la neo-giudice sarebbe l’unica rappresentante della Corte dal 1869 a non aver ricevuto nemmeno un voto dal partito di opposizione, durante la sua nomina al Senato.
+- Pur essendo importante ricordare il colore politico della nomina a giudice della Corte Suprema, non dobbiamo fare l’errore di dimenticare il ruolo istituzionalmente (e non politicamente) vincolante che ricoprono i giudici.
+- In tal senso, una delle prime sentenze della Corte appena formata è andata nettamente in senso contrario rispetto ai desideri elettorali dei repubblicani.
+- La richiesta repubblicana di non conteggiare le schede elettorali (spedite via posta) che fossero arrivate dopo il 3 Novembre in North Carolina e Pennsylvania è stata rigettata dalla Corte Suprema, che ha ammesso nel conteggio le schede arrivate entro 9 (in NC) e 3 (in PA) giorni dall’ _election_ _day_.
+- Nel caso della Pennsylvania il voto è stato unanime, in quello del North Carolina ci sono stati 3 giudici dissidenti. La giudice Barrett non ha partecipato perché non aveva studiato il caso.
+
+ 
+
+**La politica interna**
+
+ 
+
+**Emergenza Covid-19**
+
+Tra i problemi più urgenti che il nuovo presidente si troverà ad affrontare c'è la pandemia di Coronavirus. Gli Stati Uniti sono al momento il primo paese al mondo per numero di contagi, con quasi nove milioni di casi, che continuano ad aumentare giorno dopo giorno. A differenza del suo sfidante repubblicano, Trump, Biden pensa che dovrebbe essere imposto a livello nazionale l'obbligo di mascherina. Distanze simili sui test diagnostici, che l’attuale inquilino della Casa Bianca delega ai singoli stati, lamentandosi in qualche occasione che i cattivi numeri dei contagi negli Usa siano causati da un eccesso di test, mentre Biden vorrebbe gestire la diagnostica a livello centrale e aumentarne l’intensità. Biden, inoltre, ha già dichiarato ufficialmente che ribalterà la decisione di Trump di far uscire gli Usa dall'Organizzazione mondiale della Sanità il primo giorno di (eventuale) insediamento.
+
+**Sanità**
+
+Restando in ambito sanitario, Biden è favorevole cosiddetto Obamacare, la riforma sanitaria fortemente voluta e ottenuta dall’ex presidente Barack Obama, firmata il 25 marzo 2010, quando lo stesso Biden era vicepresidente, e che ha consentito a milioni di statunitensi, che allora non avevano alcuna forma di assistenza medica, di stipulare un'assicurazione privata con un sistema di aiuti pubblici. Il candidato democratico vorrebbe addirittura allargarlo, dando la possibilità a ogni cittadino di scegliere un'opzione di assistenza pubblica oltre che privata. Si è anche espresso favorevolmente riguardo la possibilità di importare farmaci dal Canada, se venduti a prezzi inferiori rispetto agli Stati Uniti.
+
+**Economia**
+
+Biden, cosi come Trump, si è detto favorevole ad alzare la paga minima a 15 dollari l’ora, promettendo anche penali da pagare per le aziende che delocalizzano la produzione o i servizi per poi venderli sul mercato domestico. Entrambi i candidati hanno poi promesso che firmeranno una legge per impedire durante la pandemia gli sfratti degli affittuari insolventi. Sui trattati internazionali entrambi sono sostanzialmente favorevoli al trattato tra Usa, Messico e Canada sul commercio all’interno del Nord America. Inoltre, Biden ha avvisato gli elettori di voler radicalmente cambiare la riforma di Trump sulla tassazione, con consistenti tagli fiscali alle classi più agiate e all’industria, facendo in modo che siano proprio le aziende a contribuire maggiormente alle spese da sostenere per limitare l’impatto della crisi climatica oltre all’educazione e alla sanità pubblica. Il candidato democratico ha inoltre promesso che non aumenterà il carico fiscale per chi guadagna meno di 400mila dollari l’anno.
+
+**Giustizia**
+
+Biden, come Trump, ha promesso di non diminuire i fondi per la polizia, richiesta fatta da una parte di manifestanti del movimento per la giustizia sociale Black Lives Matter. Biden vorrebbe inoltre mettere fine alla privatizzazione delle carceri e alla libertà su cauzione, perché causa di disparità di trattamento in base al ceto sociale.
+
+**Ambiente**
+
+Joe Biden ha proposto un piano da 2 miliardi di dollari per ridurre le emissioni di CO2 come punto forte del proprio Green New Deal sull’ambiente. Il suo obiettivo è quello di rendere l'America anche una superpotenza energetica, sfruttando il sistema degli appalti pubblici per arrivare ad alimentare la nazione interamente grazie ad energia rinnovabile, oltre a promuovere l'utilizzo di veicoli elettrici e il potenziamento delle linee ferroviarie ad alta velocità per ridurre la dipendenza dal petrolio. Tuttavia, si è detto anche favorevole al mantenimento del fracking in Pennsylvania. Si è comunque impegnato affinché gli Usa arrivino a produrre zero emissioni entro il 2050.
+
+ 
+
+**Politica estera**
+
+ 
+
+In politica estera le differenze maggiori tra i programmi si riscontrano su alcuni precisi scenari, mentre su molte questioni le politiche dei candidati non divergono. A differenza di Trump, Biden vorrebbe riallacciare i rapporti con Cuba come durante l’amministrazione Obama. Sul conflitto yemenita Biden è per terminare l’intervento. Chiunque sarà eletto, non cambieranno invece le politiche sull’Afganistan, da cui rientreranno tutte le truppe, né sul conflitto mediorientale dato che entrambi sono favorevoli agli accordi tra Israele e gli Emirati Arabi dello scorso agosto. Infine, propone una rinnovata fiducia alla Nato, di eliminare il Muslim Ban, il divieto di ingresso negli Usa per i cittadini in arrivo dai paesi musulmani, come la Siria. Sul rapporto con l'Iran, promette, nel caso in cui Teheran dovesse rispettare il patto sul nucleare, di rientrare nell'accordo di Parigi del 2015.
+
+La presidenza di Donald Trump è stata caratterizzata da diversi elementi di discontinuità rispetto alle amministrazioni che l'hanno preceduta. Il disprezzo nei confronti delle organizzazioni internazionali e delle iniziative diplomatiche multilaterali e l'impazienza verso gli alleati storici erano atteggiamenti che rispondevano a una postura unilaterale cristallizzata nello slogan “America First”, traducibile in un'insofferenza per gli oneri globali di cui gli Stati Uniti si sono fatti carico a partire dal 1945.
+
+Joe Biden ha un'idea completamente diversa del ruolo dell'America nella politica internazionale, pertanto è lecito aspettarsi che la nuova amministrazione statunitense esegua una svolta rispetto alla precedente. Proviamo a ipotizzare la politica estera del neo eletto presidente.
+
+**Russia e Cina**
+
+ Numerosi documenti dell'amministrazione statunitense redatti durante la presidenza Trump individuano nella Russia e nella Cina i due avversari strategici più temibili. Mentre la Russia è un avversario geopolitico e militare la Cina insidia la supremazia americana anche dal punto di vista economico e tecnologico.
+
+Trump, già durante la campagna elettorale per le elezioni del 2016, promise di normalizzare le relazioni con la Russia puntando a sviluppare cordiali rapporti personali con il presidente russo Vladimir Putin. Nonostante i tentativi del tycoon in questo senso, che hanno generato scandalo in patria, negli ultimi quattro anni le relazioni russo-americane non sono migliorate. Gli Stati Uniti hanno inasprito le sanzioni, estendendole al gasdotto russo-tedesco Nord Stream II mentre Washington e Mosca hanno interessi confliggenti in Medio Oriente, specialmente in Siria, e in Libia.
+
+Biden non ha fatto cenno di voler migliorare i rapporti con i russi, anzi ha promesso che sarà più severo nei confronti di Mosca.
+
+Per quanto riguarda la Cina, la rivalità di quest'ultima con gli Stati Uniti è un dato di fatto che prescinde dall'appartenenza politica dell'inquilino della Casa Bianca. Le iniziative di contenimento anti-cinese risalgono infatti alla presidenza di Barack Obama, si pensi all' accordo commerciale Trans-Pacific Partnership (Tpp). Biden potrebbe adottare una linea più morbida, almeno dal punto di vista verbale, nei confronti della Cina, ma nei fatti per quanto riguarda economia, tecnologia e geopolitica gli interessi di Washington e Pechino rimarranno confliggenti.
+
+**Iran e Medio Oriente**
+
+Il Joint Comprehensive Plan of Action (Jcpoa), colloquialmente noto come accordo sul nucleare iraniano, è stato uno dei principali successi diplomatici della presidenza Obama. Tale accordo è stato stracciato unilateralmente da Trump il quale, dopo aver applicato la massima pressione, ovvero lo strangolamento dell'economia iraniana attraverso l'imposizione di sanzioni, è arrivato a un passo dalla guerra con la Repubblica Islamica.
+
+Biden potrebbe ritentare la via della conciliazione in modo da ridurre l'impegno americano nella regione e allontanare l'Iran dalla Cina. Lo scorso luglio infatti Teheran e Pechino hanno firmato un accordo di cooperazione della durata di 25 anni che tocca numerosi ambiti, tra cui economia, energia e sicurezza e che testimonia l'esistenza di uno stretto legame tra i due paesi, entrambi percepiti dagli Stati Uniti come rivali.
+
+Sebbene la fiducia degli iraniani nei confronti degli americani sia ai minimi, Teheran non può ignorare la presenza statunitense nella regione né le sanzioni che stanno pregiudicando la sua crescita.
+
+Mentre Trump non si è sbilanciato in critiche all'Arabia Saudita, Biden potrebbe ridurre il sostegno statunitense all'intervento del regno nella guerra dello Yemen, che finora ha causato la morte di migliaia di civili inermi senza costringere i ribelli di Ansar Allah alla resa. In ogni caso, l'Arabia Saudita, così come Israele e gli Emirati Arabi Uniti, continuerà ad essere uno dei principali alleati della regione.
+
+**Unione Europea e Nato**
+
+ Senz'ombra di dubbio la presidenza Trump ha comportato una regressione delle relazioni trans-atlantiche. Il tycoon ha più volte criticato gli alleati europei, ma anche quelli asiatici, per non contribuire abbastanza alle spese per la sicurezza e la difesa. Trump inoltre si è ritirato dall'accordo di Parigi sul clima e, come già detto, da quello sul nucleare iraniano, che fu sottoscritto anche da Unione Europea, Regno Unito, Francia e Germania.
+
+Nei confronti degli alleati, Biden intende tenere una postura opposta a quella di Trump. Mentre quest'ultimo non ha fatto altro che criticarli, danneggiando quindi la coesione delle alleanze multilaterali e bilaterali che costituiscono il  pilastro della politica estera e di sicurezza statunitense, il neo eletto presidente democratico vuole tenere un atteggiamento più rispettoso e conciliante, riflesso della consapevolezza dell'importanza delle alleanze, specie in tempi di crescente antagonismo tra le grandi potenze. Ciò non significa che Biden non farà pressione sugli alleati per aumentare le spese militari. Con toni più o meno espliciti, la richiesta di maggiore impegno da parte degli alleati è stata fatta da quasi tutti i presidenti statunitensi del dopoguerra. Di sicuro Biden si relazionerà con gli alleati in modo più ponderato e istituzionale rispetto a Trump.
+
+L'approccio americano nei confronti dell'Europa e della Nato è destinato a cambiare, ma tale cambiamento potrebbe tradursi in un'ulteriore riduzione degli spazi di manovra per gli Stati europei nei confronti della Russia. Considerando l'approccio intransigente che Biden intende tenere nei confronti di Mosca, c'è da aspettarsi che gli Stati Uniti continueranno a fare pressioni insistenti sugli europei affinché diversifichino le proprie importazioni di energia e allo stesso tempo si opporranno alle eventuali iniziative riconciliatorie europee che non siano compatibili con i loro interessi.
+
+Il ritorno degli Stati Uniti in Europa presenta un vantaggio e uno svantaggio per gli europei. Lo svantaggio è stato appena detto, e consiste coè nella riduzione degli spazi di manovra autonomi nei confronti di Mosca. Questo svantaggio colpisce in particolare i paesi europei meno russofobi, come Francia, Germania e Italia. Al contrario i paesi russofobi, come Regno Unito, Polonia e repubbliche baltiche, vedono con favore un atteggiamento americano più severo  nei confronti di Mosca.
+
+Il vantaggio consiste invece in un ritorno degli americani al multilateralismo. Qualora Biden voglia negoziare un nuovo accordo con l'Iran c'è  da attendersi il coinvolgimento degli europei. Inoltre il neo eletto presidente sembra più sensibile alle problematiche relative ai cambiamenti climatici, per cui è possibile che gli Stati Uniti rientrino nell'acocordo di Parigi del 2015, una mossa che indubbiamente sarebbe ben accolta dagli Stati europei.
+
+ 
+
+ 
+
+CIVITAS EUROPA – Divisione Relazioni Internazionali
+
+Dr. Verdoliva Alessandro; Palladini Massimiliano; Dr. Mannucci Giacomo; Dr.ssa. Mastropietri Giulia

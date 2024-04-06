@@ -1,0 +1,59 @@
+---
+title: "L'Ue ha bisogno della difesa comune, nonostante la Nato"
+cover: "/images/posts/lue-ha-bisogno-della-difesa-comune-nonostante-la-nato.jpg"
+date: 1632464960
+authors:
+  - civitas-europa
+categories: 
+  - "articoli"
+  - "articoli-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "afghanistan"
+  - "difesa-comune"
+  - "difesa-europea"
+  - "nato"
+  - "relazioni-internazionali"
+  - "sergio-mattarella"
+  - "stati-uniti"
+  - "ue"
+  - "ursula-von-der-leyen"
+---
+
+Il drammatico epilogo dell’intervento occidentale nel pluridecennale conflitto afghano ha riacceso il dibattito sulla difesa comune europea.
+
+Nel suo discorso sullo Stato dell’Unione la presidente della Commissione Europea Ursula Von der Leyen ha rimarcato l’urgenza di procedere con l’integrazione in tale ambito \[1\], trovando una sponda, tra gli altri, nel presidente della Repubblica Sergio Mattarella. \[2\]
+
+Oltre che su ciò, Von der Leyen e Mattarella concordano sulla complementarità tra l’eventuale difesa comune europea e la Nato. In altre parole, la difesa comune non deve servire per perseguire l’autonomia strategica bensì per creare un nucleo di forze dipendenti dall’Unione ma allineate alla Nato.
+
+La comunanza di visione tra Von der Leyen e Mattarella è la manifestazione di un’intesa italo-tedesca che si contrappone alla posizione francese (contrapposizione che avevamo già notato in un nostro [precedente articolo](https://civitaseuropadoteu.wordpress.com/2021/01/30/nato-il-principale-ostacolo-alla-difesa-comune-europea/)). Mentre italiani e tedeschi vogliono una difesa europea complementare alla Nato, per i francesi la difesa comune è funzionale al perseguimento dell’autonomia strategica. La posizione francese ha radici storiche e motivazioni politiche, giacché l’eventuale raggiungimento dell’autonomia strategica comporterebbe un netto aumento dell’influenza francese, poiché Parigi, oltre a disporre dell’apparato militare più sofisticato, è l’unico Stato membro ad avere un arsenale nucleare.
+
+Tuttavia, i sogni francesi s'infrangono contro la realtà. L’autonomia strategica europea non è affare che riguarda unicamente gli Stati membri dell’Ue. Infatti, non ci sarà mai autonomia strategica senza l’assenso degli Stati Uniti poiché essa implica il completo ritiro statunitense dal Vecchio Continente e la fine della Nato. In pratica, il conseguimento dell’autonomia strategica europea equivarrebbe a una rivoluzione nella politica internazionale per come l'abbiamo conosciuta a partire dal 1945.
+
+Ciononostante, gli Stati europei dovrebbero comunque dare vita a una difesa comune in modo da guadagnare un’autonomia almeno _parziale_. Come ha detto Von der Leyen nel suo discorso, “ci saranno missioni in cui la Nato o le Nazioni Unite non saranno presenti, ma in cui l’Ue dovrebbe esserci". \[3\]
+
+Gli Stati membri dell’Ue, a partire da un gruppo ristretto, come d’altro canto si è sempre fatto, dovrebbero dar vita a forze armate comuni in modo da dotarsi di una capacità d’intervento autonoma. Gli Stati che intraprendono tale percorso dovranno anche costituire istituzioni politico-militari _ad hoc_ incaricate di definire la politica estera e gli interessi del gruppo e gestirne le forze armate.
+
+Le aree circostanti l’Unione Europea presentano numerosi focolai di instabilità. La Libia non ha ancora trovato una sistemazione dopo un decennio di guerra civile e anarchia; la Tunisia è in subbuglio; le relazioni tra Algeria e Marocco rimangono pessime \[4\]; il Sahel è un’area di Stati falliti dove gruppi armati terroristici prosperano grazie ai più spregevoli traffici; la Turchia si contraddistingue per un protagonismo che minaccia la sovranità di Grecia e Cipro; il Levante continua a versare in una situazione drammatica mentre il conflitto russo-ucraino è lungi dall’essere risolto.
+
+Gli Stati dell’Unione Europea non possono delegare a Washington la propria politica estera e di sicurezza in aree così vicine – anche perché è ormai chiaro che per gli Stati Uniti la priorità è rappresentata da ben altre aree del globo – bensì devono unire le proprie forze, definire interessi comuni e perseguirli con determinazione.
+
+Fino a quando l’Unione Europea non intraprenderà il cammino verso l’autonomia, anche parziale, non potrà dirsi soggetto della politica internazionale. Continuando a tenere una condotta passiva, l’Unione si espone agli effetti negativi degli eventi internazionali con conseguenze che potrebbero indebolire la sua stabilità. È tempo che gli Stati membri uniscano le proprie forze e diano vita, anche negli ambiti della politica estera e di sicurezza, a una vera integrazione che renda l'Unione un soggetto almeno parzialmente autonomo.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+**Note** 
+
+\[1\] Ursula Von der Leyen, _State of the Union Address 2021_, Commissione Europea. Ultimo accesso 23 settembre 2021.
+
+\[2\] _Mattarella: "La difesa comune europea rafforza anche la Nato"_, repubblica.it, 17 settembre 2021. Ultimo accesso 23 settembre 2021.
+
+\[3\] Vedi nota 1. "There will be missions where NATO or the UN will not be present, but where the EU should be".
+
+\[4\] _Blind diplomacy: Algeria cuts relations with Morocco_, moderndiplomacy.eu, 29 agosto 2021. Ultimo accesso 23 settembre 2021.

@@ -1,0 +1,78 @@
+---
+title: "L'Europa deve pensarsi senza l'America"
+cover: /images/posts/"cd012-trump-comizio.jpg"
+date: 1709483588
+authors:
+  - massimiliano-palladini
+categories: 
+  - "articoli"
+tags: 
+  - "donald-trump"
+  - "elezioni"
+  - "europa"
+  - "geopolitica"
+  - "nato"
+  - "politica"
+  - "politica-internazionale"
+  - "russia"
+  - "ucraina"
+  - "unione-europea"
+  - "usa-2024"
+  - "vladimir-putin"
+---
+
+Le ultime dichiarazioni di Donald Trump sulla Nato hanno creato parecchia indignazione negli Stati Uniti e soprattutto in Europa. Lo scorso 10 febbraio, durante un comizio nella Carolina del Sud, l’ex presidente statunitense ha sostanzialmente detto che gli alleati europei che non contribuiscono a sufficienza al bilancio dell’Alleanza non sono degni della protezione statunitense. Di più, Trump incoraggerebbe la Russia “a fargli quello che vuole”[\[1\]](#_ftn1). Come noto, nel 2014 gli Stati membri della Nato si impegnarono a spendere almeno il 2 % del Pil nella difesa. Dieci anni dopo solo pochi paesi hanno onorato questo impegno.
+
+Le parole di Trump meritano qualche considerazione e stimolano alcune riflessioni di carattere generale, riguardanti la natura dei rapporti tra gli Stati Uniti e l’Europa. Andiamo con ordine.
+
+Per prima cosa occorre contestualizzare le affermazioni di Trump, che oltre ad essere ex presidente è anche il quasi certo candidato del Partito Repubblicano alle elezioni presidenziali del prossimo novembre. Gli Stati Uniti sono già in piena campagna elettorale e infatti Trump ha parlato proprio durante un comizio. Pertanto, il suo attacco contro gli alleati della Nato rientra di diritto nella categoria delle promesse elettorali.
+
+Le accuse del tycoon sono infatti mirate a soddisfare quell’elettorato impoverito dalla deindustrializzazione e stanco dei continui impegni internazionali del paese. In questa prospettiva i miliardi di dollari spesi per garantire la sicurezza degli alleati d’Oltreoceano andrebbero reinvestiti in patria per rilanciare l’occupazione delle aree depresse o almeno per arginare i flussi migratori al confine col Messico. Ad ogni modo, stiamo pur sempre parlando di promesse elettorali. È quindi utile tenere a mente l’antico detto, valido per ogni campagna elettorale: tra il dire e il fare c’è di mezzo il mare.
+
+Tuttavia, in effetti, durante il suo mandato presidenziale le tensioni con gli alleati non mancarono. Oggi come allora, il pomo della discordia era sempre quello: il riparto dei costi della difesa europea. Per inciso, Trump non è stato il primo né sarà l’ultimo presidente a lamentarsi degli scarsi contributi degli alleati. Semplicemente, rispetto ai suoi predecessori, utilizza toni più demagogici e sembra apprezzare più di chiunque altro una lettura economicistica della politica estera.
+
+Sia come sia, la spiccata sensibilità dimostrata da Trump per i costi degli impegni internazionali sostenuti dagli Stati Uniti ci deve far ricordare un fatto di importanza cruciale, anzi esistenziale. Per gli Stati Uniti la Nato, cioè il mantenimento della sfera d’influenza europea, è un investimento effettuato sulla base di un preciso calcolo politico e non un favore disinteressato fatto agli europei.
+
+La Nato serve agli Stati Uniti in quanto ne rafforza la sicurezza nazionale, poiché tiene ben lontana dalla patria la linea del fronte dell’eventuale guerra con la Russia. Infatti, semmai questa guerra scoppierà, il suo fronte principale si troverà in Europa orientale.
+
+Tuttavia, Washington, forte del suo strapotere navale, può benissimo tutelare la propria sicurezza nazionale senza la Nato. Il ritiro americano dall’Europa creerebbe un vuoto di potere e la linea del fronte dell’eventuale guerra contro la Russia o contro qualsiasi altra potenza che tentasse di imporre la propria egemonia in tale vuoto si sposterebbe di molto verso occidente, nell’oceano Atlantico.
+
+Ad ogni modo, il punto è questo: il ritiro statunitense dall’Europa, per quanto ci possa sembrare improbabile e controproducente, sarà sempre concepibile. D’altro canto l’influenza politica e militare degli Stati Uniti in Europa è un fatto relativamente recente, poiché risale solo al 1945. Come noto, per la maggior parte della loro storia gli Stati Uniti si sono curati principalmente degli affari dell’emisfero occidentale.
+
+A questo punto è utile ricordare che il primo presidente in carica a mettere piede in Europa fu Woodrow Wilson nel 1918. Wilson si recò nel Vecchio Continente per partecipare alla conferenza di pace di Parigi, ovvero per raccogliere i frutti politici della vittoria militare nella Prima guerra mondiale, conseguita con il determinante intervento degli Stati Uniti. A dimostrazione del fatto che, al di là della condivisione dei princìpi liberaldemocratici e capitalistici, il rapporto tra Stati Uniti ed Europa è il risultato di un’equazione politica. Qualora cambiassero le variabili dell’equazione, cambierebbe inevitabilmente anche il risultato. Sembra scontato dirlo ma è sempre bene ricordarlo. Specialmente in tempi come questi, che sono sempre più caratterizzati dalla narrazione dello scontro tra blocchi, ovvero le democrazie sostenitrici dello status quo contro le autocrazie revisioniste.
+
+A differenza degli americani, gli europei non possono ritirarsi dall’Europa per il semplice motivo che vi esistono. In altre parole, per gli americani la difesa dell’Europa è _una questione di opportunità politica_, per gli europei è _una questione esistenziale_.
+
+Per questo motivo dobbiamo pensarci senza gli Stati Uniti. Le riunioni della Nato e soprattutto gli incontri bilaterali sono occasioni immancabili per rimarcare il legame speciale che unisce le due sponde dell’Atlantico settentrionale. Tutti i capi di governo europei concordano nell’affermare che gli Stati Uniti sono un partner fondamentale dal punto di vista politico e militare, in quanto garanti della sicurezza continentale.
+
+Per quanto gli Stati Uniti siano senza dubbio la grande potenza con cui l’Europa si rispecchia di più, non dobbiamo dimenticarci mai che si tratta di un governo _straniero_. Per giunta non si tratta di un governo qualsiasi, bensì del governo più potente del mondo. Pertanto noi dipendiamo da Washington molto più di quanto Washington dipenda da noi.
+
+Ormai già da qualche anno la politica statunitense sta attraversando una fase di estrema polarizzazione. Non importa stabilire se Trump sia il sintomo o la causa di questa polarizzazione. Il punto è un altro: il veleno demagogico e autoritario di Trump ha infettato il Partito Repubblicano, che si è sottomesso al tycoon senza opporre resistenza. A prescindere dal risultato delle elezioni del prossimo novembre e dalla parabola politica dell’ex presidente, è probabile che il trumpismo caratterizzerà i repubblicani per molti anni a venire. Aspettiamoci quindi l’ascesa di ulteriori politici americani gonfi di disprezzo nei confronti degli alleati.
+
+La degenerazione della politica statunitense va di pari passo con l’estremizzazione del revisionismo russo. Si tratta di due fenomeni che potrebbero essere collegati tra di loro. Probabilmente Putin ha visto nei fatti del 6 gennaio e nel caotico ritiro dall’Afghanistan due manifestazioni inequivocabili del declino degli Stati Uniti. Una sorta di via libera per lanciare l’invasione su larga scala dell’Ucraina, nella convinzione che gli Stati Uniti e i loro alleati non avrebbero fatto tante storie per quella che, nelle sue intenzioni, sarebbe stata una veloce guerra lampo.
+
+Malgrado il fallimento della cosiddetta “operazione militare speciale”, il governo russo non ha placato le sue mire espansionistiche. Di recente l’ex presidente Dmitri Medvedev ha affermato che, in una fase successiva del conflitto, i russi potrebbero riprovare ad attaccare Kiev mentre per quanto riguarda Odessa l’ha definita “una città russa”[\[2\]](#_ftn2). A dimostrazione che gli appetiti della Russia vanno ben al di là delle quattro regioni annesse nel settembre 2022.
+
+Ma l’Ucraina non è la sola ad essere in pericolo. Negli ultimi mesi il governo russo ha minacciato alcuni paesi confinanti, membri sia della Nato sia dell’Unione Europea. Si tratta nello specifico di Lettonia, Lituania e Polonia. Salvo poi ritrattare. Durante la sua intervista concessa al giornalista statunitense Tucker Carlson, Putin ha detto che la Russia non è intenzionata ad attaccare la Polonia o la Lettonia[\[3\]](#_ftn3). Si tratta di un maldestro tentativo di disinnescare le tensioni. Peccato che Putin abbia perso ogni briciolo di credibilità presso le cancellerie occidentali.
+
+La decisione di invadere l’Ucraina, unita al continuo rifiuto di negoziare con Kiev, ritenuto niente meno che una marionetta manovrata da Washington, dimostrano che il Cremlino ha deciso di percorrere la via dell’ultranazionalismo, del revisionismo e della nostalgia. Motivo per cui le rassicurazioni di Putin valgono meno di zero.
+
+Qualora l’ombrello americano che protegge l’Europa dovesse chiudersi, è probabile che la Russia tenterebbe di approfittarne. I paesi baltici potrebbero entrare nel mirino del Cremlino. Non a caso questi paesi sono quelli che, in proporzione al Pil, hanno fornito più aiuti all’Ucraina. Se dal punto di vista nucleare la Russia è irraggiungibile, bisogna potenziare come minimo le forze convenzionali. Affidare la sicurezza continentale esclusivamente agli Stati Uniti non è solo rischioso, è irresponsabile.
+
+ 
+
+ 
+
+Massimiliano Palladini
+
+ 
+
+ 
+
+**Note**
+
+[\[1\]](#_ftnref1) Jill Colvin, _Trump says he once told a NATO ally to pay its share or he’d “encourage” Russia to what it wanted_, apnews.com, 11 febbraio 2024.
+
+[\[2\]](#_ftnref2) _Russia to bite off much more of Ukraine, Putin ally Medvedev says_, reuters.com, 22 febbraio 2024.
+
+[\[3\]](#_ftnref3) _Russia’s Putin: we have no interest in invading Poland or Latvia_, reuters.com, 9 febbraio 2024.
