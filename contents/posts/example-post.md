@@ -1,0 +1,11 @@
+---
+title: "Prossimo contenuto in uscita, 6\04\2020."
+cover: /images/posts/"screenshot-12-1-e1584216962159.png"
+date: 1584197647
+authors:
+  - riccardo-raspanti
+categories: 
+  - "senza-categoria"
+---
+
+

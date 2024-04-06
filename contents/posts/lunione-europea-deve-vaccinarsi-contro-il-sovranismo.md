@@ -1,0 +1,49 @@
+---
+title: "L'Unione Europea deve vaccinarsi contro il sovranismo"
+cover: /images/posts/"4c28e-v-day-2.jpg"
+date: 1614693393
+authors:
+  - andrea-scipione
+categories: 
+  - "senza-categoria"
+---
+
+Un anno fa in Italia, e quindi in Europa, iniziava a mostrare i suoi effetti la diffusione del SARS-CoV 2. Le tragiche conseguenze sanitarie, economiche e sociali che ha generato e che sta generando sono evidenti a tutti. In questa battaglia contro il virus, segnata da lockdown e sforzi sovraumani degli operatori sanitari, solo la scienza è stata in grado di contrattaccare efficacemente, e lo ha fatto in meno di un anno. Lo sviluppo, in meno di dodici mesi, di diversi vaccini contro Covid-19 è un traguardo storico degli scienziati, che conferma come la ricerca scientifica sia essenziale.
+
+La campagna vaccinale evidenzia l’importanza del ruolo della scienza, ma non meno fondamentale è quello della politica. Perché se alla scienza è dovuto lo sviluppo dei vaccini, alla politica è riservato il compito dell’acquisto e della distribuzione delle dosi necessarie.
+
+Negli ultimi giorni sono emerse diverse polemiche sul comportamento dell’Unione europea riguardo l’approvvigionamento delle dosi vaccinali: lo scopo di questo articolo è cercare di fare un po’ di chiarezza, dove possibile.
+
+Innanzitutto bisogna capire perché l’acquisto dei vaccini è stato affidato alla Commissione Europea e non ai singoli Paesi. La principale motivazione riguarda la necessità di evitare frizioni tra gli Stati membri nell’accaparrarsi le dosi e di garantire quindi una equa distribuzione, evitando di svantaggiare i Paesi europei con un potere contrattuale ed una capacità di spesa minori. Questa scelta ha un importante risvolto positivo, dato che l’Unione Europea ha manifestato una forte coesione davanti ad un compito delicato e difficile. Ma c’è anche un risvolto negativo, poiché la UE diventa il soggetto responsabile delle eventuali falle.
+
+Nei giorni scorsi sono state indirizzate dure critiche alla Commissione sul ritardo delle consegne dei vaccini ai Paesi membri, un ritardo eclatante rispetto al Regno Unito ed agli Stati Uniti, che trova riscontro sulla bassa percentuale di cittadini europei vaccinati.
+
+Perché l’Europa è in ritardo? Dal punto di vista di chi scrive ci sono due motivi.
+
+Una prima ragione sta nel fatto che l’Unione europea non è uno stato federale come gli USA e non ha un governo che può prendere decisioni univoche come UK.
+
+Non va dimenticato che la _policy_ europea è il frutto del compromesso tra i Paesi che compongono l’Unione. Questa forma decisionale non può che non rallentare i processi in un momento in cui giocare d’anticipo è fondamentale.
+
+Le negoziazioni con le aziende farmaceutiche sono svolte da un _Joint Negotation Team_ composto da sette esperti di diversi Paesi europei, nominato e monitorato da uno _Steering Committee_, al quale siedono i rappresentanti di tutti i Paesi UE.
+
+Il secondo motivo che ha ritardato gli approvvigionamenti è l’assenza di aziende farmaceutiche strategiche per lo sviluppo dei vaccini all’interno dei Paesi UE, se si esclude la tedesca BioNTech che ha collaborato allo sviluppo del vaccino Pfizer. Moderna, Johnson&Johnson, la stessa Pfizer, sono aziende americane. Astra Zeneca è un’azienda anglo-svedese, basata principalmente nel Regno Unito e stretta collaboratrice dell’Università di Oxford. La presenza di siti produttivi di queste aziende in Europa evidentemente non basta. Aziende del genere nell’Unione europea avrebbero agevolato il processo di contrattazione e di distribuzione dei vaccini, almeno guardando al passo differente che le vaccinazioni stanno tenendo negli Stati Uniti e nel Regno Unito.
+
+Non si può affermare con certezza che la vaccinazione in Europa sarebbe stata più veloce se aziende simili fossero state già presenti in territorio europeo. Ma si può sicuramente ammettere che tali aziende non sono nate in Europa perché ci sono scarsi investimenti in ricerca e sviluppo da parte dei Paesi europei rispetto ai nostri principali competitors.
+
+L’esempio di BioNTech e di Astra Zeneca, inoltre, illustra bene le differenze che intercorrono all’interno della Unione stessa, quando si parla di investimenti in ricerca. Svezia e Germania, infatti, sono due dei membri UE più virtuosi in questo senso, destinando alla ricerca una quota di PIL superiore alla media UE27. Lo stesso Regno Unito, prima di abbandonare la UE, si attestava ben al di sopra della media comunitaria in termini di investimenti.
+
+Un’analisi va fatta anche sulle competenze necessarie a raggiungere la capacità produttiva dei vaccini contro Covid-19. Questi, soprattutto quello a mRna, sono prodotti complessi che necessitano di risorse naturali scarse e di _know how_ fortemente specializzato.
+
+Da diversi giorni in molti chiedono la liberalizzazione dei brevetti sui vaccini al fine di agevolare la produzione globale. In realtà il problema, di difficile soluzione, è la complessità produttiva. Già da ottobre, Moderna ha rilasciato un comunicato in cui dichiarava che non avrebbe fatto valere la proprietà legale dei brevetti in sede legale se utilizzati durante la crisi sanitaria. Nonostante l’iniziativa (encomiabile) dell’azienda americana, non è partita la produzione su larga scala che ci si potrebbe attendere.
+
+Rifornirsi di materie prime scarse, personale specializzato, stabilimenti adatti allo scopo e dotati dei macchinari necessari, è difficile e richiede diverso tempo. In questi giorni, ad esempio, diverse aziende produttrici stanno ragionando su come esternalizzare la produzione dei vaccini negli stabilimenti farmaceutici presenti in Europa, riadattandone alcuni allo scopo. Ma il processo potrebbe richiedere almeno dai sei agli otto mesi, per vedere la produzione a pieno regime.
+
+In conclusione: l’Unione Europea non ha svolto al meglio il suo compito sull’approvvigionamento dei vaccini, da un lato perché essi sono un bene scarso e prodotto da poche aziende, dall’altro perché le decisioni, anche se accentrate, rimangono frutto di una continua negoziazione tra Stati.
+
+Se in futuro si vorrà rendere più efficiente ed efficace l'azione della Commissione Europea, i Paesi membri dovranno concedere una maggiore capacità decisionale. Un’azione del genere sarebbe un ottimo vaccino contro il sovranismo.
+
+ 
+
+Andrea Scipione
+
+CIVITAS EUROPA - Divisione Economia

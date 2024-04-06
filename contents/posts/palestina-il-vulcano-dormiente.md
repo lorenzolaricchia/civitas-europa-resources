@@ -1,0 +1,73 @@
+---
+title: "Palestina, il vulcano dormiente"
+cover: /images/posts/"71b00-bandiera-palestina.jpg"
+date: 1698296412
+authors:
+  - massimiliano-palladini
+categories: 
+  - "articoli"
+  - "articoli-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "benjamin-netanyahu"
+  - "geopolitica"
+  - "hamas"
+  - "iran"
+  - "israele"
+  - "medio-oriente"
+  - "palestina"
+  - "stati-uniti"
+  - "striscia-di-gaza"
+---
+
+Nel 2022 l’Ucraina, nel 2023 la Palestina. Da un lato una guerra d’aggressione che in Europa non si vedeva da ottant’anni, dall’altro il più grande attacco contro Israele dai tempi della guerra del Yom Kippur. Ancora una volta l’opinione pubblica si è fatta trovare impreparata nel momento dell’eruzione di uno dei **[vulcani dormienti della politica internazionale](https://civitaseuropadoteu.wordpress.com/2023/06/22/dal-donbass-alla-libia-i-vulcani-dormienti-della-politica-internazionale/)**. Anzi, la Palestina è _il_ vulcano dormiente per eccellenza.
+
+La sorpresa per l’invasione russa dell’Ucraina fu comprensibile. Sebbene la guerra tra Kiev e Mosca fosse iniziata già nel 2014, in effetti era dai tempi della Seconda guerra mondiale che il Vecchio Continente non veniva lacerato da un’invasione terrestre di quelle dimensioni. Inoltre, il numero relativamente basso di truppe russe schierate ai confini dell’Ucraina nelle settimane precedenti non lasciava supporre un’invasione su larga scala.
+
+La Palestina però è un’altra storia. È vero che con l’attacco dello scorso 7 ottobre Hamas ha fatto un salto di qualità caratterizzato da una violenza e da un’efferatezza senza precedenti. Da quando controlla la striscia di Gaza, il partito-milizia non aveva mai osato colpire Israele così duramente. Tuttavia, considerata la lunghissima storia del conflitto israelo-palestinese, la guerra in corso non sorprende. Ci troviamo di fronte all’ennesimo capitolo di una tragedia che va avanti da almeno 75 anni.
+
+Come noto, il conflitto ebbe inizio nel maggio 1948 con la proclamazione dello Stato d’Israele e l’immediata invasione da parte di una coalizione di paesi arabi. Dopo una serie di guerre, di fatto risultate nella vittoria israeliana, i principali paesi della coalizione araba hanno fatto la pace con lo Stato ebraico: l’Egitto nel 1979, la Giordania nel 1994.
+
+Questi trattati di pace non hanno però portato alla definitiva risoluzione del conflitto. Gli Stati arabi confinanti rinunciarono alle loro rivendicazioni (eccetto la Siria) ma rimanevano aperte almeno altre due grandi questioni: lo status dei territori occupati da Israele in seguito alla guerra dei Sei giorni del giugno 1967 e la definizione dei confini del futuro Stato palestinese. Gli accordi di Oslo e la creazione dell’Autorità Nazionale Palestinese (Anp) furono i primi importanti passi sulla via della riconciliazione. Ma questo cammino non proseguì.
+
+Nella prima metà degli anni Duemila ci fu la seconda Intifada e nel 2007 Hamas prese il controllo della striscia di Gaza, da cui Israele si era ritirato due anni prima. Nel frattempo, la colonizzazione della Cisgiordania proseguiva, mentre Hamas, con la sua linea visceralmente anti-israeliana, consolidava il suo potere e la sua legittimazione ai danni della decadente Anp di Abu Mazen, succeduto allo storico leader Yasser Arafat, deceduto nel 2004.
+
+Questa breve e incompleta sintesi è sufficiente se non altro per rendere l’idea della complessità della situazione. Il conflitto israelo-palestinese è a tutti gli effetti un’eredità del Novecento, un secolo breve che però in Palestina deve ancora concludersi.  Un lascito novecentesco non solo per quanto riguarda le origini storiche – il declino dei grandi imperi: ottomano prima, britannico poi – ma anche dal punto di vista ideale. La principale posta in gioco è infatti rappresentata dal principio di autodeterminazione dei popoli, che fece la sua irruente comparsa sulla scena internazionale durante la conferenza di pace di Parigi del 1919.
+
+Già in quell’occasione si parlò del futuro della Palestina. La Prima guerra mondiale era finita da pochi mesi e con essa l’Impero ottomano. Bisognava decidere il futuro delle province levantine che la Sublime Porta governò per quattro secoli. La conferenza fu occasione per il confronto tra i progetti sionisti e quelli arabi. A Parigi giunsero infatti, tra gli altri, Chaim Weizmann, il futuro primo presidente dello Stato d’Israele, e il principe Faisal, che insieme a suo padre e ai suoi fratelli aveva guidato la rivolta araba contro gli ottomani. Tra i suoi fratelli c’era anche Abdullah, che diventò poi il primo re di Giordania e che nel 1951 fu ucciso da un estremista palestinese.
+
+Come noto, la dominazione ottomana del Medio Oriente fu sostituita da quella anglofrancese. Nello specifico la Società delle Nazioni assegnò la Palestina alla Gran Bretagna. Una soluzione che ovviamente non accontentò né i sionisti né i nazionalisti arabi. Ad ogni modo, con il benestare inglese l’immigrazione ebraica prese vigore ma non rimase incontrastata: già all’inizio degli anni Venti si registrarono i primi scontri violenti tra ebrei ed arabi.
+
+Cento anni dopo, di passi sulla via della pacificazione ne sono stati fatti pochi. Più che sorprendere, la recente recrudescenza del conflitto riempie di sconforto. Non solo per le vittime innocenti, ma anche per la totale assenza di qualsiasi spiraglio di pace all’orizzonte. Alcuni dicono che è per colpa di Hamas, altri puntano il dito contro Israele, altri ancora sostengono che la responsabilità è di entrambi. Fino a qualche settimana fa tutti erano concordi nel ritenere che il conflitto israelo-palestinese fosse finito nel dimenticatoio. Il punto è un altro: la contrapposizione si è incancrenita a tal punto che l’unica fine plausibile sembra essere la completa sottomissione dell’uno ai danni dell’altro.
+
+Da questa visceralità del conflitto deriva la violenza di Hamas e la brutalità del ministro della difesa israeliano, il quale ha affermato che il suo paese sta combattendo contro “bestie umane” e pertanto si comporterà di conseguenza, come peraltro ha già dimostrato in passato. Comunque, anche le parole del ministro Yoav Gallant non sorprendono: sono semplicemente l’eco di quelle, meno violente ma non meno aberranti, pronunciate dal suo collega Bezalel Smotrich qualche mese fa. Per il ministro delle finanze israeliano il popolo palestinese semplicemente non esiste \[1\].
+
+Considerato l’estremismo che caratterizza i due belligeranti, risulta davvero difficile immaginare concreti scenari di pace. Comunque, a parte questo, il mantenimento dello status quo, cioè la prosecuzione del conflitto, sembra essere nell’interesse della maggioranza delle parti interessate. Andiamo con ordine.
+
+L’occupazione-colonizzazione della Cisgiordania e il blocco di Gaza permettono ad Israele di affermare il proprio dominio sulla Palestina e sui palestinesi senza dover essere costretto a gettare la maschera. L’annessione dei territori occupati e di Gaza – cioè la fine del conflitto per mezzo della totale vittoria israeliana – costringerebbe lo Stato ebraico a mostrare al mondo intero, e specialmente ai suoi sponsor occidentali, la sua vera natura.
+
+Israele non può essere ebraico e democratico. Un’opzione esclude l’altra: o ebraico o democratico. La segregazione a cui sono soggetti i palestinesi della Cisgiordania lascia supporre che in caso di annessione essi sarebbero trattati come cittadini di seconda classe, privati dei diritti politici. Cadrebbe così del tutto il mito della più grande democrazia del Medio Oriente, mito su cui si basa il supporto degli Stati Uniti e dei loro alleati, come ha recentemente confermato il presidente Joe Biden, che non ha resistito alla tentazione di accostare Putin ad Hamas \[2\].
+
+Per lo stesso motivo, lo status quo è nell’interesse dei paesi occidentali. Israele è una democrazia attaccata da un’organizzazione terroristica che vuole distruggerla e pertanto ha il sacrosanto diritto di difendersi. È questa, in soldoni, la politica degli Stati Uniti e dei loro alleati storici nei confronti del conflitto israelo-palestinese. Una politica che ignora i massacri di civili, la segregazione dei palestinesi che vivono nei territori occupati e il blocco di Gaza, salvo qualche timido rimprovero nei confronti della colonizzazione della Cisgiordania. L’annessione di tutti i territori dello Stato palestinese metterebbe seriamente in imbarazzo i paesi occidentali.
+
+Lo status quo, quindi, soddisfa soprattutto Israele e l’Occidente ma anche l’Iran e i paesi arabi. La prosecuzione del conflitto permette alla Repubblica Islamica di accreditarsi come strenuo difensore della causa palestinese agli occhi di quell’opinione pubblica mediorientale che nutre sentimenti anti-israeliani ed è pertanto delusa dal processo di normalizzazione a cui sempre più paesi arabi stanno partecipando. Questi ultimi di fatto hanno perso interesse nella causa palestinese. Pur essendo favorevoli alla normalizzazione dei rapporti, anche loro non accetterebbero l’annessione. Lo status quo è quindi la soluzione ideale.
+
+La continuazione del conflitto soddisfa anche tutti quegli Stati, che costituiscono la maggioranza della comunità internazionale, che riconoscono lo Stato di Palestina. Formalmente, finché Hamas controlla la striscia, l’Anp gode della sua rendita di posizione e Israele si “limita” a colonizzare alcune parti dei territori occupati, la soluzione dei due Stati è ancora possibile. L’annessione comporterebbe la fine, anche formale, di questa messinscena.
+
+Per quanto riguarda Hamas, ufficialmente non riconosce Israele e il suo obiettivo è distruggerlo. Resta da capire come il partito-milizia possa conseguire questo ambizioso obiettivo senza causare la propria estinzione. C’è poi da dubitare che i suoi sponsor siano disposti a finanziare una guerra finalizzata alla distruzione di Israele, la quale vedrebbe il diretto coinvolgimento degli Stati Uniti.
+
+Portare fino in fondo l’obiettivo della distruzione di Israele, oltre ad andare ben al di là delle capacità di Hamas, ne causerebbe il sicuro annichilimento. Perché autodistruggersi?  È più utile espandere la propria rendita di posizione sferrando il colpo di grazia alla credibilità dell’Anp. La legittimità dell’Autorità si riduce giorno dopo giorno, i giovani palestinesi non credono più in essa e Abu Mazen è un leader scolorito, molto anziano e percepito come corrotto.
+
+Accreditarsi come rappresentante unico del popolo palestinese, il quale è stato abbandonato dai politici corrotti dell’Anp e anche dai paesi arabi: sembra questo il principale cambiamento dello status quo che Hamas intende realizzare. Le sue capacità future, sia politiche sia militari, sono però adombrate da un grande punto interrogativo. L’obiettivo della rappresaglia israeliana, infatti, è quello di distruggere Hamas.
+
+ 
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] Per le parole di Yoav Gallant vedere _Israeli Defence Minister Announces Siege On Gaza To Fight ‘Human Animals’,_ huffingtonpost.co.uk, 9 ottobre 2023. Per le dichiarazioni di Bezalel Smotrich vedere _Israeli minister says there’s ‘no such thing as a Palestinian people,’ inviting US rebuke_, edition.cnn.com, 21 marzo 2023.
+
+\[2\] "Hamas and Putin represent different threats, but they share this in common: They both want to completely annihilate a neighboring democracy — completely annihilate it”. Per il testo completo della dichiarazione vedere _Remarks by President Biden on the United States’ Response to Hamas’s Terrorist Attacks Against Israel and Russia’s Ongoing Brutal War Against Ukraine_, whitehouse.gov, 20 ottobre 2023.

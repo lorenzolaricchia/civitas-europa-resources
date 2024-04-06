@@ -1,0 +1,63 @@
+---
+title: "Il viaggio di Biden in Europa e il ritorno della competizione tra blocchi"
+cover: /images/posts/"f68b8-biden.jpg"
+date: 1623998557
+authors:
+  - civitas-europa
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "cina"
+  - "diritti-umani"
+  - "donald-trump"
+  - "g7"
+  - "joe-biden"
+  - "mario-draghi"
+  - "nato"
+  - "relazioni-internazionali"
+  - "russia"
+  - "stati-uniti"
+  - "ue"
+  - "unione-europea"
+  - "xinjiang"
+---
+
+Il viaggio in Europa del presidente degli Stati Uniti Joe Biden, la prima trasferta all'estero da quando ha assunto l'incarico, ha senza dubbio marcato una netta discontinuità con l'amministrazione precedente. Mentre con Donald Trump i vertici euro-americani erano caratterizzati da incomprensioni, accuse, diffidenza reciproca e atteggiamenti poco diplomatici, la visita di Biden si è svolta in un ambiente cordiale, caloroso, come se dopo quattro anni di litigi la famiglia atlantica avesse ritrovato la sua armonia.
+
+È questo quanto emerge leggendo i comunicati finali dei vertici e ascoltando le dichiarazioni dei capi di governo che vi hanno partecipato. Rivelatrici in tal senso le parole del presidente del consiglio italiano Mario Draghi. Con la sua visita in Europa Biden ha avviato un "processo di riaffermazione e ricostruzione delle alleanze fondamentali degli Stati Uniti che erano state indebolite dalla precedente amministrazione" ha affermato il premier pochi minuti prima dell'inizio del vertice Nato. Draghi ha invitato a ricordare la meta del primo viaggio all'estero di Trump, ovvero l'Arabia Saudita, come prova della netta differenza tra l'attuale amministrazione democratica e quella che l'ha preceduta. \[1\]
+
+Il fatto che Biden abbia deciso di recarsi prima in Europa suggerirebbe quindi un cambio di tattica da parte degli Stati Uniti, intenzionati a compattare il club atlantico facendo leva sulla comunanza di valori e di sistema politico.
+
+Tale cambio di tattica si collega al secondo dato che emerge chiaramente dai comunicati redatti al termine dei vertici tra il presidente statunitense e gli alleati europei: il ritorno della competizione tra blocchi nelle relazioni internazionali. Da un lato le democrazie, ovvero gli Stati Uniti e i loro alleati, dall'altro le autocrazie, ovvero Cina e Russia.
+
+Nel comunicato finale del G7 di Carbis Bay la Cina viene menzionata esplicitamente quattro volte. Innanzitutto si chiede di effettuare una nuova e trasparente indagine sull'origine del Covid-19. Dopodiché la si mette in guardia dall'attuare pratiche di concorrenza sleale capaci di limitare la competitività dell'economia internazionale. Poi le viene chiesto di rispettare i diritti umani in relazione allo Xinjiang e ad Hong Kong. Infine si esprime preoccupazione per la situazione nei Mari Cinesi e nello stretto di Taiwan. I firmatari si oppongono con fermezza alle iniziative unilaterali cinesi che mirano a sovvertire lo status quo e ribadiscono il loro impegno a garantire un Indo-Pacifico libero, aperto e inclusivo basato sul diritto internazionale.
+
+La Russia viene citata esplicitamente sei volte. I Sette chiedono a Mosca, tra le altre cose, di porre termine alle sue attività destabilizzanti, in particolare le interferenze nei paesi democratici, e alla repressione della società civile e del settore mediatico. Inoltre, si chiede il ritiro delle truppe russe dal confine orientale dell'Ucraina e dalla Crimea, sottolineando la necessità di dare piena implementazione agli accordi di Minsk del febbraio 2015 e di sostenere il rafforzamento delle istituzioni democratiche ucraine. \[2\]
+
+I comunicati finali dei vertici Nato ed Unione Europea-Stati Uniti ribadiscono e specificano quanto dichiarato in quello del G7. Chiaramente il comunicato dell'alleanza atlantica riserva maggiore attenzione alla Russia. \[3\]
+
+Il contenimento cinese riguarderà anche gli investimenti esteri. Il G7 ha annunciato l'intenzione di lanciare l'iniziativa Build Back Better World (B3W), un piano multi-miliardario di investimenti in infrastrutture dedicato ai paesi in via di sviluppo che si propone come alternativa più trasparente ed ecologica alla Belt and Road Initative (Bri) del governo cinese. Tuttavia, tutti i dettagli del piano devono ancora essere definiti. \[4\]
+
+In sostanza, la strategia statunitense non cambia. L'obiettivo rimane il contenimento dei due rivali principali, ovvero Cina e Russia. Ciò che cambia è la tattica: mentre l'amministrazione Trump prediligeva un approccio unilaterale connotato da un atteggiamento ostile nei confronti degli alleati sia europei che asiatici, accusati di contribuire poco alle alleanze, l'amministrazione Biden adotta un approccio multilaterale finalizzato alla creazione di un blocco democratico.
+
+Tuttavia, la nuova tattica statunitense, sebbene abbia calmato le acque dell'Atlantico settentrionale, non è detto che riesca ad eliminare completamente le differenze di vedute, specialmente nei confronti della Cina. Innanzitutto perché per gli europei essa non rappresenta un rivale strategico tanto quanto lo è per gli Stati Uniti. Inoltre, i Ventisette hanno punti di vista differenti riguardo Pechino. Infine, per l'Unione l'allineamento acritico alla strategia statunitense risulterebbe dannoso in quanto ne danneggerebbe la reputazione internazionale. È quindi interesse dell'Unione Europea definire una propria strategia autonoma non solo nei confronti della Cina ma anche della Russia.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] "Nato, Draghi: "Prima visita di Biden in Europa, ricordate dove andò Donald Trump?" - Video", ilfattoquotidiano.it, 14 giugno 2021. Ultimo accesso 17 giugno 2021.
+
+\[2\] "Carbis Bay G7 Summit Communiqué", consilium.europa.eu, 13 giugno 2021. Ultimo accesso 17 giugno 2021.
+
+\[3\] Per il comunicato finale del vertice Nato vedere: "Brussels summit communiqué. Issued by the Heads of State and Government participating in the meeting of the North Atlantic Council in Brussels 14 june 2021", nato.int, 14 giugno 2021. Per il comunicato finale del vertice Ue-Usa vedere: "EU-US Summit Statement. Towards a renewed Transatlantic partnership", consilium.europa.eu, 15 giugno 2021. Ultimo accesso a entrambi 17 giugno 2021.
+
+\[4\] "G7 rivals China with grand infrastructure plan", reuters.com, 13 giugno 2021. Ultimo accesso 17 giugno 2021.

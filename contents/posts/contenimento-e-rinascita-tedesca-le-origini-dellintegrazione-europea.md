@@ -1,0 +1,64 @@
+---
+title: "Contenimento e rinascita tedesca: le origini dell'integrazione europea"
+cover: /images/posts/"479f5-truman-speech.jpg"
+date: 1587370000
+authors:
+  - massimiliano-palladini
+categories: 
+  - "senza-categoria"
+tags: 
+  - "ceca"
+  - "cee"
+  - "dottrina-truman"
+  - "europa"
+  - "guerra-fredda"
+  - "integrazione-europea"
+  - "nato"
+  - "piano-marshall"
+---
+
+Durante il trentennio 1914-1945 si consumò il suicidio dell'Europa per mezzo delle guerre mondiali. Cuore della politica mondiale nel 1914, **nel 1945 l'Europa era un cumulo di macerie fumanti occupato da un esercito extra-europeo (quello statunitense) e da uno eurasiatico (quello sovietico**). Sulla carta, **Gran Bretagna e Francia vinsero entrambe le guerre mondiali, ma in termini strategici furono anch'esse perdenti.** Nel giro di vent'anni Londra e Parigi persero i gioielli dei loro imperi coloniali e i danni subiti durante la Seconda guerra mondiale furono talmente ingenti che entrambe le capitali non riacquisirono più la capacità di proiettare influenza all'estero che avevano prima del 1939. La crisi di Suez dell'ottobre-novembre 1956 certificò inequivocabilmente questo declassamento.
+
+In poche parole, tutti gli Stati europei uscirono sconfitti dalle guerre mondiali. Così, in un'Europa occidentale drammaticamente ridimensionata, ebbe inizio il processo d'integrazione europea. Secondo la vulgata, sei stati dell'Europa occidentale, guidati da eminenti politici europeisti, decisero di unire gli sforzi per far ripartire i rispettivi paesi. Questa integrazione economico-politica si basava però su una consapevolezza di lungo periodo: la guerra tra gli Stati europei aveva portato alla loro autodistruzione. Essa andava perciò bandita e sostituita dall'integrazione. Il futuro dell'Europa occidentale doveva essere caratterizzato da pace, solidarietà reciproca e crescente integrazione.
+
+Detto così, sembra che il processo d'integrazione europea sia stato un evento completamente endogeno, nient'altro che il frutto di una precisa volontà politica europea. In realtà non fu così. Per essere compreso meglio esso deve essere inserito nel contesto internazionale dell'epoca, ovvero il contesto della rivalità tra Stati Uniti ed Unione Sovietica, che durante la seconda metà degli anni Quaranta e gli anni Cinquanta, quando l'integrazione europea venne alla luce, fu particolarmente accesa.
+
+Nella seconda metà degli anni Quaranta **gli stati dell'Europa occidentale erano accomunati da almeno due obiettivi: evitare una nuova guerra continentale; ricostruire ciò che la guerra aveva distrutto e far ripartire l'economia**. Il primo obiettivo aveva a che fare con la sicurezza nazionale, il secondo con la crescita economica.
+
+Per raggiungere il primo obiettivo gli Stati dell'Europa occidentale firmarono alcuni trattati di mutua difesa. Il 4 marzo 1947 Gran Bretagna e Francia firmarono il trattato di Dunkerque e l'anno successivo fu siglato il trattato di Bruxelles. I firmatari furono Gran Bretagna, Francia, Belgio, Paesi Bassi e Lussemburgo. **Scopo di questi trattati era creare un deterrente in grado di scongiurare un'eventuale invasione dell'Europa occidentale da parte dell'Unione Sovietica.** Tuttavia, i paesi che firmarono il trattato di Bruxelles non avevano le capacità militari per contrastare l'imponenza dell'Armata Rossa. Gli Stati Uniti, forti del monopolio nucleare, furono coinvolti nella difesa dell'Europa occidentale e il 4 aprile 1949 venne firmato il trattato dell'Atlantico del nord che istituì la Nato.
+
+**Avendo le spalle protette dagli Stati Uniti, gli stati dell'Europa occidentale poterono concentrarsi sulla ricostruzione e sulla ripartenza economica.** Anche in questo caso l'aiuto di Washington fu molto importante. L_'European Recovery Program (Erp)_, colloquialmente noto come **piano Marshall**, servì proprio a favorire la rinascita dell'Europa occidentale, Germania ovest compresa.
+
+Ma qual era lo scopo ultimo degli americani? Quale strategia stava alla base delle loro iniziative in favore dell'Europa occidentale? **L'obiettivo era contenere l'espansione verso Occidente del comunismo. È la dottrina del contenimento**, nota anche come _dottrina Truman_, annunciata dall'omonimo presidente in un discorso al Congresso nel marzo 1947 e teorizzata l'anno precedente da George Kennan nel suo famoso “lungo telegramma”.
+
+L'integrazione economico-politica tra gli stati europei avrebbe favorito la loro rinascita e scongiurato che venissero travolti da rivoluzioni comuniste appoggiate dai sovietici. La priorità degli Stati Uniti era evitare che i sovietici egemonizzassero l'Europa occidentale. Un'eventualità del genere sarebbe stata catastrofica per gli americani. Mosca avrebbe controllato tutta l'Europa e avrebbe avuto accesso ai porti sull'Atlantico.
+
+**Piano Marshall, Nato e appoggio politico all'integrazione europea furono quindi iniziative funzionali al contenimento dell'espansionismo comunista**. La strategia americana, come si è accennato, prevedeva la rinascita economica e politica della Germania ovest.
+
+Nell'aprile 1949, durante una conversazione tra il presidente Harry Truman, i vertici politico-militari americani e i ministri degli esteri dei paesi della Nato, Robert Schuman, ministro degli esteri francese, espresse delle perplessità in merito alla strategia americana in Europa occidentale, specialmente per quanto riguardava la rinascita tedesca. Secondo lui, per evitare ulteriori aggressioni tedesche, la soluzione ideale era la “neutralizzazione perpetua della Germania”. Il segretario di stato americano Dean Acheson gli rispose così. “Crediamo che esista un metodo preciso per prevenire il pericolo che la Germania diventi una minaccia per la sicurezza occidentale mentre ancora si sta cercando di orientarla verso Occidente. **Esso consiste nell'integrazione del Reich come un partner autosufficiente in una sempre più unita Europa occidentale**. Vincolando l'economia tedesca a una rafforzata Oeec [1](#sdfootnote1sym), integrando le future armate tedesche in una difesa occidentale unificata e rendendo la Germania membro a pieno titolo del Consiglio e del Parlamento dell'Europa che si svilupperà, potremo far liberamente sfogare le energie tedesche e fornire ai tedeschi una ragione per darsi da fare in quanto membri a pieno titolo insieme agli altri paesi occidentali \[…\] Dobbiamo riconoscere che la ripresa economica tedesca è essenziale non solo ai fini della vitalità dell'economia dell'Europa occidentale, ma anche al fine di prevenire la diffusione del comunismo o la rinascita di altre forme di totalitarismo nella stessa Germania”.
+
+Gli statunitensi impararono la lezione di Versailles. **Annullare la Germania dal punto di vista politico, economico e militare avrebbe creato un vuoto nel bel mezzo dell'Europa. Ciò avrebbe potuto favorire da un lato l'insorgere di risentimenti nazionalisti, dall'altro l'affermazione del comunismo.** La Germania doveva rinascere e fungere da avamposto contro il blocco orientale. Pertanto, andava immediatamente integrata nelle istituzioni europee e nel sistema difensivo occidentale. La Germania ovest fu tra i paesi fondatori della Ceca nel 1951 e della Cee nel 1957 mentre entrò nella Nato nel 1955.
+
+Durante quella conversazione Acheson fece riferimento in modo esplicito alla necessità di avviare l'integrazione europea. “Riteniamo che in Europa occidentale debba formarsi un nuovo sentimento di unità, un nuovo scopo dinamico che riesca a ridare vigore a spiriti cinici e prostrati dalla guerra, un antidoto, in un certo senso, al richiamo del comunismo internazionale”. Secondo il segretario di stato, la finalità di questo processo era duplice. “Collegando le economie europee a una cooperazione politica più stretta sortiremo due effetti. Dando una base solida alla ricostruzione potremo ridurre la minaccia comunista interna e parallelamente fornire la base potenziale indispensabile per un adeguato, futuro riarmo”.
+
+In quell'occasione il ministro degli esteri britannico Ernest Bevin pronunciò parole che, visto quanto accaduto settant'anni dopo, si rivelarono profetiche. Riferendosi all'integrazione economica e politica dell'Europa occidentale egli disse. “**Francamente, noi non ci consideriamo una nazione continentale; noi dobbiamo badare a un’associazione come il Commonwealth**, che si estende a livello mondiale e quindi il nostro atteggiamento verso il continente è all’incirca simile a quello americano. Abbiamo intenzione di accollarci più parte del fardello di quanto ci spetterebbe, ma non desideriamo impegolarci in un groviglio di impegni finché questi non abbiano avuto un lungo periodo di gestazione e finché non saremo sicuri che non ci vincolino a una serie di governi politicamente instabili che sono poi anche economicamente deboli".
+
+Il sostegno economico con il piano Marshall, le garanzie sulla sicurezza attraverso la Nato, e l'appoggio politico furono le tre iniziative statunitensi che favorirono la nascita dell'integrazione europea. Ciò non significa che tale processo sia una mera macchinazione degli Stati Uniti. Senza la decisa volontà politica di alcuni statisti europei non si sarebbe potuto dar vita ad alcuna integrazione duratura e condivisa. Washington diede una spinta ma la strada da seguire fu individuata dagli europei. In ogni caso, non si può nascondere che gli Stati Uniti ebbero un ruolo di primo piano nella nascita dell'integrazione europea.
+
+CIVITAS EUROPA - Divisione Relazioni Internazionali
+
+Massimiliano Palladini
+
+ 
+
+ 
+
+**Note**
+
+[1](#sdfootnote1anc) Oeec è l'acronimo di Organization for European Economic Cooperation, in italiano Organizzazione per la cooperazione economica europea. Si tratta di un'organizzazione creata da 16 stati nel 1948 con lo scopo di creare una forte economia europea e razionalizzare gli aiuti americani del piano Marshall. Per saperne di più visitare il seguente link: [http://www.treccani.it/enciclopedia/oece\_%28Enciclopedia-Italiana%29/](http://www.treccani.it/enciclopedia/oece_(Enciclopedia-Italiana)/)
+
+ 
+
+**Fonti**
+
+"La strategia segreta della Nato - Verbale" in "America contro tutti", Limes. Rivista italiana di geopolitica, 12/2019.

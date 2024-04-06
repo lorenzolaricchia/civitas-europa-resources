@@ -1,0 +1,66 @@
+---
+title: "Brexit, a che punto sono i negoziati per il trattato commerciale?"
+cover: "/images/posts/brexit-a-che-punto-sono-i-negoziati-per-il-trattato-commerciale.jpg"
+date: 1594712933
+authors:
+  - massimiliano-palladini
+categories: 
+  - "articoli"
+  - "articoli-relazioni-internazionali"
+tags: 
+  - "accordo-commerciale"
+  - "brexit"
+  - "mercato-unico"
+  - "michel-barnier"
+  - "regno-unito"
+  - "unione-doganale"
+  - "unione-europea"
+---
+
+_Potete leggere il nostro articolo di approfondimento sulla Brexit e sulle sue possibili ripercussioni sull'integrità territoriale del Regno Unito cliccando_ [qui](https://civitaseuropadoteu.wordpress.com/2020/07/13/brexit-il-ritorno-allo-splendido-isolamento-del-regno-unito/).
+
+ 
+
+A partire dal 1° febbraio di quest'anno il Regno Unito è ufficialmente fuori dall'Unione Europea. La Union Jack non sventola più davanti alle sedi delle istituzioni europee e, all'interno di queste, non sono più presenti i rappresentanti britannici. Infatti, il primo ministro britannico non ha partecipato alle accese discussioni degli ultimi mesi relative agli strumenti da adottare per affrontare le conseguenze economiche della pandemia.
+
+Il capitolo Brexit però non è ancora chiuso. Infatti, nonostante la Gran Bretagna sia ufficialmente fuori dall'Unione, dal punto di vista giuridico ed economico i rapporti tra Bruxelles e Londra sono rimasti invariati. I regolamenti dell'Unione Europea continuano ad essere applicati nel Regno Unito, il quale fa ancora parte del mercato unico e dell'unione doganale e gode delle quattro libertà di movimento (delle merci, delle persone, dei servizi, dei capitali). Inoltre, la Corte di Giustizia Europea esercita ancora la sua giurisdizione sul suolo britannico.
+
+Le relazioni tra Bruxelles e Londra si trovano in un "periodo di transizione" che durerà fino al 31 dicembre 2020. Lo scorso mese il governo britannico e la Commissione Europea hanno deciso di non estendere tale scadenza. Solo al termine di questa fase transitoria il Regno Unito sarà completamente fuori dall'Unione Europea.
+
+Durante questo periodo Bruxelles e Londra devono negoziare un trattato commerciale che regoli gli scambi tra l'Unione e il Regno Unito e che definisca le modalità di accesso di quest'ultimo al mercato unico una volta terminata la transizione.
+
+I lavori sono cominciati lo scorso 2 marzo. Poi c'è stata la pandemia. Ciononostante le trattative sono continuate a distanza e nelle ultime settimane hanno ripreso a svolgersi in presenza, alternando Bruxelles e Londra come sedi dei lavori. Mentre la delegazione europea è guidata dal noto Michel Barnier, quella britannica è capeggiata dall'ex diplomatico David Frost, che ha assunto l'incarico di capo negoziatore lo scorso 1° febbraio.
+
+Finora i negoziati hanno suscitato poco ottimismo. Il 9 luglio, dopo una sessione di lavori informale tenutasi a Londra, Barnier ha dichiarato che ci sono delle "divergenze significative". Si tratta di una conferma di quanto egli stesso dichiarò una settimana prima al termine di una quattro giorni di lavori.
+
+Le questioni sul tavolo sono numerose, tra cui quella dei diritti sulla pesca. Mentre l'Ue vuole confermare il diritto di accesso alle acque britanniche da parte delle imbarcazioni dei paesi membri, il Regno Unito vuole che si tengano trattative annuali  per discutere l'accesso alle sue acque.
+
+Per Bruxelles inoltre è molto importante assicurarsi che, una volta terminata la transizione, la competizione tra Ue e Uk sia libera e leale. Londra non dovrà ottenere dei vantaggi competitivi che danneggino l'Unione. In particolare Bruxelles vuole che la competizione sia libera e leale in questi ambiti: diritti dei lavoratori, tutela ambientale, tassazione e aiuti di Stato. Trovare un accordo su questi argomenti è essenziale per definire come Londra potrà accedere al mercato unico una volta terminata la transizione.
+
+A meno di sei mesi dalla fine del periodo transitorio grosse divergenze rimangono, ma entrambe le parti affermano di non voler estendere la scadenza. Specie il governo britannico è fermamente intenzionato a rispettare il termine predefinito. Sembra un copione già letto.
+
+Per ora l'unica certezza è che il tempo per fare un bilancio definitivo delle conseguenze della Brexit sull'economia britannica è ancora lungi dall'arrivare. Ciò potrà essere fatto solo dopo la fine del periodo di transizione, quando Londra non farà più parte del mercato unico né dell'unione doganale.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+ 
+
+**Fonti**
+
+"Transition period", ec.europa.eu. Ultimo accesso 11 luglio 2020.
+
+"EU-UK negotiations on the future relationship", consilium.europa.eu. Ultimo accesso 11 luglio 2020.
+
+"Brexit: UK and EU agree not to extend transition period beyond December 2020", euronews.com, 16 giugno 2020. Ultimo accesso 11 luglio 2020.
+
+"Statement by Michel Barnier following the restricted round of negotiations for a new partnership between the European Union and the United Kingdom", ec.europa.eu, 2 luglio 2020. Ultimo accesso 11 luglio 2020.
+
+""Significant divergences" in UK-EU talks - Michel Barnier", bbc.com, 9 luglio 2020. Ultimo accesso 11 luglio 2020.
+
+"Brexit: what is a level playing field?", bbc.com, 21 gennaio 2020. Ultimo accesso 12 luglio 2020.

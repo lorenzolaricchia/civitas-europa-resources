@@ -1,0 +1,39 @@
+---
+title: "La destra europea va a Bruxelles sul trattore"
+cover: /images/posts/"5ba04-1200x675_cmsv2_264ba7cc-a4c3-507c-ac1f-bda38a6191c1-8266660.webp"
+date: 1709029816
+authors:
+  - riccardo-raspanti
+categories: 
+  - "senza-categoria"
+---
+
+_Nella giornata di ieri i trattori hanno terrorizzato Bruxelles, nell’ultimo atto di un braccio di ferro tra l’Unione e la categoria più sussidiata del continente, cui è dedicato il 55% del bilancio comunitario. La destra europea sta tentando di indirizzare il movimento verso il rifiuto del modello di sviluppo proposto dalla UE, esibendosi in evoluzioni retoriche incredibili. Questo accade anche in Italia, dove il governo assiste alla protesta rivolgendo il dito contro la bandiera dalle dodici stelle._
+
+ 
+
+Per settimane, gli automobilisti di tutta Europa hanno dovuto fare i conti con un nuovo ostacolo al traffico: i trattori. Un John Deere parcheggiato di stralcio all’imbocco dell’autostrada non è più un evento eccezionale. E’ diventato parte della quotidiana lotta con una viabilità al collasso: in palio l’ambito premio del raggiungimento del posto di lavoro nei tempi richiesti per non farsi licenziare.
+
+Nel caso dell’Italia, la crisi dell’agricoltura si colloca proprio nel mezzo della trafficata strada della scontentezza. La crisi economica (e sociale) interessa tutti quanti, non solo gli agricoltori. I salari non crescono da vent’anni, le PMI volteggiano sull’orlo del baratro, la crescita economica è messa a repentaglio dall’assenza di riforme e, al contrario, dall’ingombrante presenza delle categorie tutelate perché serbatoio di voti. La destra sguazza in questa gara al ribasso, mettendo povero contro povero, lavoratore contro lavoratore, utilizzando qualsiasi mezzo politico per far sì che le (limitate) risorse pubbliche vengano destinate a gruppi amici.
+
+Così, il settore agricolo finisce per essere rappresentato come un blocco monolitico, raggruppando la piccola azienda di famiglia con IL Lamborghini e la grande azienda con LA Lamborghini (quella a cui l’aratro non si può attaccare, per intenderci). Per lo stupore di assolutamente nessuno, le richieste di questo fantomatico blocco coincidono quasi totalmente con le esigenze delle grandi aziende agricole, le principali destinatarie dei sussidi europei calcolati sugli ettari coltivabili, nonché quelle più restie ad adeguarsi alle richieste del Green Deal e alla transizione verso la _sostenibilità_, dato che essa rima solo sulla carta con _intensità_.
+
+Passano in sordina le preoccupazioni dei piccoli agricoltori, relative ai prezzi dei propri prodotti nel circuito della grande distribuzione, alla concorrenza sleale dei prodotti provenienti da fuori l’Unione, agli investimenti richiesti per adeguare le tecniche e i macchinari al modello di agricoltura sostenibile.
+
+Il Green Deal, lungi dall’essere la fine per il settore agricolo, ne costituisce il potenziale rilancio secondo nuovi schemi. Se la PAC non è più quella di una volta e i sussidi sono ridotti in scopo (a questo proposito: perché non si responsabilizzano i governi nazionali, detentori delle risorse, invece dell’Unione?), il paradigma deve essere cambiato.
+
+Le associazioni degli agricoltori, concentrate sugli interessi dei loro maggiori contributori, disegnano le politiche ambientali europee come foriere di ogni disastro. Quello che dimenticano di riferire ai propri associati è che l’inclusione del settore agricolo nell’_Emission Trading System_ europeo riguarderebbe solo le grandi aziende agricole, escludendo le piccole, come già avviene negli altri settori regolamentati. La Legge sul Ripristino della Natura, poi, avrebbe benefici incalcolabili[\[1\]](#_ftn1) a livello economico e nella prevenzione degli eventi climatici che danneggiano le colture, quali alluvioni, siccità, grandine ecc.
+
+In seguito all’ondata di proteste, i Popolari Europei, pilastro della maggioranza in Parlamento Europeo, hanno dimostrato quanto ondivago sia il loro appoggio al Green Deal e alle iniziative legislative in esso contenute. Non a caso la Nature Restoration Law è stata azzoppata, assieme ai nuovi regolamenti sull’utilizzo di pesticidi in agricoltura. Le elezioni europee sono prossime e i popolari non vogliono alienarsi una categoria che, da sempre, li appoggia politicamente.
+
+La protesta degli agricoltori possiede un fondamento, questo va doverosamente riconosciuto. Ciò che non può e non deve essere accettato è la riconduzione delle radici del problema alla politica ambientale europea. Il disegno, a destra, pare essere proprio quello di utilizzare i trattori per forzare la propria via alla maggioranza in Parlamento. La prospettiva della saldatura tra Popolari e Conservatori mette a repentaglio non solo il Green Deal, ma la leadership globale dell’UE nel campo dei nuovi modelli di sviluppo sostenibile.
+
+ 
+
+Riccardo Raspanti
+
+ 
+
+Nota:
+
+[\[1\]](#_ftnref1) Calcolabilissimi, in realtà: la Commissione ha stimato che ogni euro investito nel ripristino degli habitat avrà un ritorno stimato tra gli 8 e i 38 euro. Si veda il _Factsheet on Nature Restoration Law_.

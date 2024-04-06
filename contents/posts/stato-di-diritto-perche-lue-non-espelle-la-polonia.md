@@ -1,0 +1,60 @@
+---
+title: "Stato di diritto: perché l'Ue non espelle la Polonia?"
+cover: /images/posts/"ed27f-91be04b6-0b9f-4f18-bf48-a5179dc72292.jpeg"
+date: 1608389529
+categories: 
+  - "analisi"
+  - "senza-categoria"
+tags: 
+  - "diritti"
+  - "polonia"
+  - "stato-di-diritto"
+  - "ue"
+  - "unione-europea"
+---
+
+Ad incendiare il dibattito europeo nelle ultime settimane è stato -  oltre agli assembramenti non consentiti a cui ha partecipato l’ormai ex eurodeputato ungherese Jozsef Szajer - il veto temporaneo imposto da Ungheria e Polonia contro le condizionalità relative all’erogazione dei fondi UE e al NextGenerationEU (meglio conosciuto come Recovery Fund).
+
+“O rispettate lo stato di diritto o non prendete i soldi”, aveva tuonato l’EU, “non potete farlo” hanno risposto Ungheria e Polonia che negli ultimi anni hanno fatto grandi fortune opponendosi ad un’Europa dei valori imponendo un sovranismo intransigente ovvero una piena autonomia degli stati membri ma godendo contemporaneamente dei contributi dei fondi europei per le loro economie.
+
+Inizialmente, Il pugno duro di questi due stati sembrava non cedere, con l’Europa alla ricerca di soluzioni alternative nella convinzione che i soldi servono, in fretta e se fosse possibile a tutti. È noto, infatti, che Ungheria e Polonia sono partner commerciali importantissimi per la Germania, la quale, ricoprendo il turno di presidenza, ha guidato le trattative.
+
+Alla fine, dopo un serrato negoziato a tre con la cancelliera Angela Merkel, i due paesi hanno abbassato la guardia a favore di un compromesso che prevede che le decisioni sulle sanzioni per la violazione dello stato di diritto non possano essere prese senza che la Corte di Giustizia abbia dato parere favorevole. La questione è stata risolta durante il Consiglio Europeo del 10-11 dicembre.
+
+Alla luce di questa situazione, è lecito chiedersi perché l’Europa abbia voluto mettere queste condizionalità sul rispetto dello stato di diritto e perché, in passato, abbia ripetutamente richiamato la Polonia e avviato la procedura per sospendere questo stato attraverso l’utilizzo del articolo 7 del Trattato di Lisbona \[1\]. In poche parole, in che modo la Polonia non sta rispettando lo stato di diritto e in generale i principi fondamentali democratici europei?
+
+**Relazione europea sullo stato di diritto 2020**
+
+Il documento principale che ci informa su questa tematica è il Report redatto nel 2020 dalla Commissione Europea per monitorare lo stato di diritto all’interno dell'Unione attraverso il coinvolgimento di tutti gli Stati Membri. In particolare in questa analisi si prendono in considerazione alcune aree particolarmente rilevanti tra cui il sistema giuridico, il sistema anti-corruzione, il pluralismo dei media e altre questioni istituzionali relative al bilanciamento dei poteri. In quest’ultimo punto ci si riferisce principalmente al ruolo della società civile ed alle sue libertà, al processo attraverso il quale vengono emanate le leggi (discussioni parlamentari con coinvolgimento delle opposizioni o decisioni prese solo dall’esecutivo o attraverso modalità emergenziali, conosciute in Italia come DPCM), all’indipendenza delle varie autorità e all’accessibilità e al controllo giurisdizionale delle decisioni amministrative.
+
+Per la Polonia si fa riferimento, in particolare, alla riforma avvenuta nel 2015, anno di svolta nella politica polacca con la vittoria sia nelle elezioni presidenziali che in quelle parlamentari del partito ultraconservatore del PIS (_Prawo i Sprawiedliwość_ in polacco, ovvero Diritto e Giustizia). Da quel momento in poi, l’esecutivo si è particolarmente impegnato per aumentare la sua influenza e controllo sul sistema giuridico minandone l’indipendenza e chiaramente le basi dello stato di diritto.
+
+Per quanto riguarda la lotta alla corruzione, sicuramente il report riconosce positivamente la presenza di un quadro giuridico e istituzionale che la possa combattere e prevenire, ma individua contemporaneamente in questo quadro delle debolezze strutturali e una scarsa indipendenza di quelle istituzioni responsabili di sconfiggere la corruzione. A questo proposito il report ricorda che in Polonia, l’ufficio centrale anticorruzione sottosta all’esecutivo e il Ministro della giustizia è allo stesso tempo anche Procuratore generale. Ciò, si legge nel report, “aumenta la vulnerabilità alle influenze politiche per quanto riguarda l'organizzazione dell'ufficio della procura e le indagini.” In altre parole, nel momento che il potere politico e quello giudiziario di uniscono come in questo caso, la politicizzazione nell’applicazione della legge è un dato di fatto.
+
+Per quanto riguarda il pluralismo mediatico, altro caposaldo che permette il rispetto dello stato di diritto, le falle riguardano anche qui l’indipendenza delle autorità di regolamentazione dei media e la politicizzazione di tali autorità nonché la poca trasparenza rispetto a chi è proprietario di questi media. Un altro punto saliente che riguarda la libertà di espressione dei giornalisti, è il fenomeno di criminalizzazione degli insulti ai funzionai pubblici.
+
+In ultima analisi il report ricorda che il sistema di “checks and balances” non è propriamente funzionante in quanto le opposizioni, come la molteplicità degli attori portatori di interessi, non sono state consultate nel processo decisionale. Questo infatti è avvenuto, tra il 2015 e il 2019, in maniera sbrigativa e accelerata e come già detto ha portato ad un aumento dell’influenza dell’esecutivo sul potere giudiziario.
+
+La buona notizia rimane l’attività vivace e vibrante della società civile come abbiamo potuto osservare nel caso della legge sull’aborto dove, nonostante la pandemia, le restrizioni e l’ostruzione del governo centrale, tantissime persone sia nella capitale che nei centri più piccoli si sono riversate nelle piazze per proteggere questo diritto. Una preoccupazione importante è destata dall’atteggiamento del PIS nei confronti dei diritti LGBTI+. Le figure di spicco di questa comunità hanno subito negli anni, insieme ad attacchi diffamatori e discriminatori anche numerosi abusi, arresti e detenzioni.
+
+A questa situazione sullo stato di diritto si unisce una retorica ed un'ideologia ultraconservatrice e fortemente anti-immigrazionista del PIS, il quale tra il 2015 e oggi è stato il protagonista di una radicalizzazione evidente, spostandosi inesorabilmente su posizioni estreme in vari ambiti tra cui i diritti LGBTI+, gli immigrati, i diritti delle donne (vedi aborto) e il ruolo della religione e l’Europa.
+
+**Soluzioni?**
+
+A questo punto viene automatico chiedersi: come mai l’Europa non ha preso seri provvedimenti contro questo stato che, come chiarito, sta disintegrando passo dopo passo tutti quei principi democratici, liberali e sociali cosi cari al progetto Europeo?
+
+La risposta è data dagli interessi economici e dalla mancanza di strumenti giuridici.
+
+Benché ci sia sicuramente la speranza che il meccanismo sul Recovery Fund possa aiutare a creare ulteriore pressione sul sovranismo polacco per, cosi dire, placarlo, d’altro canto la questione cruciale è che l’Unione Europea non si è mai dotata di uno strumento giuridico vero e proprio per espellere uno stato membro se non, come abbiamo visto nel caso della Brexit, sia lo Stato membro ad esprimere questa volontà.
+
+Questo è però un caso quasi impossibile quando si parla di Polonia. I benefici nel rimanere nell’Unione sono conosciuti ai più e risiedono principalmente nei contributi europei per il sociale e l’agricoltura grazie ai quali la Polonia ha potuto prosperare economicamente negli ultimi anni (anche se non a beneficio dell’intera popolazioni bensì spesso solo di una piccola cerchia di lobby vicina al PIS). Ergo, la Polonia nonostante un forte euroscetticismo, non vorrà in alcun modo uscire dall’UE ma altresì non è disposta a partecipare ad un’Europa dei valori più integrata e unita.
+
+D’altro canto l’UE si trova ad avere degli interessi, ancora una volta economici, elevati nel accattare la Polonia come stato membro ma è cosciente che mantenere queste cosiddette pecore nere all’interno del sistema crea imbarazzo e perdita di credibilità agli occhi di chi crede che l’Europa sia prima di tutto (cioè prima della questione economica) una condivisione di una visione sociale, politica basata su valori, di cui lo stato di diritto ne è il fondamento.
+
+Le soluzioni sottostaranno quindi inevitabilmente ad una valutazione delle priorità tra l’economia e i valori europei.
+
+ 
+
+CIVITAS EUROPA - COLLABORATORE ESTERNO
+
+Camilla Valerio

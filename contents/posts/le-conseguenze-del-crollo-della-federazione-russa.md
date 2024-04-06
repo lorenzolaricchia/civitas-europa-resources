@@ -1,0 +1,66 @@
+---
+title: "Le conseguenze del crollo della Federazione Russa"
+cover: /images/posts/"32160-vladimir_putin_2022-08-18_02.jpg"
+date: 1669149091
+authors:
+  - massimiliano-palladini
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "crimea"
+  - "donbass"
+  - "giulio-andreotti"
+  - "guerra-russo-ucraina"
+  - "russia"
+  - "ucraina"
+  - "unione-sovietica"
+  - "vladimir-putin"
+---
+
+Il giorno di Natale del 1991 l’allora presidente del consiglio Giulio Andreotti commentò con queste parole il momento in cui la bandiera rossa fu calata per sempre dal pennone del Cremlino e sostituita con il tricolore russo, passaggio culminante della dissoluzione dell’Unione Sovietica, materializzatisi infine ed inevitabilmente anche nel più pregnante dei simboli statali.
+
+_È un Natale molto patetico perché in altri tempi pensare che il giorno di Natale si ammainasse la bandiera rossa dal Cremlino ci avrebbe riempito di gioia. Adesso questa inquietudine di cui ha parlato Gorbaciov è partecipata anche da noi. Abbiamo vissuto sei anni di una politica di grande collaborazione internazionale che ha portato a dei risultati enormi. Adesso abbiamo una fase di assestamento nella quale può succedere di tutto_ \[1\]
+
+Nel trentennio 1991-2021 ci siamo cullati nell’illusione che la _fase di assestamento_ successiva al crollo dell’Unione Sovietica fosse un processo tutto sommato ordinato e senza conseguenze particolarmente significative per la stabilità del sistema internazionale. In effetti, le guerre scoppiate negli anni Novanta nello spazio ex sovietico, per quanto sanguinose e drammatiche per le popolazioni coinvolte, non ebbero conseguenze particolarmente rilevanti a livello internazionale.
+
+Persino l’invasione russa della Georgia dell’agosto 2008 accadde in sordina, senza risultare in una reazione internazionale nemmeno lontanamente paragonabile a quella che ha investito la Russia all’indomani dell’invasione dell’Ucraina. E però la degenerazione del conflitto tra il governo georgiano e i separatisti appoggiati dalla Russia ci avrebbe dovuto far capire che nello spazio ex sovietico le tensioni continuavano a ribollire e soprattutto che il Cremlino era disposto ad imporre i propri interessi ai danni dei paesi confinanti facendo ricorso alla forza.
+
+Gli Stati Uniti e i loro alleati hanno aperto gli occhi e hanno reagito solo in seguito all’annessione della Crimea, ovvero solo quando la Russia ha aggredito un _paese_ _europeo_ per modificarne i confini. Fu così che ebbe iniziò la guerra russo-ucraina. Nell'estate 2014 la Russia invase anche le province di Donetsk e Luhansk per dare manforte ai separatisti, attentando nuovamente all'integrità territoriale del vicino. Eppure, nonostante la gravità dei fatti del 2014 e l’incapacità delle parti coinvolte di accordarsi su una sistemazione definitiva delle dispute, l’attenzione nei confronti di questo conflitto scemò rapidamente – una delle conseguenze degli accordi di Minsk del febbraio 2015 – tant’è che la guerra del Donbass (di fatto una guerra nella guerra) fu definita da più parti la _guerra dimenticata d’Europa_ \[2\].
+
+Si trattava di uno schema tipico di molti conflitti scoppiati nello spazio ex sovietico. Dopo una fase iniziale più o meno duratura di scontri armati, alcuni di questi conflitti sono stati _congelati_ con accordi di cessate il fuoco che tuttavia non sono stati seguiti da accordi di pace definitivi. Come i prodotti alimentari mal conservati, alcuni di questi conflitti, non essendo stati risolti, si sono scongelati.
+
+La recrudescenza, avvenuta nell’autunno 2020, della guerra tra Armenia ed Azerbaigian per il controllo del Nagorno-Karabakh avrebbe dovuto suonare come un campanello d’allarme. Cioè avrebbe dovuto farci capire che, anche dopo decenni \[3\], i conflitti nello spazio ex sovietico possono riaccendersi con drammatica violenza.
+
+Invece abbiamo preferito cullarci nelle nostre illusioni, convincendoci che la guerra russo-ucraina ormai era stata congelata dagli accordi di Minsk. Abbiamo commesso un tragico errore di valutazione. Non abbiamo capito che la _fase di assestamento_ non si era ancora conclusa e quindi _tutto poteva ancora succedere_.
+
+La guerra russo-ucraina è senza dubbio una conseguenza della dissoluzione dell’Unione Sovietica. Sarebbe tuttavia superficiale individuare nella fine dell’impero sovietico l’_unica_ causa, o anche la causa principale, all’origine della guerra. Infatti, si può dire che essa risiede nel fatto che il governo russo non riconosce il diritto dell’Ucraina di condurre una politica estera indipendente. Ovvero, la Russia non riconosce l’Ucraina come Stato indipendente e sovrano.
+
+Mosca, quindi, nonostante la dissoluzione del suo impero sovietico, non ha rinunciato alle sue ambizioni imperiali; cioè continua a pretendere il diritto di esercitare un’influenza politica, economica e militare preponderante nei confronti di alcuni Stati che ritiene di massima importanza per la propria sicurezza nazionale. L’Ucraina, insieme alla Bielorussia e al Kazakistan, è uno di questi Stati.
+
+Il guaio è che la Russia è talmente debole che non solo non riesce ad attrarre nuovi paesi nella propria orbita ma non è nemmeno in grado di garantire benefici sufficienti ai paesi che di tale orbita dovrebbero far parte. Per questo motivo gli ucraini nell’autunno 2013 scesero in piazza chiedendo al governo di allontanarsi dalla Russia e di avvicinarsi all’Unione Europea. Perché mentre Mosca si limitava ad elargire mazzette per far sì che i suoi amici di Kiev rimanessero al potere, una parte della popolazione ucraina vedeva nell’Unione Europea uno strumento che avrebbe potuto aiutare il paese ad uscire dai marosi della corruzione e della povertà.
+
+Oggigiorno che la guerra russo-ucraina è degenerata e ha assunto di fatto i connotati di una guerra per procura, alcuni in Occidente auspicano la fine della Federazione Russa. Pur essendo più diffuso in certi paesi rispetto ad altri \[4\], tale desiderio deriva dalla convinzione che fino a quando la Russia sarà una grande potenza, o avrà la _pretesa di esserlo_, rappresenterà una minaccia per la sicurezza dell’Europa.
+
+Per quanto odiosa e criminale sia la guerra d’aggressione scatenata dalle autorità moscovite, chi desidera la dissoluzione della Federazione Russa dimostra di non aver compreso il fatto che quando uno Stato grande e potente si dissolve ci sono _sempre_ delle conseguenze nefaste non solo per i territori che di quello Stato facevano parte ma anche per i paesi confinanti e per il resto del mondo. Forse tali conseguenze non si presenteranno subito, ma _presto o tardi_ lo faranno.
+
+La Federazione Russa non è l’Unione Sovietica ma è comunque lo Stato più esteso del mondo, con una popolazione eterogenea dal punto di vista etnico e religioso ed è dotato del più vasto arsenale nucleare. Non ci vuole uno stratega per capire che se l’immenso spazio che va dal Baltico al Pacifico e dal Caucaso settentrionale all’Artico sprofondasse nell’instabilità ci sarebbero delle ripercussioni altamente destabilizzanti per l’intero sistema internazionale. Né ci vuole un raffinato conoscitore delle relazioni internazionali per comprendere che ingerenze esterne nel processo di dissoluzione sarebbero devastanti e potrebbero portare a una grave crisi o addirittura a una guerra tra lo Stato in dissoluzione e gli Stati che interferiscono. L’invasione russa dell’Ucraina dovrebbe ormai aver reso chiaro a chiunque che una grande potenza, o sedicente tale, quando si sente messa all’angolo agisce in maniera imprevedibile e aggressiva.
+
+Se la guerra in Ucraina darà avvio al processo di dissoluzione della Federazione Russa molti si sentiranno riempiti di gioia. Ma questo sentimento lascerà presto spazio a una profonda inquietudine, almeno in coloro dotati di quel briciolo di buon senso necessario per prendere consapevolezza dei rischi derivanti dalla potenziale proliferazione incontrollata di migliaia di testate nucleari. In ogni caso il mondo dovrà fare i conti con una nuova fase di assestamento, forse ancor più destabilizzante di quella seguita al dissolvimento dell’impero sovietico.
+
+ 
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] LA NOTIZIA DELLA DISSOLUZIONE DELL'URSS - 25 DICEMBRE 1991 (EDIZIONE STRAORDINARIA), canale Youtube lucazollino75canale7, caricato il 10 marzo 2021. Link: [https://www.youtube.com/watch?v=MCnr9nxkdG0&ab\_channel=lucazollino75canale7](https://www.youtube.com/watch?v=MCnr9nxkdG0&ab_channel=lucazollino75canale7).
+
+\[2\] Tra i tanti si veda per esempio David Bond, Roman Olearchyk, _Ukraine: On the frontline of Europe’s forgotten war_, ft.com, 6 settembre 2018.
+
+\[3\] La prima guerra del Nagorno-Karabakh iniziò nel 1988 e si concluse con un cessate il fuoco nel 1994 (il cosiddetto protocollo di Bishkek). Questo accordo non fu seguito da una sistemazione definitiva della disputa e perciò la guerra proseguì a bassa intensità per i successivi 26 anni. Nel 2020 scoppiò la seconda guerra del Nagorno-Karabakh, che non fu altro che il risultato dell’incapacità delle parti coinvolte di stipulare un accordo di pace definitivo. Il conflitto continua ad essere irrisolto e la guerra è entrata in un’altra fase a bassa intensità. Si veda _About 100 troops killed in clashes between Armenia and Azerbaijan_, theguardian.com, 13 settembre 2022.
+
+\[4\] L’ex presidente polacco Lech Walesa è probabilmente il portavoce più radicale di coloro che auspicano la fine della Federazione Russa. _Guerre en Ukraine. Lech Walesa suggère de «ramener» la Russie à «moins de 50 millions d'habitants»_, lefigaro.com, 10 luglio 2022.

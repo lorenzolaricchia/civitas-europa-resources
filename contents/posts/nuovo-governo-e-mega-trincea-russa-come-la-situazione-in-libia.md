@@ -1,0 +1,83 @@
+---
+title: "Nuovo governo e mega trincea russa: com'è la situazione in Libia?"
+cover: "/images/posts/nuovo-governo-e-mega-trincea-russa-come-la-situazione-in-libia.jpg"
+date: 1617031734
+authors:
+  - civitas-europa
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "egitto"
+  - "francia"
+  - "germania"
+  - "guerra-civile-libica"
+  - "italia"
+  - "libia"
+  - "mediterraneo"
+  - "nord-africa"
+  - "russia"
+  - "tripoli"
+  - "turchia"
+  - "ue"
+  - "unione-europea"
+---
+
+Il 25 marzo i ministri degli esteri di Italia, Germania e Francia si sono recati a Tripoli per incontrare i vertici del nuovo governo ad interim libico, ovvero il primo ministro Abdul Hamid Dbeibah e il capo del consiglio presidenziale Mohamed Ahmed al-Manfi \[1\].
+
+Durante la loro visita i tre ministri hanno espresso il loro appoggio al nuovo esecutivo, visto come soggetto in grado di favorire la definitiva riunificazione e pacificazione del paese, hanno rimarcato il loro sostegno alle iniziative delle Nazioni Unite e hanno chiesto il ritiro di tutte le forze militari straniere \[2\].
+
+La visita congiunta testimonia l’importanza della Libia per i tre paesi maggiori dell’Unione. Per prossimità geografica e interessi di carattere economico e securitario la Libia è una priorità per l’Italia. La Francia, che in Libia ha tenuto un atteggiamento particolarmente ambiguo, sembra voler intrattenere rapporti più cordiali con le autorità della Tripolitania, come testimoniato dalla riapertura dell’ambasciata di Francia a Tripoli \[3\]. La diplomazia tedesca dimostra nuovamente il suo interesse per il paese nord-africano. Nel gennaio 2020 il governo tedesco organizzò l’ultima conferenza internazionale sulla Libia la quale non riuscì però a favorire un’intesa tra le fazioni belligeranti.
+
+La speranza è che tale visita congiunta dia inizio alla formulazione di un’incisiva politica comune nei confronti del paese nord-africano. Finora i tre paesi maggiori dell’Unione hanno, in tempi e modi diversi, cercato di favorire il dialogo tra le principali fazioni libiche. Tale attività di mediazione è stata svolta soprattutto da Italia e Germania mentre la Francia, dopo aver organizzato un vertice tra l’ex primo ministro Fayez al-Serraj e il generale cirenaico Khalifa Haftar nel luglio 2017, ha assunto un atteggiamento subdolo. Pur senza disconoscere il governo di Tripoli, Parigi ha fornito supporto militare ad Haftar durante la sua offensiva per conquistare la capitale libica. Così facendo la Francia è finita in rotta di collisione con il Governo di accordo nazionale (Gna) e con la Turchia, che del Gna è protettrice.
+
+Se gli invasori cirenaici (in realtà tra le loro file vi erano numerosissimi mercenari stranieri) sono stati respinti dalla Tripolitania è merito della Turchia, non delle iniziative diplomatiche italiane o tedesche. La Libia è tutto meno che un paese pacificato e tranquillo. L’apparente conciliazione rischia sempre di degenerare in scontro armato.
+
+Le fazioni libiche dipendono dalle potenze straniere per la loro sopravvivenza. Secondo le Nazioni Unite a inizio dicembre 2020 dieci basi militari libiche erano in tutto o in parte occupate da forze militari straniere mentre i militari/mercenari stranieri nel paese erano circa 20 mila \[4\] . Tripoli dipende dalla Turchia mentre i cirenaici non possono fare a meno dell’appoggio fornito da Russia, Emirati Arabi Uniti ed Egitto. In particolare, turchi e russi non hanno intenzione di abbandonare le postazioni finora conquistate. Non a caso, tutti gli appelli volti a chiedere il ritiro delle forze straniere dal paese sono caduti nel vuoto.
+
+La Turchia è saldamente presente in Tripolitania ed intende far valere i crediti acquisiti salvando il Gna dall'assedio di Haftar. Dopo aver firmato insieme al Qatar un accordo di cooperazione militare con il governo di Tripoli \[5\], la Turchia ha cominciato ad addestrare le forze di sicurezza libiche \[6\]. Inoltre, Ankara intende avere una presenza militare stabile nel paese. I turchi hanno mostrato interesse soprattutto per la base aerea di al-Watiya e il porto di Misurata \[7\].
+
+Per quanto riguarda la Russia, stabilendosi in Cirenaica consolida la sua presenza nel Mediterraneo orientale, dispone di un trampolino per proiettarsi nel Sahel, dove sono attivi numerosi gruppi jihadisti e passano i flussi migratori diretti verso l'Europa, ed è potenzialmente in grado di insidiare il fronte meridionale della Nato. I mercenari del Gruppo Wagner già occupano alcune basi aeree \[8\] e non è da escludere che in futuro la Russia avanzi richieste sul porto di Bengasi.
+
+I russi sono talmente intenzionati a mantenere lo status-quo, cioè impedire un'offensiva turco-tripolina verso oriente, intenzione condivisa anche da emiratini ed egiziani, che hanno costruito una linea fortificata lunga 70 chilometri tra Sirte, sulla costa, e al-Jufra, nell'interno. I lavori, iniziati subito dopo l'estate e completati a fine gennaio 2021, sono stati portati avanti dal Gruppo Wagner e dalle milizie sudanesi Janjawid. Tale linea, fatta di fossati, trincee e fortificazioni in cemento armato, simboleggia la divisione tra Tripolitania e Cirenaica: a occidente le fazioni protette dalla Turchia, a oriente quelle protette da Russia, Emirati ed Egitto. Le potenze presenti in Cirenaica hanno stabilito che il tratto che va da Sirte ad al-Jufra è una linea rossa che non deve essere oltrepassata \[9\].
+
+Il successo politico delle ultime settimane, ovvero la formazione di un governo ad interim che dovrà traghettare il paese verso le elezioni parlamentari e presidenziali del prossimo dicembre, è adombrato dall'ingombrante presenza delle potenze straniere e dalla fragilità della tregua militare.
+
+In tutto ciò gli europei rivestono un ruolo secondario. Rifiutando a prescindere qualsiasi intervento militare hanno permesso a potenze ostili di riempire il vuoto libico.  La Turchia, formalmente alleata, di fatto persegue una politica estera autonoma e ha minacciato in più occasioni la sovranità di Grecia e Cipro, Stati membri dell'Unione.
+
+Avendo esteso la sua influenza in Tripolitania, Ankara potrebbe decidere l'andamento dei flussi migratori provenienti dal Sahel e diretti verso l'Italia. In sostanza, la Turchia farebbe con la rotta del Mediterraneo centrale quello che da cinque anni sta facendo con la rotta balcanica, ovvero deciderne l'andamento. La Turchia aumenterebbe così il suo potere negoziale nei confronti dell'Unione Europea, la cui opinione pubblica è molto sensibile alla questione migratoria.
+
+I paesi europei possono esercitare influenza in Libia utilizzando la leva economica e degli investimenti. Dieci anni di guerra e anarchia hanno fatto tabula rasa del tessuto economico-produttivo e della rete infrastrutturale del paese. Solo metà delle centrali elettriche è in funzione mentre la rete idrica e gli ospedali risultano pesantemente danneggiati. Oltre un milione di persone (su una popolazione di poco più di 6 milioni) necessita di assistenza umanitaria. Nel corso del 2020 il Pil è crollato del 41 % a causa del doppio shock che ha colpito il settore petrolifero libico (che vale per il 95 % delle esportazioni del paese): da un lato il crollo dei prezzi dovuto alla pandemia, dall'altro il blocco della produzione, durato 9 mesi, imposto da Haftar per indebolire il Gna. Tale situazione è aggravata ulteriormente da una pubblica amministrazione inefficiente e da altissimi livelli di corruzione \[10\].
+
+I paesi europei dovrebbero investire nella ricostruzione e nella ripartenza dell'economia, in modo da porre le basi dello sviluppo socio-economico libico. Si tratta di un proposito che abbraccia un orizzonte temporale di lungo periodo e che necessita di condizioni di pace e stabilità politica al momento fragili. Nell'immediato i paesi europei dovrebbero compiere sforzi diplomatici per rafforzare l'attuale tregua e favorire la definitiva pacificazione, contribuire alla ricostruzione della rete infrastrutturale libica e stringere accordi di cooperazione militare con il governo di Tripoli in modo da ridurne la dipendenza da Ankara.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] "Nuovo governo in Libia: la volta buona?", ispionline.it, 11 marzo 2021. Ultimo accesso 29 marzo 2021.
+
+\[2\] "Libia, Di Maio con Maas e Le Drian a Tripoli: "Si ritirino mercenari e forze straniere"", rainews.it, 25 marzo 2021. Ultimo accesso 29 marzo 2021.
+
+\[3\] "France reopens Libya embassy after 7-year closure", aljazeera.com, 29 marzo 2021. Ultimo accesso 29 marzo 2021.
+
+\[4\] "Acting Srsg Stephanie Williams opening remarks during third virtual meeting of the second round of the Lpdf on 2 december 2020", unsmil.unmissions.org, 2 dicembre 2020. Ultimo accesso 29 marzo 2021.
+
+\[5\] "Turkey and Qatar sign military cooperation deal with Libya government", middleeastmonitor.com, 18 agosto 2020. Ultimo accesso 29 marzo 2021.
+
+\[6\] "Turkish soldiers continue to provide military training, consultancy for Libyan Army", dailysabah.com, 29 novembre 2020. Ultimo accesso 29 marzo 2021.
+
+\[7\] "Turkey prepares to set up base in Misrata", english.aawsat.com, 2 luglio 2020. Ultimo accesso 29 marzo 2021.
+
+\[8\] "The pendulum: how Russia sway its way to more influence in Libya", warontherocks.com, 7 gennaio 2021. Ultimo accesso 29 marzo 2021.
+
+\[9\] Limes. Rivista italiana di geopolitica, "L'Italia al fronte del caos", 2/2021, pp. 149-158.
+
+\[10\] "Nuovo governo in Libia: un primo passo nel percorso ad ostacoli", ispionline.it, 15 marzo 2021. Ultimo accesso 29 marzo 2021.

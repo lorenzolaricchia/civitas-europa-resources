@@ -1,0 +1,70 @@
+---
+title: "Normalizzare o non normalizzare? Il dilemma delle relazioni Occidente-Russia"
+cover: "/images/posts/normalizzare-o-non-normalizzare-il-dilemma-delle-relazioni-occidente-russia.jpg"
+date: 1593940297
+authors:
+  - massimiliano-palladini
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "crimea"
+  - "donbass"
+  - "geopolitica"
+  - "nord-stream-2"
+  - "relazioni-internazionali"
+  - "russia"
+  - "sanzioni"
+  - "stati-uniti"
+  - "ucraina"
+  - "ue"
+  - "unione-europea"
+  - "vladimir-putin"
+---
+
+Come abbiamo scritto nel [precedente articolo](https://civitaseuropadoteu.wordpress.com/2020/04/27/problemi-di-vicinato-le-relazioni-ue-russia/) sulle relazioni tra Unione Europea e Russia, nel 2014 avvenne una rottura drammatica dei rapporti tra quest'ultima e l'Occidente.
+
+In seguito a questo strappo Mosca volse la sua attenzione ad Oriente trovando nella Cina del presidente Xi Jinping un partner con cui approfondire le relazioni dal punto di vista politico, economico e militare. Mosca e Pechino sono accomunate dal fatto di essere percepite come avversari strategici da parte degli Stati Uniti.
+
+Sembra che i rapporti tra Occidente e Russia si trovino su un piano inclinato all'apparenza impossibile da raddrizzare. Attualmente non si intravedono spazi per una riconciliazione anche perché la classe politica statunitense nutre un sentimento bipartisan di ostilità e rivalità nei confronti di Mosca.
+
+Le relazioni con la Russia andrebbero normalizzate. Ciò porterebbe vantaggi sia agli Stati Uniti sia all'Unione Europea. Washington disinnescherebbe l'intesa russo-cinese e potrebbe concentrare le sue risorse sul contenimento della Cina, percepita come avversario più temibile, mentre l'Unione Europea otterrebbe indubbi vantaggi economici. Si aprirebbero nuovi scenari di cooperazione e la sicurezza del Vecchio Continente aumenterebbe.
+
+Avendone causato la rottura, l'Ucraina sarà il paese attraverso cui dovrà passare la normalizzazione dei rapporti. Qui Francia e Germania possono giocare un ruolo importante in quanto partecipano - insieme a Russia ed Ucraina - al tavolo negoziale che nel febbraio 2015 partorì gli accordi di Minsk, ai quali si deve la de-escalation della guerra del Donbass. Quel conflitto però è ancora in corso, sebbene a bassa intensità. Al momento non è stato trovato un accordo che reintegrasse le repubbliche autoproclamate di Donetsk e Luhansk nell'Ucraina.
+
+La questione della Crimea è la più spinosa. Sebbene pochissimi Stati riconoscano l'annessione, di fatto la penisola è parte della Federazione Russa. Pretendere che Mosca abbandoni la Crimea è irrealistico. Da un punto di vista strategico essa è troppo importante per la Russia, in quanto ospita la base della Flotta del Mar Nero.
+
+L'Occidente si trova davanti a un bivio: da una parte la strada del rifiuto, che consiste nell'opporsi a qualsiasi normalizzazione fino a quando i russi non abbandoneranno la Crimea. Ciò implica considerare le azioni russe del 2014 irreparabili e condannare le relazioni con Mosca a una situazione di conflitto perpetuo.
+
+Dall'altra parte la strada del realismo politico. Per intraprendere questa strada bisogna comprendere che l'annessione non fu la manifestazione di un rinnovato espansionismo verso Occidente, bensì una reazione ai fatti accaduti a Kiev nei mesi precedenti. Lo scopo era salvare il salvabile, ovvero la base di Sebastopoli.
+
+Percorrere la strada del realismo politico non significa riconoscere formalmente l'annessione della Crimea. Se ne prende atto tacitamente ma non si perde occasione per affermare che quella penisola de jure fa parte dell'Ucraina, e per condannare la violazione da parte russa della sovranità della ex repubblica sovietica.
+
+Il punto è che la strada del rifiuto è stata fallimentare. Essa, attraverso le sanzioni, ha sì indebolito l'economia russa, ma non ha fatto nulla per migliorare i rapporti. Cosa vuole fare l'Unione Europea? Vuole aderire alla politica di Washington, ovvero considerare la Russia un avversario strategico, e continuare ad imporre sanzioni sperando che un giorno la Federazione collassi su se stessa? Oppure vuole incamminarsi lungo la strada della riconciliazione, in modo da aumentare la sicurezza europea ed evitare che l'intesa russo-cinese si rafforzi?
+
+Se si vuole normalizzare occorre cambiare radicalmente strategia. Quella adottata negli ultimi sei anni ha  lo scopo di punire Mosca e costringerla, attraverso le sanzioni, ad acconsentire alla volontà dell'Occidente. Tale sottomissione non è avvenuta. Serve una strategia basata sul realismo politico che comprenda i requisiti fondamentali della sicurezza russa. Innanzitutto occorre escludere categoricamente l'ingresso dell'Ucraina nella Nato.
+
+Per effettuare questa svolta strategica non si può contare né sugli Stati Uniti né sulle istituzioni europee. Le istituzioni che definiscono la politica estera e di sicurezza della grande potenza d'Oltreoceano non vogliono la normalizzazione dei rapporti con la Russia. Lo dimostra il fatto che Donald Trump, nonostante i buoni propositi iniziali, non sia riuscito a migliorare la relazione con il Cremlino, perché la politica estera e di sicurezza statunitense non è appannaggio del presidente.
+
+Non si può far affidamento sulle istituzioni comunitarie perché la questione Russia divide profondamente l'Unione Europea. Polonia e repubbliche baltiche sono gli Stati più antirussi dell'Unione. In seguito ai fatti di Crimea temono il presunto espansionismo russo, hanno aumentato la spesa militare e chiedono agli Stati Uniti di aiutarli. In sostanza, vedono nella Russia la principale minaccia alla sicurezza nazionale.
+
+Al contrario, le maggiori potenze dell'Unione - Germania, Francia e Italia - capeggiano il gruppo dei paesi favorevoli alla riconciliazione con Mosca. In questo senso, l'uscita del Regno Unito, paese storicamente russofobo, ha rafforzato la fazione meno antirussa.
+
+Considerando le spaccature in seno all'Unione e i meccanismi decisionali delle sue istituzioni, è impossibile che l'Ue si dichiari convintamente a favore della normalizzazione dei rapporti. L'unica alternativa possibile consiste nell'iniziativa intergovernativa. Berlino, Parigi e Roma dovrebbero dialogare tra di loro e proporre una politica comune nei confronti della Russia. Il tavolo negoziale con Russia e Ucraina sarebbe il luogo in cui Germania e Francia dovrebbero dare concreta esecuzione alla loro nuova politica.
+
+Le criticità di questo scenario sono due. In primo luogo esso approfondirebbe le fratture interne all'Unione. I paesi più russofobi probabilmente saboterebbero l'iniziativa dei tre paesi maggiori dell'Unione. Come minimo, di sicuro non la appoggerebbero.
+
+In secondo luogo, molto probabilmente pure gli Stati Uniti ostacolerebbero una politica riconciliatoria che non sia guidata da loro. È evidente che Washington voglia allontanare l'Ue, e in particolare la Germania, dalla Russia. Lo dimostra l'imposizione di pesanti sanzioni alle imprese coinvolte nella costruzione di Nord Stream II, il gasdotto che dovrebbe portare il gas russo in Germania attraverso il mar Baltico. Sanzioni che di fatto hanno bloccato i lavori.
+
+In conclusione, sulla questione Russia l'Occidente è spaccato in due gruppi. Da una parte ci sono i paesi che considerano Mosca un avversario strategico o una minaccia alla sicurezza nazionale. In questo gruppo rientrano Stati Uniti, Regno Unito, Polonia e repubbliche baltiche. Dall'altra parte ci sono i paesi che vorrebbero migliorare i rapporti. Qui troviamo Germania, Francia e Italia. Questa frattura rappresenta un importante ostacolo lungo la via della normalizzazione.
+
+Siccome Berlino, Parigi e Roma non sono le capitali occidentali che detengono il potere di influenzare in modo significativo il corso degli eventi della politica internazionale, nel breve periodo le relazioni tra Occidente e Russia non sono destinate a migliorare.
+
+ 
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini

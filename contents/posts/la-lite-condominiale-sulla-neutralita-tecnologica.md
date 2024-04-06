@@ -1,0 +1,51 @@
+---
+title: "La lite condominiale sulla neutralità tecnologica"
+cover: /images/posts/"876f4-1574956658-ursula-von-der-leyen-strasburgo-presse.jpg"
+date: 1680527809
+authors:
+  - riccardo-raspanti
+categories: 
+  - "articoli"
+tags: 
+  - "commissione-europea"
+  - "crisi-climatica"
+  - "europa"
+  - "germania"
+  - "italia"
+---
+
+Cosa resterà della lotta al cambiamento climatico? L’ultima COP, la numero 27, è stata caratterizzata da uno strano senso di rassegnazione, venato di nostalgia per i tempi in cui le Nazioni Unite indicavano ancora un orizzonte temporale su cui proiettare i necessari interventi. L’ora X è ormai giunta: l’umanità ha accumulato un ritardo sulla questione climatica potenzialmente irrecuperabile. Gli obiettivi di riduzione delle emissioni, di transizione del modello di sviluppo economico, di contenimento dell’aumento delle temperature globali, diventano sempre meno realistici agli occhi dei leader del mondo.
+
+I paesi emergenti non sono interessati ad accettare vincoli che possano condizionare la loro crescita economica, il dragone cinese non è ancora disposto ad impegnarsi per eliminare i combustibili fossili. Persino gli Stati Uniti faticano a liberarsi del retaggio dell’era trumpiana, che li ha visti abbandonare l’Accordo di Parigi e puntare sulla pratica del frackling per attingere ad energia a basso costo.
+
+L’Europa, in mezzo al disordine, fatica a rivendicare il ruolo di leader globale della transizione climatica. Da una parte, perché manca del potere necessario a convincere gli altri attori a seguirne la guida. Dall’altra, perché l’Unione è divisa in maniera decisiva sulla questione climatica. Finché si è trattato di discutere delle ingenti risorse dedicate alla transizione ecologica, previste nel QFP 2021-2027 nell’ambito del cosiddetto Green New Deal, l’UE ha registrato un’insolita concordia, forse dovuta all’urgenza di approvare Next Generation EU, programma anch’esso legato al bilancio di lungo termine 2021-2027, in un momento di profonda crisi.
+
+Oggi, invece, la cronaca riporta un’Europa litigiosa che si trova a ridiscutere principi dati per assodati solo un anno e mezzo fa. I problemi emergono ogni volta che gli obiettivi generali delineati dalla Commissione Europea debbano trovare uno sviluppo pratico, e la questione dell’abbattimento delle emissioni inquinanti non fa eccezione. Il dibattito sul raggiungimento dei target di emissione previsti per il 2030 e il 2050[\[1\]](#_ftn1), dopo la direttiva sulle case “green”[\[2\]](#_ftn2), ha toccato il mercato dell’automobile, un ambito quantomeno delicato data l’importanza economica del settore nelle economie degli stati membri.
+
+La Commissione e il Parlamento hanno richiesto di discutere le modalità con cui implementare il divieto di produzione di auto a benzina o diesel, che dovrebbe entrare in vigore nel 2035. Le posizioni si sono spaccate sulla preferenza, espressa dalla Commissione e da una coalizione di paesi guidata da Francia e Spagna, verso gli investimenti sulla tecnologia elettrica e sull’idrogeno. L’Italia e la Germania, assieme a paesi quali Polonia, Ungheria e Bulgaria, hanno da subito espresso parere contrario alla possibilità di affidare il futuro dell’industria automobilistica europea all’elettrizzazione e all’idrogeno.
+
+La Germania ha chiesto e ottenuto di considerare tra le papabili tecnologie utili alla transizione anche i carburanti sintetici, considerati ad impatto neutro per quanto riguarda l’emissione di gas serra[\[3\]](#_ftn3). L’Italia, invece, ha richiesto di includere i biocarburanti all’interno del mix, tecnologia sulla quale il nostro paese ha un’approfondita esperienza. La direttiva è passata senza accettare le modifiche proposte dalla delegazione italiana al Consiglio Europeo, ma la Commissione ha preso tempo per analizzare la questione prima di diramare il testo definitivo. Il problema principale dei biocarburanti riguarda le monocolture massicce da cui ricavano le biomasse necessarie alla produzione[\[4\]](#_ftn4).
+
+La tanto sbandierata scelta della “neutralità tecnologica” funge, in verità, da specchietto per le allodole per coprire le mosse di governi, quali quello tedesco e italiano, che fungono da portavoce delle rispettive industrie automobilistiche. I carburanti bio e sintetici, infatti, hanno importanti e documentati aspetti problematici riguardanti le emissioni inquinanti che si ripercuotono sulla qualità dell’aria[\[5\]](#_ftn5), ma questi aspetti sono ignorati dagli stati interessati a nascondere il colpevole ritardo tecnologico accumulato sulla produzione di veicoli elettrici o ad idrogeno.
+
+E’ l’ennesimo trionfo dell’intergovernativismo come metodo, legato alla visione di una UE più riunione di condominio che casa comune. Quello che lascia esterrefatti è lo scarso senso di urgenza dimostrato da alcuni leader del continente, quando le previsioni del consesso scientifico sulla possibilità di intraprendere le azioni necessarie ad evitare le terribili conseguenze del riscaldamento del pianeta sono divenute pessimistiche.
+
+Forse bisognerebbe prestare più attenzione alla voce delle nuove generazioni, che ad inizio marzo, dalle piazze, hanno chiesto nuovamente a chi detiene il potere di utilizzarlo per assicurare un futuro al pianeta. E se non vogliamo ascoltare i giovani, non qualificati, arroganti e vandali, riponiamo la massima fiducia negli scienziati, qualificati, credibili e posati, che rimandano lo stesso messaggio: servono politiche radicali, e servono adesso. I litigi tra condomini possono attendere.
+
+ 
+
+Riccardo Raspanti
+
+ 
+
+Note:
+
+[\[1\]](#_ftnref1) Abbattimento del 55% delle emissioni di gas serra, rispetto al livello del 1990, entro il 2030; azzeramento di tali emissioni entro il 2050
+
+[\[2\]](#_ftnref2) Energy Performance of Building Directive, 15 marzo 2023
+
+[\[3\]](#_ftnref3) Vengono prodotti attraverso un processo di elettrolisi dell'acqua al fine di ottenere idrogeno. Quest'ultimo viene poi miscelato con il CO2 catturato dall’aria, consentendo di realizzare un combustibile liquido adatto ad essere bruciato dentro i motori a scoppio. Le emissioni di CO2 prodotte dall’utilizzo di tali carburanti sono equilibrate dalla CO2 catturata per la produzione degli stessi.
+
+[\[4\]](#_ftnref4) L’effetto sulle emissioni e sulla filiera alimentare è negativo per quanto riguarda i biocarburanti di prima generazione, mentre quelli di seconda generazione sembrano più adatti ad assicurare la neutralità nell’emissione di gas serra.
+
+[\[5\]](#_ftnref5) Si veda lo studio dell’International Council on Clean Transportation del marzo 2021 e lo studio di Transport & Environment del marzo 2023, che dimostrano come le emissioni di ossidi di azoto, nocivi per piante, animali ed esseri umani, siano praticamente invariate passando dai combustibili fossili a quelli bio o sintetici.

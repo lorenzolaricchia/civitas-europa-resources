@@ -1,0 +1,70 @@
+---
+title: "Crisi Egeo - Grecia e Turchia: alleati in rotta di collisione (video)"
+cover: "/images/posts/crisi-egeo-grecia-e-turchia-alleati-in-rotta-di-collisione-video.jpg"
+date: 1598091919
+authors:
+  - alessandro-verdoliva
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "egeo"
+  - "erdogan"
+  - "grecia"
+  - "gurdeniz"
+  - "migranti"
+  - "nato"
+  - "russia"
+  - "scontri"
+  - "turchia"
+  - "unione-europea"
+---
+
+Vista con le lenti dell’Europa la Turchia appare sempre meno comprensibile. Il soft power che fino a questo momento ha guidato il processo di integrazione si è trasformato nell’unico termometro utilizzato per misurare la temperatura degli altri. Anche di chi, come Ankara, non appartiene alla società di Stati che compongono l’Unione. Pur essendo legati da una fitta rete di scambi commerciali, la Turchia e l’Europa sono lontane dall’ipotesi di sedere allo stesso tavolo per parlare di libertà e diritti fondamentali, di condividere un mercato unico o di usare la stessa valuta. La guerra fredda le ha unite nel contrastare i venti dell’Est in simultaneo alle molteplici divisioni interne su altri argomenti. Con il passare degli anni, la Turchia è rimasta dentro la NATO ma fuori dall’Europa. Una frattura difficile da gestire in questi tempi.
+
+La Turchia infatti rappresenta un ossimoro per l’UE. È una specie di alleato-minaccia di cui l’Europa non può fare a meno senza però potersi fidare del tutto. Le sue mire espansionistiche in Libia la contrappongono alle ambizioni di Parigi. E benché il ruolo francese nella ex colonia italiana sia poco trasparente, l’azione militare della Turchia può rappresentare, in termini geopolitici, un rischio per l’Europa: Ankara si sta affacciando, sempre con maggior protagonismo, nella frontiera Sud di Schengen. Negli ultimi giorni la presenza navale turca nell’Egeo (Mediterraneo orientale) ha allarmato in modo particolare la Grecia, la Francia, l’UE, il Pentagono e la stessa NATO.
+
+![2000px-Map_of_Cyprus,_Greece_and_Turkey.svg](https://civitaseuropadoteu.wordpress.com/wp-content/uploads/2024/04/da9da-2000px-map_of_cyprus_greece_and_turkey.svg_.png)
+
+Il Mediterraneo, poi, resta un argomento trattato dall’Europa per affrontare il fenomeno dell’immigrazione proveniente dalle rotte del Sahara. L’altra rotta, quella dei Balcani, è stata affidata proprio alla Turchia che ha accolto circa 3.6 milioni di profughi siriani in cambio di 6 miliardi di euro. Il risultato di questo accordo è il centro delle ambiguità nei rapporti tra l’Europa e Ankara: malgrado la Turchia non faccia parte dell’Unione, il confine turco-siriano si è trasformato in una sorta di frontiera comunitaria ‘de facto’ in Medioriente.
+
+Questo stato di interdipendenza lascia l’Europa interdetta di fronte alla deriva autoritaria ed espansionistica di Erdogan: le purghe avvenute dopo il tentato colpo di Stato del 2016 con le conseguenti persecuzioni a ogni forma di dissidenza, l’islamizzazione dello Stato turco confermata con la riconversione di Santa Sofia in moschea e, infine, le recentissime manovre turche nell’Egeo sembrano far parte di un’agenda molto chiara da parte di Erdogan. Un’agenda che rispecchia mire egemoniche persino nel Mediterraneo e che si abbina a una politica interna di tipo autoritario. Nell'arena internazionale la Turchia deve però vedersela con una coalizione informale determinata a contenerne le iniziative. Francia, Grecia, Egitto ed Emirati Arabi Uniti sono i componenti di questa coalizione.
+
+Nonostante ciò, le tensioni che stanno avendo luogo nell’Egeo chiamano in causa l’Europa. Ad essere sotto minaccia sono le acque territoriali greche e cipriote non riconosciute dalla Turchia come tali. Ufficialmente, le navi turche sarebbero presenti nell’Egeo per effettuare ricerche sismiche nell’area. Per il Premier greco Mitsotakis la presenza di navi militari di Ankara è sproporzionata e potrebbe aumentare il rischio di incidenti. E un incidente è già avvenuto il 14 agosto con la collisione tra la nave da ricerca sismica turca Oruc Reis e la fregata greca Limnos, provocando la reazione della nave di scorta Kemal che ha colpito la  Limnos. La collisione ha avuto luogo nella zona economica esclusiva greca non riconosciuta dalla Turchia.
+
+Gli interessi turchi nella zona sembrano riconducibili al gas naturale presente nelle acque dell’Egeo. Mentre, da un lato, Macron afferma che “le azioni turche stanno provocando tensione” dall’altro il Presidente francese lascia la porta aperta a un dialogo che deve avviarsi tra i due Paesi vicini nonché membri della NATO.
+
+Le reazioni all’evento non si sono fatte attendere: Parigi ha inviato rinforzi militari nella zona ed è stato convocato un vertice straordinario del Consiglio dei Ministri a Bruxelles.
+
+L’ossimoro turco resta una trappola difficile da decostruire. Il giorno stesso dell'incidente greco-turco i ministri degli esteri dell'Ue si sono riuniti d'urgenza in videoconferenza per discutere dell'accaduto. La posizione dell'Ue è riassumibile in tre parole: solidarietà (nei confronti di Grecia e Cipro); de-escalation; dialogo. L'Ue riconosce l'importanza della relazione con la Turchia ma allo stesso tempo precisa che le questioni della delimitazione dei confini marittimi e dello sfruttamento delle risorse vanno affrontate esclusivamente attraverso dialogo e negoziazione. Gli Stati membri devono avere chiaro che l’azione militare turca non va decifrata secondo le logiche che muovono la loro azione diplomatica. Ankara sta giocando alla politica di potenza e rivendica un posto nel Mediterraneo da dove non ha mai distolto lo sguardo.
+
+ 
+
+ANALISI
+
+Prima della Seconda guerra mondiale, le potenze europee liberali cercavano di fronteggiare una incombente minaccia: uno Stato importante, minaccioso ma indispensabile iniziava a destabilizzarsi e nessuno fra le cancellerie di Londra o Parigi poteva avere certezza sul se fosse meglio il dialogo pacifico oppure lo scontro diretto prima che avvenisse il peggio. Purtroppo, il pacifismo di Neville Chamberlain regalò tempo utile alla Repubblica di Weimar per portare a termine la propria destabilizzazione che finì col tramutare nel Terzo Reich tedesco di fine anni 30. Siamo forse dinanzi a una situazione analoga con la Turchia, ora che le pretese, la retorica e le mire espansionistiche turche non lasciano dubbi sul sogno neo-ottomano che Erdogan porta avanti?
+
+![timthumb](https://civitaseuropadoteu.wordpress.com/wp-content/uploads/2024/04/97d74-timthumb.jpg)
+
+Prima di analizzare le diverse e complicate ipotesi, bisogna partire da un presupposto: la partita inizia ìmpari. Ìmpari per scelta di entrambi gli attori: l’Unione europea ha deciso spontaneamente di rinunciare alla politica di potenza e la Turchia se ne è ovviamente avvantaggiata. L’Europa gioca quindi oggi su un campo dove non ha armi a disposizione nonché su un campo che ha scelto Erdogan e non noi. Bisogna tenere in considerazione anche il tipo di strategia che Ankara adotta e non solo il campo da essa scelto. La strategia turca è grossomodo dominante, ciò comporta che a prescindere da quale sia la risposta europea, Ankara porta comunque a casa un risultato notevole.
+
+_Mavi Vatan: Patria blu. Dottrina militare stilata dal contrammiraglio turco Cem Gurdeniz. Consiste nel rompere quella barriera marittima creatasi attorno all'Anatolia dopo la disfatta dell'Impero Ottomano con Sevres del 1920, ricalibrato Losanna del 1923. La Grecia di contro, cerca di unire sempre più il tratto di mare che la separa dalla Cipro grecofona così da poter creare un confine marittimo con l'Egitto e chiudere lo spazio navale alla Turchia._
+
+![resized_41d52-612cad5aharita-e1575618315132-1024x586](https://civitaseuropadoteu.wordpress.com/wp-content/uploads/2024/04/f66bd-resized_41d52-612cad5aharita-e1575618315132-1024x586-1.jpg)
+
+Se infatti venissero poste le basi affinché la Turchia fuoriesca dalla NATO, per rinuncia propria o per volontà degli altri membri, Ankara verrebbe subito fagocitata da un centro di potere non così forte come lo era la NATO (cioè la Russia, come auspicato dal professore Gurdeniz) con il duplice svantaggio per noi, in primis quello di perdere il secondo più forte alleato militare per numero di militari operativi e in secondo luogo subiremmo lo svantaggio di avere una Turchia si protetta dalla Russia, ma pur sempre forte da potere svolgere in autonomia la propria politica espansionista neo-ottomana. Ciò è parte di una dottrina nazionalista ben precisa chiamata “Patria blu” dall’ex contrammiraglio Cem Gurdeniz. Questa dottrina è stata riadattata in chiave islamista e neo-ottomana da Erdogan. A ciò si aggiunge il peso destabilizzante che la Turchia ricopre nelle crisi migratorie fra Libia e Siria. I migranti sono una delle armi di ricatto più potenti che i turchi adottano nei nostri confronti andando a colpire la nostra debolezza sociale: ogni azione intrapresa frontalmente dall’Unione europea per limitare l’immigrazione verrebbe additata dall’opinione pubblica nostrana come inaccettabile e razzista, motivo per cui abbiamo delegato ad Ankara il lavoro sporco regalandole quindi una fortissima arma di ricatto e di deterrenza.
+
+![Grecia-Governo (1)](https://civitaseuropadoteu.wordpress.com/wp-content/uploads/2024/04/8a297-grecia-governo-1.jpg)
+
+Se invece, si dovesse optare per sostenere la Turchia a discapito della Grecia, l’Occidente firmerebbe quindi la cambiale della sudditanza accettando supinamente qualsiasi azione di ricatto diventando immediatamente un attore risibile e calpestabile sullo scenario internazionale. Questo porterebbe a una Grecia abbandonata per una seconda volta, evento che potrebbe scatenare un vortice sociale nell’opinione pubblica tale da rendere l’EU non più degna e non più in grado di difendere i propri membri e gli interessi del Vecchio continente. Un altro scenario sarebbe quello di inscenare una ferma protesta per calmare l’opinione pubblica, per poi far ritornare tutto come in principio, permanendo quindi in un sostanziale logorante immobilismo. In qualsiasi scenario, l’Unione Europea ha tantissimo da perdere e poco di guadagnato.
+
+Solo una fortuita combinazione di eventi potrebbe risollevare le sorti. Qualora la NATO si dovesse schierare a favore delle Turchia e l’Unione Europea a favore della Grecia, ciò potrebbe creare una frattura di interessi fra NATO e EU che accelererebbe esponenzialmente la richiesta di una difesa comune europea che sorpassi e surclassi la NATO. In definitiva, alla NATO conviene mantenere buona la Turchia onde rischiare di dissolversi, all’EU converrebbe rendere Grecia e Cipro le due roccaforti del Vecchio continente. Quest’ultima combinazione, piuttosto improbabile, sarebbe forse quella più vantaggiosa nel lungo termine per gli europei e più svantaggiosa per gli interessi della NATO e dei retrostanti USA, creando una cortina di ferro in Tracia fra Turchia europea e Grecia/Bulgaria.
+
+\[wpvideo HG4o1PGe\]
+
+ 
+
+CIVITAS EUROPA – DIVISIONE RELAZIONI INTERNAZIONALI
+
+DR. ESTEFANO SOLER – DR. ALESSANDRO VERDOLIVA
