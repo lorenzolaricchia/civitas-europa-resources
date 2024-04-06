@@ -1,5 +1,536 @@
 [
   {
+    "title": "19 aprile: Civitas Europa incontra gli studenti della scuola media Lanfranco di Modena",
+    "cover": "/images/posts/\"b6e10-logoufficiale.png\"",
+    "date": 1618558071,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "agenda-2030",
+      "comune-di-modena",
+      "diritti-umani",
+      "europe-direct",
+      "modena-chiama-mondo",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "19-aprile-civitas-europa-incontra-gli-studenti-della-scuola-media-lanfranco-di-modena"
+  },
+  {
+    "title": "1971-2021: a cinquanta anni dalla fine del Gold Standard, cosa è cambiato? Parte 1",
+    "cover": "/images/posts/1971-2021-a-cinquanta-anni-dalla-fine-del-gold-standard-cosa-e-cambiato-parte-i.jpg",
+    "date": 1629002836,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "analisi",
+      "articoli-economia",
+      "divisione-economia"
+    ],
+    "tags": [
+      "1971",
+      "bm",
+      "convertibilita",
+      "fmi",
+      "gold-standard",
+      "imf",
+      "nixon",
+      "nuovo-ordine-mondiale",
+      "parita-aurea",
+      "richard-nixon",
+      "usa",
+      "wb"
+    ],
+    "slug": "1971-2021-a-cinquanta-anni-dalla-fine-del-gold-standard-cosa-e-cambiato-parte-i"
+  },
+  {
+    "title": "26 febbraio: Civitas Europa incontra gli studenti della scuola media Carducci di Modena",
+    "cover": "/images/posts/26-febbraio-civitas-europa-incontra-gli-studenti-della-scuola-media-carducci-di-modena.jpg",
+    "date": 1614152930,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "agenda-2030",
+      "civitas-europa",
+      "comune-di-modena",
+      "diritti-umani",
+      "europe-direct",
+      "modena-chiama-mondo",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "26-febbraio-civitas-europa-incontra-gli-studenti-della-scuola-media-carducci-di-modena"
+  },
+  {
+    "title": "6 maggio: webinar \"L'Europa dalla Dichiarazione Schuman al Next Generation Eu\"",
+    "cover": "/images/posts/6-maggio-webinar-leuropa-dalla-dichiarazione-schuman-al-next-generation-eu.png",
+    "date": 1619758854,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "anna-maria-luca",
+      "comune-di-modena",
+      "dichiarazione-schuman",
+      "emanuele-castelli",
+      "europe-direct-modena",
+      "festa-delleuropa",
+      "michele-marchi",
+      "next-generation-eu",
+      "webinar"
+    ],
+    "slug": "6-maggio-webinar-leuropa-dalla-dichiarazione-schuman-al-next-generation-eu"
+  },
+  {
+    "title": "9 maggio: una data, due sentieri opposti",
+    "cover": "/images/posts/d24fa-europa-9-maggio.jpg",
+    "date": 1652092951,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "9-maggio",
+      "festa-delleuropa",
+      "guerra-russo-ucraina",
+      "russia",
+      "ucraina",
+      "unione-europea"
+    ],
+    "slug": "9-maggio-una-data-due-sentieri-opposti"
+  },
+  {
+    "title": "Afghanistan: una questione aperta (parte 1)",
+    "cover": "/images/posts/afghanistan-una-questione-aperta-parte-1.jpeg",
+    "date": 1633100931,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "afghanistan-una-questione-aperta-parte-1"
+  },
+  {
+    "title": "Bakhmut, la rivincita della guerra vera",
+    "cover": "/images/posts/\"727f6-ponte-bakmut.jpg\"",
+    "date": 1685424656,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "bakhmut",
+      "cina",
+      "donbass",
+      "guerra-russo-ucraina",
+      "russia",
+      "stati-uniti",
+      "taiwan",
+      "ucraina"
+    ],
+    "slug": "bakhmut-la-rivincita-della-guerra-vera"
+  },
+  {
+    "title": "Bielorussia, l'Ue non riconosce il risultato delle elezioni presidenziali e prepara sanzioni",
+    "cover": "/images/posts/bielorussia-lue-non-riconosce-il-risultato-delle-elezioni-presidenziali-e-prepara-sanzioni.jpg",
+    "date": 1597908674,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "aleksandr-lukashenko",
+      "angela-merkel",
+      "bielorussia",
+      "charles-michel",
+      "commissione-europea",
+      "consiglio-europeo",
+      "emmanuel-macron",
+      "minsk",
+      "mosca",
+      "nato",
+      "russia",
+      "svetlana-tikhanovskaya",
+      "ue",
+      "unione-europea",
+      "ursula-von-der-leyen",
+      "vladimir-putin"
+    ],
+    "slug": "bielorussia-lue-non-riconosce-il-risultato-delle-elezioni-presidenziali-e-prepara-sanzioni"
+  },
+  {
+    "title": "Bombe e disillusioni",
+    "cover": "/images/posts/\"4c1db-strage_di_bologna.jpg\"",
+    "date": 1659457965,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "slug": "bombe-e-disillusioni"
+  },
+  {
+    "title": "Brasile, tre del mattino: l'ora delle streghe.",
+    "cover": "/images/posts/brasile-tre-del-mattino-lora-delle-streghe.jpg",
+    "date": 1664870449,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "analisi",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "bolsonaro",
+      "brasile",
+      "elezioni",
+      "lula"
+    ],
+    "slug": "brasile-tre-del-mattino-lora-delle-streghe"
+  },
+  {
+    "title": "Brexit, a che punto sono i negoziati per il trattato commerciale?",
+    "cover": "/images/posts/brexit-a-che-punto-sono-i-negoziati-per-il-trattato-commerciale.jpg",
+    "date": 1594712933,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali"
+    ],
+    "tags": [
+      "accordo-commerciale",
+      "brexit",
+      "mercato-unico",
+      "michel-barnier",
+      "regno-unito",
+      "unione-doganale",
+      "unione-europea"
+    ],
+    "slug": "brexit-a-che-punto-sono-i-negoziati-per-il-trattato-commerciale"
+  },
+  {
+    "title": "Brexit, il ritorno allo splendido isolamento del Regno Unito",
+    "cover": "/images/posts/brexit-il-ritorno-allo-splendido-isolamento-del-regno-unito.jpg",
+    "date": 1594627637,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "divisione-relazioni-internazionali",
+      "dossier",
+      "dossier-relazioni-internazionali"
+    ],
+    "tags": [
+      "alessandroverdoliva",
+      "brexit",
+      "nato",
+      "splendido-isolamento",
+      "unione-europea",
+      "usa"
+    ],
+    "slug": "brexit-il-ritorno-allo-splendido-isolamento-del-regno-unito"
+  },
+  {
+    "title": "Bulgaria, la \"pecora nera\" della libertà di stampa",
+    "cover": "/images/posts/\"d985a-bulgaria-bandiera-ue.jpg\"",
+    "date": 1618462812,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "balcani",
+      "bojko-borisov",
+      "bulgaria",
+      "delyan-peevski",
+      "elezioni-bulgaria-2021",
+      "liberta-di-stampa",
+      "slavi-trifonov",
+      "stato-di-diritto",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "bulgaria-la-pecora-nera-della-liberta-di-stampa"
+  },
+  {
+    "title": "Carenza di vaccini: la UE deve sciogliere il nodo esportazioni.",
+    "cover": "/images/posts/\"ff990-225538866-2c5b1398-5613-43e5-b974-2d76671de681.jpg\"",
+    "date": 1615883404,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "unione-europea",
+      "vaccini"
+    ],
+    "slug": "carenza-di-vaccini-la-ue-deve-sciogliere-il-nodo"
+  },
+  {
+    "title": "Chi ha fornito più aiuti? Ue, Russia e Cina a confronto",
+    "excerpt": "Russia e Cina hanno colto l'occasione dell'emergenza covid-19 per aiutare i paesi europei in difficoltà, in particolare l'Italia. E l'Unione Europea? Qual è stato il contributo delle istituzioni europee e degli Stati membri? È vero che hanno abbandonato l'Italia?",
+    "cover": "/images/posts/chi-ha-fornito-piu-aiuti-ue-russia-e-cina-a-confronto.jpg",
+    "date": 1585383526,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "chi-ha-fornito-piu-aiuti-ue-russia-e-cina-a-confronto"
+  },
+  {
+    "title": "Commercio, vie della seta e diritti umani: le relazioni Ue-Cina",
+    "cover": "/images/posts/\"4877d-europa-china-c-gettyimages-922565946.jpg\"",
+    "date": 1621933972,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "belt-and-road-initiative",
+      "bruxelles",
+      "cina",
+      "diritti-umani",
+      "indo-pacifico",
+      "mar-cinese-meridionale",
+      "mar-cinese-orientale",
+      "nuove-vie-della-seta",
+      "pechino",
+      "stati-uniti",
+      "ue",
+      "uiguri"
+    ],
+    "slug": "commercio-vie-della-seta-e-diritti-umani-le-relazioni-ue-cina"
+  },
+  {
+    "title": "Consiglio Europeo: tra negoziati e indecisione, i cittadini attendono risposte.",
+    "cover": "/images/posts/consiglio-europeo-tra-negoziati-e-indecisione-i-cittadini-attendono-risposte.jpg",
+    "date": 1593004013,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "slug": "consiglio-europeo-tra-negoziati-e-indecisione-i-cittadini-attendono-risposte"
+  },
+  {
+    "title": "Contenimento e rinascita tedesca: le origini dell'integrazione europea",
+    "cover": "/images/posts/\"479f5-truman-speech.jpg\"",
+    "date": 1587370000,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "ceca",
+      "cee",
+      "dottrina-truman",
+      "europa",
+      "guerra-fredda",
+      "integrazione-europea",
+      "nato",
+      "piano-marshall"
+    ],
+    "slug": "contenimento-e-rinascita-tedesca-le-origini-dellintegrazione-europea"
+  },
+  {
+    "title": "Corona Virus: senza un nuovo slancio ideologico, l’Europa rischia di non farcela",
+    "cover": "/images/posts/corona-virus-senza-un-nuovo-slancio-ideologico-leuropa-rischia-di-non-farcela.jpg",
+    "date": 1586507978,
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "corona-virus-senza-un-nuovo-slancio-ideologico-leuropa-rischia-di-non-farcela"
+  },
+  {
+    "title": "Correnti, gruppi e leghe europee. Introduzione alle relazioni internazionali comunitarie",
+    "date": 1587018302,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "correnti",
+      "eurogruppo",
+      "eurozona",
+      "geopolitica",
+      "intergovernativo",
+      "lega-neo-anseatica",
+      "leghe",
+      "mediterraneo",
+      "politica",
+      "relazioni-comunitarie",
+      "relazioni-internazionali",
+      "unione-europea",
+      "visegrad"
+    ],
+    "slug": "correnti-gruppi-e-leghe-europee-introduzione-alle-relazioni-internazionali-comunitarie"
+  },
+  {
+    "title": "Covid-19: una gestione anarchica dell’emergenza e qualche prospettiva di cooperazione",
+    "cover": "/images/posts/\"ff241-martin-sanchez-lnydatc3zna-unsplash.jpg\"",
+    "date": 1585303243,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "covid-19-una-gestione-anarchica-dellemergenza-e-qualche-prospettiva-di-cooperazione"
+  },
+  {
+    "title": "Crisi Egeo: Atene e Ankara dialogano in vista del Consiglio Europeo",
+    "cover": "/images/posts/\"ff043-greek_frigate_psara_f454.jpg\"",
+    "date": 1600417336,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "angela-merkel",
+      "ankara",
+      "atene",
+      "charles-michel",
+      "cipro",
+      "consiglio-europeo",
+      "egeo",
+      "emmanuel-macron",
+      "francia",
+      "grecia",
+      "libia",
+      "mediterraneo-orientale",
+      "recep-tayyip-erdogan",
+      "turchia",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "crisi-egeo-ankara-e-atene-dialogano-in-vista-del-consiglio-europeo"
+  },
+  {
+    "title": "Crisi Egeo - Grecia e Turchia: alleati in rotta di collisione (video)",
+    "cover": "/images/posts/crisi-egeo-grecia-e-turchia-alleati-in-rotta-di-collisione-video.jpg",
+    "date": 1598091919,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "egeo",
+      "erdogan",
+      "grecia",
+      "gurdeniz",
+      "migranti",
+      "nato",
+      "russia",
+      "scontri",
+      "turchia",
+      "unione-europea"
+    ],
+    "slug": "crisi-egeo-grecia-e-turchia-alleati-in-rotta-di-collisione-video"
+  },
+  {
+    "title": "Dal Donbass alla Libia, i vulcani dormienti della politica internazionale",
+    "cover": "/images/posts/\"709b8-migrant-boat-mediterranean.jpg\"",
+    "date": 1687416626,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "afghanistan",
+      "crimea",
+      "donbass",
+      "kosovo",
+      "libia",
+      "nato",
+      "ucraina"
+    ],
+    "slug": "dal-donbass-alla-libia-i-vulcani-dormienti-della-politica-internazionale"
+  },
+  {
+    "title": "Deal! Accordo raggiunto sul Recovery Fund",
+    "cover": "/images/posts/\"8652d-deal.jpg\"",
+    "date": 1595524296,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-economia"
+    ],
+    "tags": [
+      "angela-merkel",
+      "bruxelles",
+      "commissione-europea",
+      "consiglio-europeo",
+      "emmanuel-macron",
+      "mes",
+      "recoveryfund",
+      "ue",
+      "ursula-von-der-leyen",
+      "visegrad",
+      "web-tax"
+    ],
+    "slug": "deal-accordo-raggiunto-sul-recovery-fund"
+  },
+  {
     "title": "Deploying Next.js Apps",
     "excerpt": "How to deploy your Next.js apps on Vercel.",
     "cover": "/images/posts/deploying-next-apps.jpg",
@@ -8,6 +539,100 @@
       "lorenzo-laricchia"
     ],
     "slug": "deploying-next-apps"
+  },
+  {
+    "title": "Dispute irrisolte e ripresa del dialogo: lo stato delle relazioni Ue-Turchia",
+    "cover": "/images/posts/\"29a29-eu-turkey.jpg\"",
+    "date": 1617365743,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "cipro",
+      "diritti-umani",
+      "grecia",
+      "mediterraneo-orientale",
+      "nato",
+      "operazione-irini",
+      "recep-tayyip-erdogan",
+      "turchia",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "dispute-irrisolte-e-ripresa-del-dialogo-lo-stato-delle-relazioni-ue-turchia"
+  },
+  {
+    "title": "Dossier elezioni USA 2020 - L'altra faccia di Joe",
+    "cover": "/images/posts/\"55ceb-unnamed.jpg\"",
+    "date": 1607078641,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "divisione-relazioni-internazionali",
+      "dossier",
+      "dossier-relazioni-internazionali"
+    ],
+    "tags": [
+      "collegio-elettorale",
+      "covid-19",
+      "donald-trump",
+      "economia",
+      "elezioni-usa-2020",
+      "joe-biden",
+      "kamala-harris",
+      "mike-pence",
+      "politica-estera",
+      "stati-uniti"
+    ],
+    "slug": "dossier-elezioni-usa-2020-laltra-faccia-di-joe"
+  },
+  {
+    "title": "Draghi, il Quirinale e il trattato con la Francia",
+    "cover": "/images/posts/\"65509-draghi-macron.jpg\"",
+    "date": 1640765650,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "emmanuel-macron",
+      "francia",
+      "italia",
+      "mario-draghi",
+      "next-generation-eu",
+      "patto-di-stabilita",
+      "presidente-della-repubblica",
+      "trattato-del-quirinale"
+    ],
+    "slug": "draghi-il-quirinale-e-il-trattato-con-la-francia"
+  },
+  {
+    "title": "Due entità, quale futuro?",
+    "cover": "/images/posts/\"1b13c-zelensky-putin.webp\"",
+    "date": 1646056307,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "articoli-relazioni-internazionali",
+      "senza-categoria"
+    ],
+    "tags": [
+      "guerra-russo-ucraina",
+      "russia",
+      "ucraina"
+    ],
+    "slug": "due-entita-quale-futuro"
   },
   {
     "title": "Dynamic Routing and Static Regeneration",
@@ -20,6 +645,1891 @@
     "slug": "dynamic-routing-static-regeneration"
   },
   {
+    "title": "Elementi della struttura geopolitica russa",
+    "cover": "/images/posts/\"8cbcc-cremlino.jpg\"",
+    "date": 1691478190,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "slug": "elementi-della-struttura-geopolitica-russa"
+  },
+  {
+    "title": "Elementi della struttura militare russa: il New Look",
+    "cover": "/images/posts/elementi-della-struttura-militare-russa-il-new-look.jpg",
+    "date": 1691658030,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "artiglieria",
+      "aviazione",
+      "bashar-al-assad",
+      "donbass",
+      "esercito-russo",
+      "geopolitica",
+      "georgia",
+      "intelligence",
+      "nato",
+      "new-look",
+      "russia",
+      "siria",
+      "ucraina",
+      "vladimir-putin"
+    ],
+    "slug": "elementi-della-struttura-militare-russa-il-new-look"
+  },
+  {
+    "title": "Eurocorps, l'embrione dell'esercito europeo?",
+    "cover": "/images/posts/eurocorps-lembrione-dellesercito-europeo.jpg",
+    "date": 1602792185,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali"
+    ],
+    "tags": [
+      "brigata-franco-tedesca",
+      "esercito-europeo",
+      "eurocorps",
+      "nato",
+      "politica-di-difesa-e-sicurezza",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "eurocorps-lembrione-dellesercito-europeo"
+  },
+  {
+    "title": "Eurogruppo: che cosa è successo?",
+    "cover": "/images/posts/eurogruppo-che-cosa-e-successo.jpg",
+    "date": 1586947527,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "eurogruppo-che-cosa-e-successo"
+  },
+  {
+    "title": "Prossimo contenuto in uscita,30-03-2020.",
+    "cover": "/images/posts/example-post-2.png",
+    "date": 1584197648,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "example-post-2"
+  },
+  {
+    "title": "L&#039;Unione Europea nelle relazioni internazionali",
+    "excerpt": "Il riaccendersi della crisi migratoria al confine tra Grecia e Turchia ha dimostrato inequivocabilmente quanto potere di ricatto nei confronti dell'Unione Europea il presidente turco Recep Tayyip Erdogan detenga nelle sue mani. È bastata una sua decisione per far aleggiare sull'Europa i timori di una nuova crisi migratoria come quella del 2015-2016, risoltasi con l'ambiguo accordo attraverso cui Bruxelles essenzialmente paga Ankara per tenersi i rifugiati e i migranti che vorrebbero stabilirsi nei paesi più ricchi dell'Unione.",
+    "cover": "/images/posts/example-post-3.jpg",
+    "date": 1584197649,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "example-post-3"
+  },
+  {
+    "title": "Prossimo contenuto in uscita, 6-04-2020.",
+    "cover": "/images/posts/\"screenshot-12-1-e1584216962159.png\"",
+    "date": 1584197647,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "example-post"
+  },
+  {
+    "title": "F*** Them F*** Ue: l’anti-Europa di Orbán",
+    "cover": "/images/posts/f-them-f-ue-lanti-europa-di-orban.png",
+    "date": 1608208565,
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "crisi",
+      "next-generation-eu",
+      "orban",
+      "polonia",
+      "stallo",
+      "ue",
+      "ungheria",
+      "unione-europea",
+      "veto"
+    ],
+    "slug": "f-them-f-ue-lanti-europa-di-orban"
+  },
+  {
+    "title": "Fertility gap. Storia di una generazione in divenire",
+    "cover": "/images/posts/fertility-gap-storia-di-una-generazione-in-divenire.jpg",
+    "date": 1690963374,
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "denatalita",
+      "europa",
+      "fertilita",
+      "fertility-gap",
+      "inverno-demografico",
+      "italia",
+      "welfare-state"
+    ],
+    "slug": "fertility-gap-storia-di-una-generazione-in-divenire"
+  },
+  {
+    "title": "“Food security” e “food safety”: la dicotomia tra Ue e paesi in via di sviluppo",
+    "cover": "/images/posts/food-security-e-food-safety-la-dicotomia-tra-ue-e-paesi-in-via-di-sviluppo.jpg",
+    "date": 1634886625,
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "crisi-climatica",
+      "food-safety",
+      "food-security",
+      "pac",
+      "paesi-in-via-di-sviluppo",
+      "politica-agricola-comune",
+      "terzo-mondo",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "food-security-e-food-safety-la-dicotomia-tra-ue-e-paesi-in-via-di-sviluppo"
+  },
+  {
+    "title": "Francia e Russia a cavallo tra Ottocento e Novecento, un excursus storico",
+    "cover": "/images/posts/francia-e-russia-a-cavallo-di-ottocento-e-novecento-un-excursus-storico.jpg",
+    "date": 1588516247,
+    "authors": [
+      "omar-yazidi"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "belle-epoque",
+      "guerra-russo-giapponese",
+      "impero-russo",
+      "nicola-ii",
+      "prima-guerra-mondiale",
+      "terza-repubblica-francese"
+    ],
+    "slug": "francia-e-russia-a-cavallo-di-ottocento-e-novecento-un-excursus-storico"
+  },
+  {
+    "title": "Francia e Russia dagli anni Sessanta al 2002, un excursus storico",
+    "cover": "/images/posts/francia-e-russia-dagli-anni-sessanta-al-2002-un-excursus-storico.jpg",
+    "date": 1590474474,
+    "authors": [
+      "omar-yazidi"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "francois-mitterrand",
+      "helmuth-kohl",
+      "jacques-chirac",
+      "mikhail-gorbaciov",
+      "perestrojka",
+      "trattato-di-maastricht",
+      "unione-europea"
+    ],
+    "slug": "francia-e-russia-dagli-anni-sessanta-al-2002-un-excursus-storico"
+  },
+  {
+    "title": "Francia e Russia dalla Grande Guerra alla crisi di Suez, un excursus storico",
+    "cover": "/images/posts/francia-e-russia-dalla-grande-guerra-alla-crisi-di-suez-un-excursus-storico.jpg",
+    "date": 1589183229,
+    "authors": [
+      "omar-yazidi"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "crisi-di-suez",
+      "de-gaulle",
+      "grande-guerra",
+      "guerra-fredda",
+      "rivoluzione-russa",
+      "seconda-guerra-mondiale",
+      "unione-sovietica",
+      "urss"
+    ],
+    "slug": "francia-e-russia-dalla-grande-guerra-alla-crisi-di-suez-un-excursus-storico"
+  },
+  {
+    "title": "Francia e Russia nella politica internazionale dall'invasione dell'Iraq a oggi, un excursus storico",
+    "cover": "/images/posts/\"7f405-golf_20190821132458125-1.jpg\"",
+    "date": 1591168748,
+    "authors": [
+      "omar-yazidi"
+    ],
+    "categories": [
+      "divisione-relazioni-internazionali",
+      "dossier",
+      "dossier-relazioni-internazionali"
+    ],
+    "tags": [
+      "crimea",
+      "donbass",
+      "emmanuel-macron",
+      "fayez-al-serraj",
+      "khalifa-haftar",
+      "libia",
+      "siria",
+      "venezuela",
+      "vladimir-putin"
+    ],
+    "slug": "francia-e-russia-nella-politica-internazionale-dallinvasione-delliraq-a-oggi-un-excursus-storico"
+  },
+  {
+    "title": "Germania: fra AfD e Linke. Breve analisi della politica tedesca",
+    "cover": "/images/posts/\"89742-bundestag-20-jahre-ces.jpg\"",
+    "date": 1598422543,
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "afd",
+      "bundesrat",
+      "bundestag",
+      "covid",
+      "emergenza-sanitaria",
+      "germania",
+      "linke",
+      "politica-interna"
+    ],
+    "slug": "germania-fra-afd-e-linke-breve-analisi-della-politica-tedesca"
+  },
+  {
+    "title": "Gli Usa ritirano 12 mila soldati dalla Germania. Bluff elettorale?",
+    "cover": "/images/posts/gli-usa-ritirano-12-mila-soldati-dalla-germania-bluff-elettorale.jpg",
+    "date": 1596361469,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali"
+    ],
+    "tags": [
+      "donald-trump",
+      "germania",
+      "nato",
+      "pentagono",
+      "stati-uniti",
+      "unione-europea"
+    ],
+    "slug": "gli-usa-ritirano-12-mila-soldati-dalla-germania-bluff-elettorale"
+  },
+  {
+    "title": "Green economy – le ultime carte geopolitiche di un Occidente che ripudia la politica di potenza",
+    "cover": "/images/posts/\"e6ea9-48606804153_860640b59b_b.jpg\"",
+    "date": 1625810401,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-economia",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "analisi-geopolitica",
+      "geopolitica",
+      "green-policies",
+      "occidente",
+      "politiche-ambientaliste",
+      "potenza"
+    ],
+    "slug": "green-economy-le-ultime-carte-geopolitiche-di-un-occidente-che-ripudia-la-politica-di-potenza"
+  },
+  {
+    "title": "Groundhog Day, ovvero: l’eterno ripetersi degli stessi errori",
+    "cover": "/images/posts/73dcc-christian-lue-wlmikr76k5u-unsplash.jpg",
+    "date": 1665065783,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli",
+      "senza-categoria"
+    ],
+    "tags": [
+      "europa",
+      "gas",
+      "unione-europea"
+    ],
+    "slug": "groundhog-day-ovvero-leterno-ripetersi-degli-stessi-errori"
+  },
+  {
+    "title": "I chip: l'altra guerra dell'Europa",
+    "cover": "/images/posts/i-chip-laltra-guerra-delleuropa.jpg",
+    "date": 1682664351,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "slug": "i-chip-laltra-guerra-delleuropa"
+  },
+  {
+    "title": "I Paesi Baltici, indipendenti ma con un vicino ingombrante",
+    "cover": "/images/posts/i-paesi-baltici-indipendenti-ma-con-un-vicino-ingombrante.jpg",
+    "date": 1608536031,
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "bruxelles",
+      "estonia",
+      "gas",
+      "lettonia",
+      "lituania",
+      "mosca",
+      "nato",
+      "paesi-baltici",
+      "repubbliche-baltiche",
+      "russia",
+      "stati-uniti",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "i-paesi-baltici-indipendenti-ma-con-un-vicino-ingombrante"
+  },
+  {
+    "title": "I tre vicoli ciechi che hanno portato alla guerra in Ucraina",
+    "cover": "/images/posts/i-tre-vicoli-ciechi-che-hanno-portato-alla-guerra-in-ucraina.jpg",
+    "date": 1645814091,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "geopolitica",
+      "guerra",
+      "guerra-russo-ucraina",
+      "nato",
+      "politica-internazionale",
+      "russia",
+      "stati-uniti",
+      "ucraina",
+      "vladimir-putin",
+      "volodymyr-zelensky"
+    ],
+    "slug": "i-tre-vicoli-ciechi-che-hanno-portato-alla-guerra-in-ucraina"
+  },
+  {
+    "title": "Il bisogno di una narrazione europea",
+    "cover": "/images/posts/screenshot-11-e1584216144479.png",
+    "date": 1585815572,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "il-bisogno-di-una-narrazione-europea"
+  },
+  {
+    "title": "Il Confronto: due prospettive sulla storia di Israele e Palestina",
+    "cover": "/images/posts/\"03004-palestina.jpg\"",
+    "date": 1699880791,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "benjamin-netanyahu",
+      "conflitto-israelo-palestinese",
+      "dichiarazione-balfour",
+      "gaza",
+      "israele",
+      "onu",
+      "palestina",
+      "stati-uniti"
+    ],
+    "slug": "il-confronto-due-prospettive-sulla-storia-di-israele-e-palestina"
+  },
+  {
+    "title": "Il debito si cancella con la crescita",
+    "cover": "/images/posts/il-debito-si-cancella-con-la-crescita.jpg",
+    "date": 1605711676,
+    "authors": [
+      "lorenzo-ricci"
+    ],
+    "categories": [
+      "analisi-economia",
+      "articoli-economia"
+    ],
+    "tags": [
+      "covid-19",
+      "crescita",
+      "debito",
+      "eurobond",
+      "next-generation-eu",
+      "pil"
+    ],
+    "slug": "il-debito-si-cancella-con-la-crescita"
+  },
+  {
+    "title": "Il dilemma ucraino",
+    "cover": "/images/posts/il-dilemma-ucraino.jpg",
+    "date": 1644399167,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "crimea",
+      "crisi-ucraina",
+      "donbass",
+      "geopolitica",
+      "nato",
+      "russia",
+      "stati-uniti",
+      "ucraina",
+      "vladimir-putin"
+    ],
+    "slug": "il-dilemma-ucraino"
+  },
+  {
+    "title": "Il forte legame tra populismo ed euroscetticismo - Parte 1",
+    "cover": "/images/posts/69088-eu-flag-brexit-europe-british.jpg",
+    "date": 1625643846,
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "crisi-delleuro",
+      "crisi-economica",
+      "euroscetticismo",
+      "populismo",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "il-forte-legame-tra-populismo-ed-euroscetticismo-parte-1"
+  },
+  {
+    "title": "Il forte legame tra populismo ed euroscetticismo - Parte 2",
+    "cover": "/images/posts/il-forte-legame-tra-populismo-ed-euroscetticismo-parte-2.jpg",
+    "date": 1626333012,
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "crisi-delleuro",
+      "crisi-economica",
+      "euroscetticismo",
+      "fidesz",
+      "marine-le-pen",
+      "populismo",
+      "rassemblement-national",
+      "ue",
+      "unione-europea",
+      "viktor-orban"
+    ],
+    "slug": "il-forte-legame-tra-populismo-ed-euroscetticismo-parte-2"
+  },
+  {
+    "title": "Il futuro dell'Europa è nuovamente sulle spalle della Commissione.",
+    "cover": "/images/posts/il-futuro-delleuropa-e-nuovamente-sulle-spalle-della-commissione.jpg",
+    "date": 1588066717,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "il-futuro-delleuropa-e-nuovamente-sulle-spalle-della-commissione"
+  },
+  {
+    "title": "Il gas russo e il dilemma delle sanzioni",
+    "cover": "/images/posts/il-gas-russo-e-il-dilemma-delle-sanzioni.jpg",
+    "date": 1648047311,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli-economia",
+      "senza-categoria"
+    ],
+    "tags": [
+      "russia",
+      "sanzioni",
+      "unione-europea"
+    ],
+    "slug": "il-gas-russo-e-il-dilemma-delle-sanzioni"
+  },
+  {
+    "title": "Il genocidio di Srebrenica, il momento più drammatico della guerra di Bosnia - Parte due",
+    "cover": "/images/posts/il-genocidio-di-srebrenica-il-momento-piu-drammatico-della-guerra-di-bosnia-parte-due.jpg",
+    "date": 1610473775,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali",
+      "senza-categoria"
+    ],
+    "tags": [
+      "accordi-di-dayton",
+      "balcani",
+      "bosnia",
+      "genocidio",
+      "guerra-di-bosnia",
+      "jugoslavia",
+      "nato",
+      "onu",
+      "sarajevo",
+      "srebrenica"
+    ],
+    "slug": "il-genocidio-di-srebrenica-il-momento-piu-drammatico-della-guerra-di-bosnia-parte-due"
+  },
+  {
+    "title": "Il genocidio di Srebrenica, il momento più drammatico della guerra di Bosnia - Parte uno",
+    "cover": "/images/posts/il-genocidio-di-srebrenica-il-momento-piu-drammatico-della-guerra-di-bosnia-parte-uno.jpg",
+    "date": 1610356317,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "balcani",
+      "bosgnacchi",
+      "bosnia",
+      "consiglio-di-sicurezza-onu",
+      "croazia",
+      "guerra-di-bosnia",
+      "jugoslavia",
+      "mostar",
+      "nato",
+      "onu",
+      "sarajevo",
+      "serbia",
+      "srebrenica"
+    ],
+    "slug": "il-genocidio-di-srebrenica-il-momento-piu-drammatico-della-guerra-di-bosnia-parte-uno"
+  },
+  {
+    "title": "Il Grande Paradosso: il Recovery Fund e l’Europa nella percezione degli italiani",
+    "cover": "/images/posts/il-grande-paradosso-il-recovery-fund-e-leuropa-nella-percezione-degli-italiani.jpg",
+    "date": 1591015749,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-economia",
+      "divisione-economia"
+    ],
+    "slug": "il-grande-paradosso-il-recovery-fund-e-leuropa-nella-percezione-degli-italiani"
+  },
+  {
+    "title": "Il “Green New Deal”: un futuro sostenibile per l’Europa.",
+    "cover": "/images/posts/il-green-new-deal-un-futuro-sostenibile-per-leuropa.jpg",
+    "date": 1612543070,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "il-green-new-deal-un-futuro-sostenibile-per-leuropa"
+  },
+  {
+    "title": "Il MES ora è senza condizionalità: il Pandemic Crisis Support pone l'Italia di fronte ad una scelta.",
+    "cover": "/images/posts/\"3ddb8-klaus-regling-1280x720-1.jpg\"",
+    "date": 1589624494,
+    "authors": [
+      "lorenzo-ricci"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "il-mes-ora-e-senza-condizionalita-il-pandemic-crisis-support-pone-litalia-di-fronte-ad-una-scelta"
+  },
+  {
+    "title": "Il Montenegro guarda a est ma non dimentica l'Unione Europea",
+    "cover": "/images/posts/il-montenegro-guarda-a-est-ma-non-dimentica-lunione-europea.jpg",
+    "date": 1602486957,
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "balcani",
+      "milo-djukanovic",
+      "montenegro",
+      "nato",
+      "podgorica",
+      "serbia"
+    ],
+    "slug": "il-montenegro-guarda-a-est-ma-non-dimentica-lunione-europea"
+  },
+  {
+    "title": "Il populismo dal passato al presente",
+    "cover": "/images/posts/\"21637-populist-1872439_1280.jpg\"",
+    "date": 1625121545,
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "brexit",
+      "democrazia",
+      "donald-trump",
+      "elite",
+      "euroscetticismo",
+      "marine-le-pen",
+      "matteo-salvini",
+      "popolo",
+      "populismo",
+      "sovranismo",
+      "ue",
+      "unione-europea",
+      "viktor-orban"
+    ],
+    "slug": "il-populismo-dal-passato-al-presente"
+  },
+  {
+    "title": "Il senso dell’Unione Europea: un’analisi strategica della geopolitica alla base dell’integrazione degli Stati sovrani.",
+    "cover": "/images/posts/il-senso-dellunione-europea-unanalisi-strategica-della-geopolitica-alla-base-dellintegrazione-degli-stati-sovrani.jpg",
+    "date": 1584647224,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "il-senso-dellunione-europea-unanalisi-strategica-della-geopolitica-alla-base-dellintegrazione-degli-stati-sovrani"
+  },
+  {
+    "title": "Il sogno illiberale di Orban allontana l'Ungheria dall'Ue",
+    "cover": "/images/posts/d5086-cover-orban-1440x708-1.jpg",
+    "date": 1586621600,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "democrazia-cristiana",
+      "democrazia-illiberale",
+      "ungheria",
+      "unione-europea",
+      "viktor-orban"
+    ],
+    "slug": "il-sogno-illiberale-di-orban-allontana-lungheria-dallue"
+  },
+  {
+    "title": "Il superamento del sistema \"Dublino\": tra utopia e realtà",
+    "cover": "/images/posts/\"99dea-migrant-boat-mediterranean.jpg\"",
+    "date": 1604733978,
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "commissione-europea",
+      "immigrazione",
+      "nuovo-patto-europeo-sullimmigrazione-e-sullasilo",
+      "regolamento-di-dublino",
+      "ue",
+      "unione-europea",
+      "ursula-von-der-leyen"
+    ],
+    "slug": "il-superamento-del-sistema-dublino-tra-utopia-e-realta"
+  },
+  {
+    "title": "Il viaggio di Biden in Europa e il ritorno della competizione tra blocchi",
+    "cover": "/images/posts/\"f68b8-biden.jpg\"",
+    "date": 1623998557,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "cina",
+      "diritti-umani",
+      "donald-trump",
+      "g7",
+      "joe-biden",
+      "mario-draghi",
+      "nato",
+      "relazioni-internazionali",
+      "russia",
+      "stati-uniti",
+      "ue",
+      "unione-europea",
+      "xinjiang"
+    ],
+    "slug": "il-viaggio-di-biden-in-europa-e-il-ritorno-della-competizione-tra-blocchi"
+  },
+  {
+    "title": "Il voto democratico nelle istituzioni europee: Parlamento e processo di democratizzazione.",
+    "cover": "/images/posts/\"25da9-istockphoto-1133059544-170667a.jpg\"",
+    "date": 1601042353,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "democrazia",
+      "elezioni",
+      "europa",
+      "parlamento-europe",
+      "piketty",
+      "unione-europea"
+    ],
+    "slug": "il-voto-democratico-nelle-istituzioni-europee-parlamento-e-processo-di-democratizzazione"
+  },
+  {
+    "title": "Italia-Germania. Considerazioni comparate sulle strutture di Ricerca e Sviluppo",
+    "cover": "/images/posts/\"df019-industria_wide_9.jpg\"",
+    "date": 1603969264,
+    "authors": [
+      "lorenzo-ricci"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-economia",
+      "divisione-economia"
+    ],
+    "tags": [
+      "analisi-comparata",
+      "economia",
+      "germania",
+      "handelskammer",
+      "industria",
+      "investimenti",
+      "italia",
+      "italia-germania",
+      "rs",
+      "ricerca",
+      "ricerca-e-sviluppo",
+      "sviluppo"
+    ],
+    "slug": "italia-germania-considerazioni-comparate-sulle-strutture-di-ricerca-e-sviluppo"
+  },
+  {
+    "title": "Joe Biden 46, fine della rivoluzione trumpiana?",
+    "cover": "/images/posts/\"95a9a-joe-biden-white-house-t.jpg\"",
+    "date": 1604923175,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "casa-bianca",
+      "donald-trump",
+      "elezioni-presidenziali-usa",
+      "europa",
+      "joe-biden",
+      "presidente-usa",
+      "stati-uniti",
+      "unione-europea"
+    ],
+    "slug": "joe-biden-46-fine-della-rivoluzione-trumpiana"
+  },
+  {
+    "title": "La BCE é nostra alleata. Ma non fa miracoli.",
+    "cover": "/images/posts/la-bce-e-nostra-alleata-ma-non-fa-miracoli.jpg",
+    "date": 1592061081,
+    "authors": [
+      "lorenzo-ricci"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "la-bce-e-nostra-alleata-ma-non-fa-miracoli"
+  },
+  {
+    "title": "La Bussola strategica dell'Ue e il risveglio italo-tedesco",
+    "cover": "/images/posts/\"1bc3b-draghi-scholz.jpg\"",
+    "date": 1648196625,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "autonomia-strategica-europea",
+      "bussola-strategica",
+      "germania",
+      "guerra-russo-ucraina",
+      "italia",
+      "nato",
+      "russia",
+      "ucraina",
+      "ue",
+      "unione-europea",
+      "ursula-von-der-leyen"
+    ],
+    "slug": "la-bussola-strategica-dellue-e-il-risveglio-italo-tedesco"
+  },
+  {
+    "title": "La Cina alla prova dell'Ucraina, tra l'amicizia senza limiti e il prestigio internazionale",
+    "cover": "/images/posts/la-cina-alla-prova-dellucraina-tra-lamicizia-senza-limiti-e-il-prestigio-internazionale.jpg",
+    "date": 1680946349,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "cina",
+      "guerra-russo-ucraina",
+      "nato",
+      "russia",
+      "stati-uniti",
+      "ucraina",
+      "vladimir-putin",
+      "volodymyr-zelensky",
+      "xi-jinping"
+    ],
+    "slug": "la-cina-alla-prova-dellucraina-tra-lamicizia-senza-limiti-e-il-prestigio-internazionale"
+  },
+  {
+    "title": "La destra europea va a Bruxelles sul trattore",
+    "cover": "/images/posts/\"5ba04-1200x675_cmsv2_264ba7cc-a4c3-507c-ac1f-bda38a6191c1-8266660.webp\"",
+    "date": 1709029816,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "la-destra-europea-va-a-bruxelles-in-trattore"
+  },
+  {
+    "title": "La fine della potenza russa: basterà la sconfitta in Ucraina?",
+    "cover": "/images/posts/la-fine-della-potenza-russa-bastera-la-sconfitta-in-ucraina.jpeg",
+    "date": 1694156878,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "donbass",
+      "euromaidan",
+      "guerra-russo-ucraina",
+      "nato",
+      "occidente",
+      "russia",
+      "stati-uniti",
+      "ucraina",
+      "vladimir-putin",
+      "volodymyr-zelensky"
+    ],
+    "slug": "la-fine-della-potenza-russa-bastera-la-sconfitta-in-ucraina"
+  },
+  {
+    "title": "La lezione del 24 febbraio: l'impensabile può diventare reale",
+    "cover": "/images/posts/la-lezione-del-24-febbraio-pensare-limpensabile.jpg",
+    "date": 1677196819,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "donbass",
+      "guerra-russo-ucraina",
+      "invasione",
+      "joe-biden",
+      "nato",
+      "russia",
+      "ucraina",
+      "vladimir-putin",
+      "volodymyr-zelensky"
+    ],
+    "slug": "la-lezione-del-24-febbraio-pensare-limpensabile"
+  },
+  {
+    "title": "La lite condominiale sulla neutralità tecnologica",
+    "cover": "/images/posts/\"876f4-1574956658-ursula-von-der-leyen-strasburgo-presse.jpg\"",
+    "date": 1680527809,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "commissione-europea",
+      "crisi-climatica",
+      "europa",
+      "germania",
+      "italia"
+    ],
+    "slug": "la-lite-condominiale-sulla-neutralita-tecnologica"
+  },
+  {
+    "title": "\"La pace inizia dalla cura delle parole\"",
+    "cover": "/images/posts/la-pace-inizia-dalla-cura-delle-parole.jpg",
+    "date": 1684989025,
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "arcidiocesi-modena-nonantola",
+      "claudio-baraldi",
+      "erio-castellucci",
+      "guerra",
+      "michele-chiaruzzi",
+      "nostro-tempo",
+      "pace",
+      "tindara-addabbo",
+      "unimore",
+      "universita-di-bologna"
+    ],
+    "slug": "la-pace-inizia-dalla-cura-delle-parole"
+  },
+  {
+    "title": "La politica di allargamento della UE: per il rilancio, oltre Brexit e Covid-19.",
+    "cover": "/images/posts/la-politica-di-allargamento-della-ue-per-il-rilancio-oltre-brexit-e-covid-19.jpg",
+    "date": 1597417755,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "slug": "la-politica-di-allargamento-della-ue-per-il-rilancio-oltre-brexit-e-covid-19"
+  },
+  {
+    "title": "La proposta USA sulla liberalizzazione dei vaccini non ha senso economico né tantomeno sanitario, ma solo geo-politico.",
+    "cover": "/images/posts/\"54d08-np_file_63416-scaled-1.jpeg\"",
+    "date": 1626100923,
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "la-proposta-usa-sulla-liberalizzazione-dei-vaccini-non-ha-senso-economico-ne-tantomeno-sanitario-ma-solo-geo-politico"
+  },
+  {
+    "title": "La Riforma della PAC desta perplessità tra i Verdi",
+    "cover": "/images/posts/la-riforma-della-pac-desta-perplessita-tra-i-verdi.jpg",
+    "date": 1605885678,
+    "authors": [
+      "lorenzo-ricci"
+    ],
+    "categories": [
+      "articoli",
+      "blog",
+      "divisione-economia"
+    ],
+    "tags": [
+      "agricoltura",
+      "commissione-europea",
+      "feasr",
+      "greens-efa",
+      "pac",
+      "qfp",
+      "riforme",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "la-riforma-della-pac-desta-perplessita-tra-i-verdi"
+  },
+  {
+    "title": "La riforma delle riforme: ricostruire i partiti per rafforzare la democrazia",
+    "cover": "/images/posts/la-riforma-delle-riforme-ricostruire-i-partiti-per-rafforzare-la-democrazia.jpg",
+    "date": 1659340207,
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "germania",
+      "governo-tecnico",
+      "italia",
+      "mario-draghi",
+      "partiti",
+      "pnrr",
+      "riforme",
+      "tangentopoli",
+      "unione-europea"
+    ],
+    "slug": "la-riforma-delle-riforme-ricostruire-i-partiti-per-rafforzare-la-democrazia"
+  },
+  {
+    "title": "L'armata russa nel pantano ucraino: intervista ad Umberto Mastropietro (parte I)",
+    "cover": "/images/posts/\"f5c64-soldato-russo.jpg\"",
+    "date": 1650611449,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "corridoio-di-suwalki",
+      "donbass",
+      "guerra-russo-ucraina",
+      "nato",
+      "russia",
+      "ucraina",
+      "umberto-mastropietro",
+      "vladimir-putin",
+      "volodymyr-zelensky"
+    ],
+    "slug": "larmata-russa-nel-pantano-ucraino-intervista-ad-umberto-mastropietro-parte-i"
+  },
+  {
+    "title": "L'armata russa nel pantano ucraino: intervista ad Umberto Mastropietro (parte II)",
+    "cover": "/images/posts/larmata-russa-nel-pantano-ucraino-intervista-ad-umberto-mastropietro-parte-ii.jpg",
+    "date": 1650700092,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "donbass",
+      "guerra-russo-ucraina",
+      "nato",
+      "polonia",
+      "russia",
+      "ucraina",
+      "vladimir-putin",
+      "volodymyr-zelensky"
+    ],
+    "slug": "larmata-russa-nel-pantano-ucraino-intervista-ad-umberto-mastropietro-parte-ii"
+  },
+  {
+    "title": "Le conseguenze del crollo della Federazione Russa",
+    "cover": "/images/posts/\"32160-vladimir_putin_2022-08-18_02.jpg\"",
+    "date": 1669149091,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "crimea",
+      "donbass",
+      "giulio-andreotti",
+      "guerra-russo-ucraina",
+      "russia",
+      "ucraina",
+      "unione-sovietica",
+      "vladimir-putin"
+    ],
+    "slug": "le-conseguenze-del-crollo-della-federazione-russa"
+  },
+  {
+    "title": "Le conseguenze della guerra in Ucraina sugli equilibri internazionali",
+    "cover": "/images/posts/le-conseguenze-della-guerra-in-ucraina-sugli-equilibri-internazionali.jpg",
+    "date": 1646726181,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "assemblea-generale",
+      "geopolitica",
+      "germania",
+      "guerra-in-ucraina",
+      "guerra-russo-ucraina",
+      "india",
+      "nato",
+      "onu",
+      "russia",
+      "ucraina",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "le-conseguenze-della-guerra-in-ucraina-sugli-equilibri-internazionali"
+  },
+  {
+    "title": "Le ragioni dietro la guerra nel Caucaso. Analisi strategica del conflitto Armenia - Azerbaijan",
+    "cover": "/images/posts/le-ragioni-dietro-la-guerra-nel-caucaso-analisi-strategica-del-conflitto-armenia-azerbaijan.jpg",
+    "date": 1603666432,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "analisi-geopolitica",
+      "analisi-strategica",
+      "ankara",
+      "armenia",
+      "artzakh",
+      "azerbaigian",
+      "azerbaijan",
+      "azerbaycan",
+      "baku",
+      "caucaso",
+      "condotto-trans-caucasico",
+      "europa",
+      "ganca",
+      "ganja",
+      "geopolitica",
+      "guerra",
+      "iran",
+      "mosca",
+      "nagorno-karabakh",
+      "pashinyan",
+      "relazioni-internazionali",
+      "russia",
+      "stapanakert",
+      "transcaucasia",
+      "turchia",
+      "unione-europea",
+      "yerevan"
+    ],
+    "slug": "le-ragioni-dietro-la-guerra-nel-caucaso-analisi-strategica-del-conflitto-armenia-azerbaijan"
+  },
+  {
+    "title": "L'energia nucleare è il futuro dell'Europa?",
+    "cover": "/images/posts/\"cf6f4-screenshot-2021-03-05-at-14.38.00.png\"",
+    "date": 1614943940,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "lenergia-nucleare-e-il-futuro2"
+  },
+  {
+    "title": "L'Europa al bivio: breve guida al Consiglio Europeo del 23 aprile.",
+    "cover": "/images/posts/leuropa-al-bivio-breve-guida-al-consiglio-europeo-del-23-aprile.jpg",
+    "date": 1587573549,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-economia",
+      "divisione-economia"
+    ],
+    "slug": "leuropa-al-bivio-breve-guida-al-consiglio-europeo-del-23-aprile"
+  },
+  {
+    "title": "L'Europa deve pensarsi senza l'America",
+    "cover": "/images/posts/\"cd012-trump-comizio.jpg\"",
+    "date": 1709483588,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "donald-trump",
+      "elezioni",
+      "europa",
+      "geopolitica",
+      "nato",
+      "politica",
+      "politica-internazionale",
+      "russia",
+      "ucraina",
+      "unione-europea",
+      "usa-2024",
+      "vladimir-putin"
+    ],
+    "slug": "leuropa-deve-pensarsi-senza-lamerica"
+  },
+  {
+    "title": "L’Europa in azione.",
+    "cover": "/images/posts/leuropa-in-azione.jpg",
+    "date": 1584732334,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "leuropa-in-azione"
+  },
+  {
+    "title": "L'Europa schiacciata, ovvero la guerra fredda non è mai finita",
+    "cover": "/images/posts/leuropa-schiacciata-ovvero-la-guerra-fredda-non-e-mai-finita.jpg",
+    "date": 1661931450,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "autonomia-strategica-europea",
+      "francia",
+      "geopolitica",
+      "germania",
+      "guerra",
+      "guerra-russo-ucraina",
+      "italia",
+      "nato",
+      "politica-internazionale",
+      "russia",
+      "ucraina",
+      "unione-europea",
+      "usa"
+    ],
+    "slug": "leuropa-schiacciata-ovvero-la-guerra-fredda-non-e-mai-finita"
+  },
+  {
+    "title": "\"L'Italia non intende voltarsi dall'altra parte\"",
+    "cover": "/images/posts/litalia-non-intende-voltarsi-dallaltra-parte.jpg",
+    "date": 1646157906,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli-economia"
+    ],
+    "tags": [
+      "europa",
+      "italia",
+      "mario-draghi"
+    ],
+    "slug": "litalia-non-intende-voltarsi-dallaltra-parte"
+  },
+  {
+    "title": "L'Occidente e il mondo che cambia",
+    "cover": "/images/posts/loccidente-e-il-mondo-che-cambia.jpg",
+    "date": 1706522209,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "loccidente-e-il-mondo-che-cambia"
+  },
+  {
+    "title": "L’ordine mondiale sotto scossa",
+    "cover": "/images/posts/lordine-mondiale-sotto-scossa.jpg",
+    "date": 1707346932,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "gaza",
+      "israel",
+      "ordine-mondiale",
+      "palestina",
+      "yemen"
+    ],
+    "slug": "lordine-mondiale-sotto-scossa"
+  },
+  {
+    "title": "L'UE e i flussi migratori: il rischio dell'ideologizzazione e l'opportunità della gestione",
+    "cover": "/images/posts/lue-e-i-flussi-migratori-il-rischio-dellideologizzazione-e-lopportunita-della-gestione.jpg",
+    "date": 1601214097,
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "commissione-europea",
+      "convenzione-di-dublino",
+      "gruppo-di-visegrad",
+      "immigrazione",
+      "mare-nostrum",
+      "migranti",
+      "ong",
+      "ricollocamento",
+      "rotta-balcanica",
+      "triton",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "lue-e-i-flussi-migratori-il-rischio-dellideologizzazione-e-lopportunita-della-gestione"
+  },
+  {
+    "title": "L'Ue ha bisogno della difesa comune, nonostante la Nato",
+    "cover": "/images/posts/lue-ha-bisogno-della-difesa-comune-nonostante-la-nato.jpg",
+    "date": 1632464960,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "afghanistan",
+      "difesa-comune",
+      "difesa-europea",
+      "nato",
+      "relazioni-internazionali",
+      "sergio-mattarella",
+      "stati-uniti",
+      "ue",
+      "ursula-von-der-leyen"
+    ],
+    "slug": "lue-ha-bisogno-della-difesa-comune-nonostante-la-nato"
+  },
+  {
+    "title": "L'Unione Europea deve vaccinarsi contro il sovranismo",
+    "cover": "/images/posts/\"4c28e-v-day-2.jpg\"",
+    "date": 1614693393,
+    "authors": [
+      "andrea-scipione"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "lunione-europea-deve-vaccinarsi-contro-il-sovranismo"
+  },
+  {
+    "title": "L'Unione Europea tra Stati Uniti e Russia",
+    "cover": "/images/posts/lunione-europea-tra-stati-uniti-e-russia.jpg",
+    "date": 1642150368,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "accordi-di-minsk",
+      "crimea",
+      "crisi-ucraina",
+      "donbass",
+      "francia",
+      "geopolitica",
+      "germania",
+      "joe-biden",
+      "nato",
+      "russia",
+      "stati-uniti",
+      "ucraina",
+      "vladimir-putin"
+    ],
+    "slug": "lunione-europea-tra-stati-uniti-e-russia"
+  },
+  {
+    "title": "Majorana: uscire dal gioco per fare sul serio",
+    "cover": "/images/posts/majorana-uscire-dal-gioco-per-fare-sul-serio.jpg",
+    "date": 1660042184,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "campagna-elettorale",
+      "elezioni",
+      "majorana"
+    ],
+    "slug": "majorana-uscire-dal-gioco-per-fare-sul-serio"
+  },
+  {
+    "title": "MES: la sanità italiana non può più attendere.",
+    "cover": "/images/posts/\"c9843-bandiera-ue-e-italiana-750x500-1.jpg\"",
+    "date": 1593789126,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "mes-la-sanita-italiana-non-puo-piu-attendere"
+  },
+  {
+    "title": "MES(so) da parte?",
+    "cover": "/images/posts/messo-da-che-parte.jpg",
+    "date": 1585081081,
+    "authors": [
+      "andrea-scipione"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "messo-da-che-parte"
+  },
+  {
+    "title": "Multilateralismo, alleanze e intransigenza verso Mosca: ipotesi sulla politica estera di Biden",
+    "cover": "/images/posts/multilateralismo-alleanze-e-intransigenza-verso-mosca-ipotesi-sulla-politica-estera-di-biden.jpg",
+    "date": 1604997949,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "cina",
+      "geopolitica",
+      "iran",
+      "joe-biden",
+      "libia",
+      "mediterraneo-orientale",
+      "nato",
+      "politica-estera",
+      "russia",
+      "siria",
+      "turchia",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "multilateralismo-alleanze-e-intransigenza-verso-mosca-ipotesi-sulla-politica-estera-di-biden"
+  },
+  {
+    "title": "Nato: il principale ostacolo alla difesa comune europea?",
+    "cover": "/images/posts/\"b5400-untitled-design.jpg\"",
+    "date": 1612016273,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "difesa-comune",
+      "emmanuel-macron",
+      "esercito-europeo",
+      "francia",
+      "geopolitica",
+      "germania",
+      "nato",
+      "politica-internazionale",
+      "sahel",
+      "stati-uniti",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "nato-il-principale-ostacolo-alla-difesa-comune-europea"
+  },
+  {
+    "title": "Navalny, così Mosca regredisce in umanità",
+    "cover": "/images/posts/navalny-cosi-mosca-regredisce-in-umanita.jpg",
+    "date": 1708894852,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali"
+    ],
+    "tags": [
+      "carcere",
+      "morte",
+      "navalny",
+      "putin",
+      "russia"
+    ],
+    "slug": "navalny-cosi-mosca-regredisce-in-umanita"
+  },
+  {
+    "title": "Next Generation Eu: un approccio coordinato per un'Europa più integrata",
+    "cover": "/images/posts/\"18b7c-next_generation_eu.jpg\"",
+    "date": 1619421356,
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "germania",
+      "istruzione",
+      "italia",
+      "next-generation-eu",
+      "scuola",
+      "ue",
+      "unione-europea",
+      "vhs",
+      "volkshochschulen"
+    ],
+    "slug": "next-generation-eu-un-approccio-coordinato-per-uneuropa-piu-integrata"
+  },
+  {
+    "title": "Next Generation EU: un'occasione per rinnovare le politiche attive al lavoro",
+    "cover": "/images/posts/next-generation-eu-unoccasione-per-rinnovare-le-politiche-attive-al-lavoro.jpg",
+    "date": 1607446414,
+    "categories": [
+      "analisi-economia",
+      "divisione-economia"
+    ],
+    "tags": [
+      "capitale-umano",
+      "fondo-sure",
+      "futuro-europeo",
+      "giovani",
+      "mercato-del-lavoro",
+      "mes",
+      "next-generation-eu",
+      "nuove-generazioni",
+      "recovery-fund",
+      "reddito-di-cittadinanza",
+      "voucher"
+    ],
+    "slug": "next-generation-eu-unoccasione-per-rinnovare-le-politiche-attive-al-lavoro"
+  },
+  {
+    "title": "Normalizzare o non normalizzare? Il dilemma delle relazioni Occidente-Russia",
+    "cover": "/images/posts/normalizzare-o-non-normalizzare-il-dilemma-delle-relazioni-occidente-russia.jpg",
+    "date": 1593940297,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "crimea",
+      "donbass",
+      "geopolitica",
+      "nord-stream-2",
+      "relazioni-internazionali",
+      "russia",
+      "sanzioni",
+      "stati-uniti",
+      "ucraina",
+      "ue",
+      "unione-europea",
+      "vladimir-putin"
+    ],
+    "slug": "normalizzare-o-non-normalizzare-il-dilemma-delle-relazioni-occidente-russia"
+  },
+  {
+    "title": "Nuovo governo e mega trincea russa: com'è la situazione in Libia?",
+    "cover": "/images/posts/nuovo-governo-e-mega-trincea-russa-come-la-situazione-in-libia.jpg",
+    "date": 1617031734,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "egitto",
+      "francia",
+      "germania",
+      "guerra-civile-libica",
+      "italia",
+      "libia",
+      "mediterraneo",
+      "nord-africa",
+      "russia",
+      "tripoli",
+      "turchia",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "nuovo-governo-e-mega-trincea-russa-come-la-situazione-in-libia"
+  },
+  {
+    "title": "Oltre l'aspetto economico delle politiche europee: l'identità comune europea",
+    "cover": "/images/posts/oltre-laspetto-economico-delle-politiche-europee-lidentita-comune-europea.jpg",
+    "date": 1635145250,
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "cultura-europea",
+      "erasmus",
+      "identita-europea",
+      "integrazione-europea",
+      "pac",
+      "politica-agricola-comune",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "oltre-laspetto-economico-delle-politiche-europee-lidentita-comune-europea"
+  },
+  {
+    "title": "Operazione Irini, l'UE e la difficile implementazione dell'embargo ONU alla Libia",
+    "cover": "/images/posts/operazione-irini-lue-e-la-difficile-implementazione-dellembargo-onu-alla-libia.png",
+    "date": 1591944937,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "embargo",
+      "fayez-al-serraj",
+      "irini",
+      "khalifa-haftar",
+      "libia",
+      "luigi-di-maio",
+      "onu",
+      "operazione-irini",
+      "russia",
+      "turchia",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "operazione-irini-lue-e-la-difficile-implementazione-dellembargo-onu-alla-libia"
+  },
+  {
+    "title": "PAC, vantaggi e svantaggi per l'Italia a 60 anni dalla sua introduzione",
+    "cover": "/images/posts/pac-vantaggi-e-svantaggi-per-litalia-a-60-anni-dalla-sua-introduzione.jpg",
+    "date": 1671276086,
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "agricoltura",
+      "commissione-europea",
+      "pac",
+      "politica-agricola-comune",
+      "processo-di-integrazione",
+      "unione-europea"
+    ],
+    "slug": "pac-vantaggi-e-svantaggi-per-litalia-a-60-anni-dalla-sua-introduzione"
+  },
+  {
+    "title": "Pacta sunt servanda: il bluff di Boris mette a rischio le relazioni UE-UK",
+    "cover": "/images/posts/\"39918-91940d30-ccd9-11ea-b7bd-cb7cfccfa3f4.jpg\"",
+    "date": 1599821390,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "accordi-del-venerdi-santo",
+      "boris-johnson",
+      "brexit",
+      "bruxelles",
+      "commissione-europea",
+      "confine",
+      "irlanda-del-nord",
+      "londra",
+      "michel-barnier",
+      "no-deal",
+      "regno-unito",
+      "trattato-commerciale",
+      "ue",
+      "unione-europea",
+      "withdrawal-agreement"
+    ],
+    "slug": "pacta-sunt-servanda-il-bluff-di-boris-mette-a-rischio-le-relazioni-ue-uk"
+  },
+  {
+    "title": "Palestina, il vulcano dormiente",
+    "cover": "/images/posts/\"71b00-bandiera-palestina.jpg\"",
+    "date": 1698296412,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "benjamin-netanyahu",
+      "geopolitica",
+      "hamas",
+      "iran",
+      "israele",
+      "medio-oriente",
+      "palestina",
+      "stati-uniti",
+      "striscia-di-gaza"
+    ],
+    "slug": "palestina-il-vulcano-dormiente"
+  },
+  {
+    "title": "Pandemia-19: La &quot;deresponsabilizzazione&quot; degli Stati europei di fronte all’emergenza degli ‘altri’.",
+    "cover": "/images/posts/\"eea01-martin-sanchez-b1bu7r41huu-unsplash.jpg\"",
+    "date": 1584375728,
+    "authors": [
+      "lorenzo-ricci"
+    ],
+    "categories": [
+      "divisione-economia",
+      "dossier",
+      "dossier-economia"
+    ],
+    "slug": "pandemia-19-la-deresponsabilizzazione-degli-stati-europei-di-fronte-allemergenza-degli-altri"
+  },
+  {
+    "title": "Parigi: proteste e rivendicazioni fuori tempo in un mondo che cambia",
+    "cover": "/images/posts/parigi-proteste-e-rivendicazioni-fuori-tempo-in-un-mondo-che-cambia.jpg",
+    "date": 1683107940,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "emmanuel-macron",
+      "francia",
+      "proteste",
+      "riforma-delle-pensioni"
+    ],
+    "slug": "parigi-proteste-e-rivendicazioni-fuori-tempo-in-un-mondo-che-cambia"
+  },
+  {
+    "title": "Per superare una classe politica “indietrista”",
+    "cover": "/images/posts/per-superare-una-classe-politica-indietrista.webp",
+    "date": 1659434208,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "europa",
+      "italia"
+    ],
+    "slug": "per-superare-una-classe-politica-indietrista"
+  },
+  {
+    "title": "Perché l'invasione russa della Finlandia è improbabile",
+    "cover": "/images/posts/perche-linvasione-russa-della-finlandia-e-improbabile.jpg",
+    "date": 1656660312,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "finlandia",
+      "geopolitica",
+      "guerra-russo-ucraina",
+      "nato",
+      "russia",
+      "stati-uniti",
+      "ucraina",
+      "vladimir-putin"
+    ],
+    "slug": "perche-linvasione-russa-della-finlandia-e-improbabile"
+  },
+  {
+    "title": "Pombeni «Dossetti, pensiero inquieto in un tempo frammentato»",
+    "cover": "/images/posts/pombeni-dossetti-pensiero-inquieto-in-un-tempo-frammentato.jpg",
+    "date": 1708253414,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali",
+      "senza-categoria"
+    ],
+    "tags": [
+      "concilio-vaticano-ii",
+      "costiuente",
+      "crisi",
+      "dossetti",
+      "paolo-pombeni",
+      "relazioni-internazionali"
+    ],
+    "slug": "pombeni-dossetti-pensiero-inquieto-in-un-tempo-frammentato"
+  },
+  {
     "title": "Preview Mode for Headless CMS",
     "excerpt": "How to implement preview mode in your headless CMS.",
     "cover": "/images/posts/preview-mode-headless-cms.jpg",
@@ -30,6 +2540,292 @@
     "slug": "preview-mode-headless-cms"
   },
   {
+    "title": "Problemi di vicinato: le relazioni Ue-Russia",
+    "cover": "/images/posts/problemi-di-vicinato-le-relazioni-ue-russia.jpg",
+    "date": 1587971167,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "donbass",
+      "nord-stream-2",
+      "russia",
+      "ucraina",
+      "ue",
+      "vladimir-putin"
+    ],
+    "slug": "problemi-di-vicinato-le-relazioni-ue-russia"
+  },
+  {
+    "title": "Quale ruolo per il Sud Italia nell'Europa post pandemia?",
+    "cover": "/images/posts/quale-ruolo-per-il-sud-italia-nelleuropa-post-pandemia.jpg",
+    "date": 1609261308,
+    "categories": [
+      "articoli",
+      "articoli-economia",
+      "divisione-economia"
+    ],
+    "tags": [
+      "cina",
+      "covid-19",
+      "crescita-economica",
+      "divario-nord-sud",
+      "germania",
+      "italia",
+      "mezzogiorno",
+      "next-generation-eu",
+      "pandemia",
+      "recovery-fund",
+      "sud-italia"
+    ],
+    "slug": "quale-ruolo-per-il-sud-italia-nelleuropa-post-pandemia"
+  },
+  {
+    "title": "Recovery Fund, in attesa del vertice del 6 maggio.",
+    "cover": "/images/posts/recovery-fund-in-attesa-del-vertice-del-6-maggio.jpg",
+    "date": 1588601132,
+    "authors": [
+      "lorenzo-ricci"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "covid-19",
+      "economia",
+      "integrazione-europea",
+      "perpetualbnd",
+      "recoveryfund"
+    ],
+    "slug": "recovery-fund-in-attesa-del-vertice-del-6-maggio"
+  },
+  {
+    "title": "Ripercorrendo il processo di integrazione - Parte cinque: \"La CEE e gli anni Settanta\".",
+    "cover": "/images/posts/\"4b2d2-firma-1973.jpg\"",
+    "date": 1591780604,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "ripercorrendo-il-processo-di-integrazione-parte-cinque-la-cee-e-gli-anni-settanta"
+  },
+  {
+    "title": "Ripercorrendo il processo di integrazione - Parte due: \"I primi passi.\"",
+    "cover": "/images/posts/ripercorrendo-il-processo-di-integrazione-parte-due-i-primi-passi.jpg",
+    "date": 1589982188,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "ripercorrendo-il-processo-di-integrazione-parte-due-i-primi-passi"
+  },
+  {
+    "title": "Ripercorrendo il processo di integrazione. Parte otto \"La tempesta: terrorismo e instabilità democratica\"",
+    "cover": "/images/posts/\"fe35b-1237399625434_002.jpg\"",
+    "date": 1602932160,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "anni-di-piombo",
+      "brigate-rosse",
+      "estrema-destra",
+      "geopolitica",
+      "integrazione",
+      "italia",
+      "processo-di-integrazione",
+      "relazioni-internazionali",
+      "strategia-della-tensione",
+      "unione-europea"
+    ],
+    "slug": "ripercorrendo-il-processo-di-integrazione-parte-otto-la-tempesta-terrorismo-e-instabilita-democratica"
+  },
+  {
+    "title": "Ripercorrendo il processo di integrazione - Parte quattro: \"I trattati di Roma.\"",
+    "cover": "/images/posts/\"48e09-traite-de-rome-diapo.jpg\"",
+    "date": 1591344732,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "ripercorrendo-il-processo-di-integrazione-parte-quattro-i-trattati-di-roma"
+  },
+  {
+    "title": "Ripercorrendo il processo di integrazione - Parte sei: \"La fragilità italiana durante gli anni Settanta\"",
+    "cover": "/images/posts/\"4efee-enrico_berlinguer_e_aldo_moro_roma_1977.jpg\"",
+    "date": 1600524363,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali"
+    ],
+    "tags": [
+      "aldo-moro",
+      "anni-di-piombo",
+      "anni-sessanta",
+      "anni-settanta",
+      "cee",
+      "comunita-economica-europea",
+      "decolonizzazione",
+      "distensione",
+      "giulio-andreotti",
+      "guerra-fredda",
+      "terza-fase"
+    ],
+    "slug": "ripercorrendo-il-processo-di-integrazione-parte-sei-la-fragilita-italiana-durante-gli-anni-settanta"
+  },
+  {
+    "title": "Ripercorrendo il processo di integrazione - Parte tre: \"L'integrazione inciampa: la CED e l'anno 1956.\"",
+    "cover": "/images/posts/ripercorrendo-il-processo-di-integrazione-parte-tre-lintegrazione-inciampa-la-ced-e-lanno-1956.jpg",
+    "date": 1590581588,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "ripercorrendo-il-processo-di-integrazione-parte-tre-lintegrazione-inciampa-la-ced-e-lanno-1956"
+  },
+  {
+    "title": "Ripercorrendo il processo di integrazione - Parte uno: \"Un continente in ginocchio.\"",
+    "cover": "/images/posts/\"7fe09-5d377d6a-0001-0004-0000-000000103381_w996_r1.77_fpx37.05_fpy49.98.jpg\"",
+    "date": 1589373454,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "ripercorrendo-il-processo-di-integrazione-parte-uno"
+  },
+  {
+    "title": "Ripercorrendo il processo d'integrazione - Parte sette: \"Il fronte della tempesta: l'Italia stretta tra Est e Ovest, tra contestazioni e crisi economica\".",
+    "cover": "/images/posts/\"4bb0f-1201020106143_22.jpg\"",
+    "date": 1602237326,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "anni-di-piombo",
+      "anni-sessanta",
+      "anni-settanta",
+      "europa",
+      "italia",
+      "sessantotto"
+    ],
+    "slug": "ripercorrendo-il-processo-dintegrazione-parte-sette-il-fronte-della-tempesta-litalia-stretta-tra-est-e-ovest-tra-contestazioni-e-crisi-economica"
+  },
+  {
+    "title": "Ripudiare l'intervento europeo in Libia favorisce le potenze autoritarie",
+    "cover": "/images/posts/\"a99c6-mezzi-blindati.jpg\"",
+    "date": 1592894071,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "erdogan",
+      "fayez-al-serraj",
+      "khalifa-haftar",
+      "libia",
+      "politica-internazionale",
+      "russia",
+      "tripoli",
+      "turchia",
+      "unione-europea"
+    ],
+    "slug": "ripudiare-lintervento-europeo-in-libia-favorisce-le-potenze-autoritarie"
+  },
+  {
+    "title": "Russia contro Ucraina, dieci anni dopo",
+    "cover": "/images/posts/russia-contro-ucraina-dieci-anni-dopo.jpg",
+    "date": 1707923460,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "accordi-di-minsk",
+      "crimea",
+      "donbass",
+      "donetsk",
+      "lugansk",
+      "nato",
+      "russia",
+      "separatisti",
+      "ucraina",
+      "vladimir-putin",
+      "volodymyr-zelensky"
+    ],
+    "slug": "russia-contro-ucraina-dieci-anni-dopo"
+  },
+  {
+    "title": "Sanzioni: l'opzione atomica dell'Europa",
+    "cover": "/images/posts/sanzioni-lopzione-atomica-delleuropa.jpg",
+    "date": 1646243896,
+    "authors": [
+      "andrea-scipione"
+    ],
+    "categories": [
+      "articoli-economia",
+      "senza-categoria"
+    ],
+    "slug": "sanzioni-lopzione-atomica-delleuropa"
+  },
+  {
+    "title": "Scenario coreano per la guerra russo-ucraina",
+    "cover": "/images/posts/scenario-coreano-per-la-guerra-russo-ucraina.jpg",
+    "date": 1673190291,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "armistizio",
+      "corea",
+      "geopolitica",
+      "guerra-di-corea",
+      "guerra-russo-ucraina",
+      "nato",
+      "russia",
+      "trattato-di-pace",
+      "vladimir-putin",
+      "volodymyr-zelensky"
+    ],
+    "slug": "scenario-coreano-per-la-guerra-russo-ucraina"
+  },
+  {
     "title": "Server and Client Components",
     "excerpt": "React Server Components allow developers to build applications that span the server and client.",
     "cover": "/images/posts/server-client-components.jpg",
@@ -38,5 +2834,414 @@
       "lorenzo-laricchia"
     ],
     "slug": "server-client-components"
+  },
+  {
+    "title": "Stato di diritto: perché l'Ue non espelle la Polonia?",
+    "cover": "/images/posts/\"ed27f-91be04b6-0b9f-4f18-bf48-a5179dc72292.jpeg\"",
+    "date": 1608389529,
+    "categories": [
+      "analisi",
+      "senza-categoria"
+    ],
+    "tags": [
+      "diritti",
+      "polonia",
+      "stato-di-diritto",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "stato-di-diritto-perche-lue-non-espelle-la-polonia"
+  },
+  {
+    "title": "Stato di emergenza nel cuore dell’Europa.",
+    "cover": "/images/posts/stato-di-emergenza-nel-cuore-delleuropa.jpg",
+    "date": 1586356308,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "stato-di-emergenza-nel-cuore-delleuropa"
+  },
+  {
+    "title": "Strage di Piazza Fontana. Una pagina stracciata dalla storia…",
+    "cover": "/images/posts/\"2e4eb-piazza-fontana.jpg\"",
+    "date": 1607815617,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "articoli"
+    ],
+    "tags": [
+      "anni-di-piombo",
+      "europa",
+      "italia",
+      "piazza-fontana"
+    ],
+    "slug": "strage-di-piazza-fontana-una-pagina-stracciata-dalla-storia"
+  },
+  {
+    "title": "Superare (uniti) la crisi.",
+    "cover": "/images/posts/superare-uniti-la-crisi.jpg",
+    "date": 1585669480,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "superare-uniti-la-crisi"
+  },
+  {
+    "title": "SURE: una nuova prospettiva per il bilancio comunitario.",
+    "cover": "/images/posts/sure-una-nuova-prospettiva-per-il-bilancio-comunitario.jpg",
+    "date": 1621424597,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "fondo-sure",
+      "mario-draghi",
+      "mark-rutte",
+      "unione-europea"
+    ],
+    "slug": "sure-una-nuova-prospettiva-per-il-bilancio-comunitario"
+  },
+  {
+    "title": "Tra atlantismo e autonomia: il rompicapo delle relazioni Ue-Cina",
+    "cover": "/images/posts/tra-atlantismo-e-autonomia-il-rompicapo-delle-relazioni-ue-cina.jpeg",
+    "date": 1624602495,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "bruxelles",
+      "cina",
+      "diritti-umani",
+      "pechino",
+      "relazioni-internazionali",
+      "sanzioni",
+      "stati-uniti",
+      "ue",
+      "uiguri",
+      "unione-europea"
+    ],
+    "slug": "tra-atlantismo-e-autonomia-il-rompicapo-delle-relazioni-ue-cina"
+  },
+  {
+    "title": "U.E. e covid-19, quali sono le conseguenze?",
+    "cover": "/images/posts/u-e-e-covid-19-quali-sono-le-conseguenze.jpg",
+    "date": 1584205946,
+    "authors": [
+      "andrea-scipione"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "u-e-e-covid-19-quali-sono-le-conseguenze"
+  },
+  {
+    "title": "Ucraina, cronaca di una crisi",
+    "cover": "/images/posts/ucraina-cronaca-di-una-crisi.jpg",
+    "date": 1645196166,
+    "authors": [
+      "omar-yazidi"
+    ],
+    "categories": [
+      "articoli",
+      "articoli-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "crimea",
+      "crisi-ucraina",
+      "donbass",
+      "emmanuel-macron",
+      "geopolitica",
+      "joe-biden",
+      "nato",
+      "olaf-scholz",
+      "russia",
+      "ucraina",
+      "ue",
+      "vladimir-putin",
+      "volodymyr-zelensky"
+    ],
+    "slug": "ucraina-cronaca-di-una-crisi"
+  },
+  {
+    "title": "Ucraina: l'ultimo capitolo nell'allargamento dell'UE",
+    "cover": "/images/posts/\"40a17-zelensky_ursula.jpg\"",
+    "date": 1651067260,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "articoli-economia"
+    ],
+    "slug": "ucraina-lultimo-capitolo-nellallargamento-dellue"
+  },
+  {
+    "title": "Ucraina, un futuro ancora tutto da scrivere",
+    "cover": "/images/posts/\"164ad-post-fb.jpg\"",
+    "date": 1605342017,
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "bruxelles",
+      "covid-19",
+      "crimea",
+      "donbass",
+      "euromaidan",
+      "federazione-russa",
+      "kiev",
+      "nato",
+      "petro-poroshenko",
+      "russia",
+      "ucraina",
+      "ue",
+      "unione-europea",
+      "volodymyr-zelensky"
+    ],
+    "slug": "ucraina-un-futuro-ancora-tutto-da-scrivere"
+  },
+  {
+    "title": "UE e Turchia: cattivi vicini?",
+    "cover": "/images/posts/\"d7afd79f-76e2-4ec8-983f-4c855e913bd6-1552-0000024c75ca8b17.jpg\"",
+    "date": 1584885250,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "erdogan",
+      "estefano-soler",
+      "massimiliano-palladini",
+      "migranti",
+      "turchia",
+      "unione-europea"
+    ],
+    "slug": "ue-e-turchia-cattivi-vicini"
+  },
+  {
+    "title": "UE-UK, breve storia storia di una relazione problematica",
+    "cover": "/images/posts/ue-uk-breve-storia-storia-di-una-relazione-problematica.jpg",
+    "date": 1609144562,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "boris-johnson",
+      "brexit",
+      "euroscetticismo",
+      "margaret-thatcher",
+      "referendum",
+      "regno-unito",
+      "ue",
+      "uk",
+      "ukip",
+      "unione-europea"
+    ],
+    "slug": "ue-uk-breve-storia-storia-di-una-relazione-problematica"
+  },
+  {
+    "title": "Una lezione dal passato: la dichiarazione Schuman, settant'anni dopo.",
+    "cover": "/images/posts/una-lezione-dal-passato-la-dichiarazione-schuman-settantanni-dopo.jpg",
+    "date": 1589017619,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "una-lezione-dal-passato-la-dichiarazione-schuman-settantanni-dopo"
+  },
+  {
+    "title": "Una missione europea per contenere l'aggressività turca ai danni di Grecia e Cipro?",
+    "cover": "/images/posts/una-missione-europea-per-contenere-laggressivita-turca-ai-danni-di-grecia-e-cipro.jpg",
+    "date": 1607360993,
+    "authors": [
+      "civitas-europa"
+    ],
+    "categories": [
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "cipro",
+      "francia",
+      "grecia",
+      "heiko-maas",
+      "joe-biden",
+      "libia",
+      "mar-egeo",
+      "mediterraneo",
+      "mediterraneo-orientale",
+      "nato",
+      "operazione-irini",
+      "tripolitania",
+      "turchia",
+      "ue",
+      "unione-europea"
+    ],
+    "slug": "una-missione-europea-per-contenere-laggressivita-turca-ai-danni-di-grecia-e-cipro"
+  },
+  {
+    "title": "Una settimana decisiva: la proposta franco-tedesca e il futuro del Recovery Fund.",
+    "cover": "/images/posts/una-settimana-decisiva-la-proposta-franco-tedesca-e-il-futuro-del-recovery-fund.jpg",
+    "date": 1590225753,
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "una-settimana-decisiva-la-proposta-franco-tedesca-e-il-futuro-del-recovery-fund"
+  },
+  {
+    "title": "Ungheria silenziosa: bavaglio alle opposizioni nel cuore dell'Europa",
+    "cover": "/images/posts/\"42260-200330112237-01-viktor-orban-0304-super-tease.jpg\"",
+    "date": 1585995393,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "ungheria-silenziosa-bavaglio-alle-opposizioni-nel-cuore-delleuropa"
+  },
+  {
+    "title": "Ungheria, un inquilino scomodo per l'Unione Europea",
+    "cover": "/images/posts/ungheria-un-inquilino-scomodo-per-lunione-europea.jpg",
+    "date": 1603570229,
+    "categories": [
+      "analisi",
+      "analisi-relazioni-internazionali",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "articolo-7-tue",
+      "bruxelles",
+      "budapest",
+      "central-european-university",
+      "democrazia",
+      "fidesz",
+      "freedom-house",
+      "george-soros",
+      "human-rights-watch",
+      "parlamento-europeo",
+      "stato-di-diritto",
+      "ue",
+      "ungheria",
+      "unione-europea",
+      "viktor-orban"
+    ],
+    "slug": "ungheria-un-inquilino-scomodo-per-lunione-europea"
+  },
+  {
+    "title": "Versailles 2020. Quando nessuno è disposto a rinunciare, rinunciano tutti.",
+    "cover": "/images/posts/versailles-2020-quando-nessuno-e-disposto-a-rinunciare-rinunciano-tutti.jpg",
+    "date": 1585591755,
+    "authors": [
+      "alessandro-verdoliva"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "slug": "versailles-2020-quando-nessuno-e-disposto-a-rinunciare-rinunciano-tutti"
+  },
+  {
+    "title": "«Vivere contro un muro, è vita da cani»",
+    "cover": "/images/posts/vivere-contro-un-muro-e-vita-da-cani.jpg",
+    "date": 1662533073,
+    "authors": [
+      "estefano-tamburrini"
+    ],
+    "categories": [
+      "analisi",
+      "articoli"
+    ],
+    "slug": "vivere-contro-un-muro-e-vita-da-cani"
+  },
+  {
+    "title": "Von der Leyen, Lagarde, Metsola. Un'Unione Europea tutta al femminile...con un grosso \"ma\"",
+    "cover": "/images/posts/von-der-leyen-lagarde-metsola-ununione-europea-tutta-al-femminile-con-un-grosso-ma.jpg",
+    "date": 1644999262,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "analisi"
+    ],
+    "tags": [
+      "angela-merkel",
+      "femminismo",
+      "rappresentanza-femminile",
+      "ue",
+      "unione-europea",
+      "ursula-von-der-leyen"
+    ],
+    "slug": "von-der-leyen-lagarde-metsola-ununione-europea-tutta-al-femminile-con-un-grosso-ma"
+  },
+  {
+    "title": "Whatever it takes, parte II",
+    "cover": "/images/posts/whatever-it-takes-parte2.png",
+    "date": 1615277200,
+    "authors": [
+      "andrea-scipione"
+    ],
+    "categories": [
+      "senza-categoria"
+    ],
+    "tags": [
+      "italia",
+      "mario-draghi",
+      "unione-europea"
+    ],
+    "slug": "whatever-it-takes-parte2"
+  },
+  {
+    "title": "Yemen, sulla bocca di tutti eppure dimenticato",
+    "cover": "/images/posts/\"6b8fa-yemen.jpg\"",
+    "date": 1707314853,
+    "authors": [
+      "massimiliano-palladini"
+    ],
+    "categories": [
+      "articoli",
+      "divisione-relazioni-internazionali"
+    ],
+    "tags": [
+      "ansar-allah",
+      "arabia-saudita",
+      "houthi",
+      "iran",
+      "israele",
+      "mar-rosso",
+      "medio-oriente",
+      "palestina",
+      "yemen"
+    ],
+    "slug": "yemen-sulla-bocca-di-tutti-eppure-dimenticato"
   }
 ]
