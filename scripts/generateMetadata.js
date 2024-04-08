@@ -22,8 +22,9 @@ const parseMetadata = (directory) => {
     });
 }
 
+
 const authorsMetadata = parseMetadata(authorsMdxDirectory);
 fs.writeFileSync(authorsMetadataPath, JSON.stringify(authorsMetadata, null, 2));
 
-const postsMetadata = parseMetadata(postsMdxDirectory);
+const postsMetadata = parseMetadata(postsMdxDirectory).sort((a, b) => b.date - a.date);
 fs.writeFileSync(postsMetadataPath, JSON.stringify(postsMetadata, null, 2));
