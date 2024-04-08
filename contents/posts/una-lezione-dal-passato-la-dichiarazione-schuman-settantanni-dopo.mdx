@@ -1,0 +1,57 @@
+---
+title: "Una lezione dal passato: la dichiarazione Schuman, settant'anni dopo."
+cover: "/images/posts/una-lezione-dal-passato-la-dichiarazione-schuman-settantanni-dopo.jpg"
+date: 1589017619
+authors:
+  - civitas-europa
+categories: 
+  - "senza-categoria"
+---
+
+_Il 9 maggio è una data molto importante nella storia dell’Europa unita. In questo giorno, nel 1950, l’allora Ministro degli Affari Esteri francese Robert Schuman tenne un discorso destinato a porre le fondamenta di tutta la costruzione comunitaria._ _In occasione del settantesimo anniversario della dichiarazione, una ricorrenza che cade in un periodo buio per tutto il continente, si rende necessario ricordare l’iniziativa del grande statista francese per rilanciare l’unità dell’Europa._
+
+ 
+
+La dichiarazione Schuman è un momento storico nel ricordare il processo di integrazione. Ebbe luogo nella sede del Ministero degli Affari esteri francese, precisamente nella Sala dell’Orologio. Il discorso di Schuman verrà ricordato per aver, sin dall’inizio, proposto un prima e un dopo nella storia del vecchio continente.
+
+_“La pace mondiale non potr__à_ _essere salvaguardata se non con sforzi creativi, proporzionali ai pericoli che la minacciano.”_
+
+Questa dichiarazione e la proposta in essa contenuta si ponevano in controcorrente rispetto all’odio che aveva animato la reciproca ostilità tra la Francia e la Germania. La fusione della produzione del Carbone e dell’Acciaio tra i due Stati avrebbe rappresentato un punto di rottura nella rivalità di francesi e tedeschi.
+
+_“La fusione della produzioni di carbone e di acciaio assicurer__à_ _subito la costituzione di basi comuni per lo sviluppo economico, prima tappa della Federazione europea, e cambier__à_ _il destino di queste regioni che per lungo tempo si sono dedicate alla fabbricazione di strumenti bellici di cui più costantemente sono state le vittime.”_
+
+Schuman e Monnet idearono la CECA ritenuta da loro stessi un’organizzazione vitale e indispensabile per la civiltà. Le materie prime che fino ad allora avevano nutrito la corsa agli armamenti sono state trasformate nel primo collante verso l’integrazione. Il carbone e l’acciaio non tracciavano più il percorso verso la reciproca distruzione ma aprivano, una volta per tutte, il percorso verso l’unificazione. **Il traguardo politico elaborato da Schuman e Monnet era chiaro a tutti: far diventare la guerra un’opzione non raggiungibile e materialmente lontana dalla portata degli attori coinvolti**.
+
+La dichiarazione Schuman ci porterà al Trattato di Parigi firmato il 18 aprile 1951. I sei fondatori – il Belgio, la Francia, la neonata Repubblica Federale tedesca, l’Italia, il Lussemburgo e i Paesi Bassi – diedero vita alla Comunità del Carbone e dell’Acciaio. In vigore dal 23 luglio 1952, il Trattato aveva una durata prevista di 50 anni. Allo scadere di questo termine, il 23 luglio 2002, la CECA è diventata parte integrante della Comunità europea.
+
+La CECA poggiava su quattro organi: un’alta autorità, un’assemblea, un Consiglio dei ministri e una corte di giustizia.
+
+Al fine di comunicare il senso di questa nuova costruzione agli italiani, Alcide De Gasperi cercò di spiegare la ratio del nascente processo di integrazione e, più nello specifico, della CECA in un discorso radiofonico trasmesso il 5 gennaio 1952 nel quale parlava di come sono nate Federazioni e Confederazioni quali gli Stati Uniti e la Svizzera e della necessità di unirsi in senso federativo allo scopo di tutelare una pace piuttosto fragile.
+
+_“Cerchiamo di metterci insieme a difendere la nostra vitalit__à__, le nostre possibilit__à_ _di sviluppo per scoraggiare i tentativi che possono venire da qualsiasi parte per renderci impossibile questo sviluppo. Non è detto che questo sforzo debba durare eternamente, ma solo il periodo critico, superato il quale, questa impresa si svilupper__à_ _permanentemente nella nostra vita collettiva”._
+
+Il discorso di De Gasperi annunciava agli italiani una scelta che rischiava di essere impopolare, utopica e irrealizzabile. **Unire le produzioni del Carbone e dell’Acciaio sotto l’egida di una singola entit****à** **sovranazionale significava una consistente cessione di sovranit****à****_._** **Una cessione di sovranit****à** **che, con il passare degli anni, avrebbe garantito la più lunga stagione di pace nell’Europa contemporanea**.
+
+_“Nel passato sono stati tanti i conflitti e le guerre per questa impossibilit__à_ _di trovare l'accordo, di discutere, per l'impossibilit__à_ _di mettersi insieme in un'Assemblea e trattare di pace; non è meglio che facciamo uno sforzo per raggiungere la pace, per avere delle formule, per avere delle istituzioni che garantiscano questa pace?”_
+
+Il Presidente del Consiglio non esitò a prendersi il rischio di risultare impopolare, ma indicò con decisione ai cittadini italiani quella che egli riteneva la via da seguire per un futuro pacifico. E così fecero numerosi altri _leaders_ alla guida dei paesi fondatori.
+
+La classe politica europea di quel periodo condivideva la volontà di mettere la parola fine, una volta e per tutte, sui conflitti che avevano dilaniato il continente per secoli e secoli. Erano i rappresentati di una generazione che aveva conosciuto le distruzioni della guerra e si era trovata a ripartire da zero, dalle macerie delle proprie città.
+
+Il messaggio di Schuman, pragmatico ma allo stesso tempo pregno di contenuto ideale, parlava alle coscienze del tempo proponendo una soluzione immediata alla possibilità di muoversi guerra, ovvero la CECA, e una prospettiva futura per l’avvenire del continente europeo, ovvero la Federazione europea, di cui la CECA avrebbe costituito il seme.
+
+Settant’anni di pace dopo, si può affermare che il Ministro degli Affari Esteri francese avesse indicato la strada giusta: quella dell’unità.
+
+Nonostante la Federazione europea ancora non esista, nonostante le difficoltà e i ritardi nel processo di integrazione, il messaggio che proviene dalla dichiarazione Schuman rimane valido ancora oggi.
+
+Dal 1985, il 9 maggio è stato adottato come giorno della festa dell'Europa, per ricordare sia da dove partì il processo d'integrazione, sia l'idea federale che ispirò il progetto dei padri fondatori. Quest'anno la ricorrenza cade in un periodo travagliato per l'Unione Europea, ma proprio per questo assume un significato ancora maggiore. Guardare al passato, alla memoria storica dell'Europa, permette di comprendere l'importanza della coesione tra i paesi europei. Per uscire dalla crisi e proiettarsi nel futuro.
+
+ 
+
+ 
+
+Estefano Soler, Riccardo Raspanti
+
+ 
+
+CIVITAS EUROPA

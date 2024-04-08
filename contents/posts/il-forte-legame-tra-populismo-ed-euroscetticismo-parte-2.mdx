@@ -1,0 +1,56 @@
+---
+title: "Il forte legame tra populismo ed euroscetticismo - Parte 2"
+cover: "/images/posts/il-forte-legame-tra-populismo-ed-euroscetticismo-parte-2.jpg"
+date: 1626333012
+categories: 
+  - "analisi"
+tags: 
+  - "crisi-delleuro"
+  - "crisi-economica"
+  - "euroscetticismo"
+  - "fidesz"
+  - "marine-le-pen"
+  - "populismo"
+  - "rassemblement-national"
+  - "ue"
+  - "unione-europea"
+  - "viktor-orban"
+---
+
+**Analisi degli assi partitici europei**
+
+Nella [prima parte](https://civitaseuropadoteu.wordpress.com/2021/07/07/il-forte-legame-tra-populismo-ed-euroscetticismo-parte-1/) di questa analisi è stato dimostrato come sia il cosiddetto “hard euroscepticism” sia il “soft euroscepticism”  abbiano conosciuto un incremento in seguito alla crisi economica del 2008.
+
+Riguardo all’euroscetticismo partitico, la crisi del 2008 ha portato alla nascita dei cosiddetti “challenger parties”, termine introdotto dai politologi Hobolt e Tilley per indicare i nuovi partiti caratterizzati da visioni fortemente euroscettiche; questi partiti si sono sviluppati sia nell’ala destra che nell’ala sinistra dei sistemi partitici europei e, negli ultimi anni, hanno aumentato il loro consenso, beneficiando dell’esodo di voti dai partiti tradizionali, che al contrario hanno visto calare il loro sostegno da parte dell'elettorato. Anche i “mainstream parties”, però, in seguito alla crisi dell’euro del decennio scorso hanno rinvigorito le loro critiche nei confronti dell’operato di Bruxelles, seppur senza assumere posizioni estreme.
+
+Fenomeni come il populismo e l’euroscetticismo hanno modificato profondamente il sistema partitico di tutti gli stati europei. Una conseguenza fondamentale che deriva da questi due fenomeni è il superamento dell’asse orizzontale destra/sinistra. Analizzare la posizione dei partiti in riferimento alla classica dimensione left/right, infatti, sembra oggi qualcosa di anacronistico; la “geometria spaziale politica” ha subìto un mutamento radicale.
+
+In particolare, con riferimento al populismo, si può evidenziare come l’asse da utilizzare per classificare i partiti non sia più orizzontale bensì verticale; con il populismo, la contrapposizione è tra élite da una parte – ciò che si trova al vertice – e popolo dall’altra – ciò che si trova verso il basso. L’opposizione tra destra e sinistra non è più così sostanziale e ciò lo dimostra anche il fatto che i partiti populisti si trovano sia a destra che a sinistra.
+
+Ad esempio, sono considerati partiti populisti di sinistra il partito spagnolo Podemos, attualmente guidato da Turriòn, e il partito greco Syriza di Tsipras, appartenente alla sinistra radicale. Ma anche a destra troviamo numerosi partiti che appartengono al movimento populista; ne sono degli esempi il partito francese Rassemblement National di Le Pen e il partito ungherese Fidesz di Orban.
+
+Alcuni studiosi, però, ritengono che tra il populismo di destra e tra quello di sinistra ci sia una differenza fondamentale legata al concetto di “popolo” e alla sua estensione; i partiti populisti di sinistra, infatti, sono più inclusivi in quanto ricomprendono nel termine “popolo” anche alcune categorie più fragili, come i migranti e le minoranze etniche. Cosa esclusa a priori dal populismo di destra.
+
+Per quanto riguarda l’euroscetticismo, anche in questo caso la vecchia dimensione destra/sinistra risulta essere superata, in quanto – come dimostrato dagli scienziati politici Hooghe e Marks – l’euroscetticismo si manifesta, così come il populismo, sia a destra che a sinistra. Infatti, sia i partiti di estrema destra che quelli di estrema sinistra condividono posizioni fortemente euroscettiche; al contrario, i partiti situati al centro, tra i quali liberali, conservatori e socialdemocratici, sono più supportivi verso il processo d’integrazione europea.
+
+Dunque, combinando le posizioni dei partiti politici sulla dimensione orizzontale destra/sinistra con una dimensione verticale che indica il sostegno degli stessi verso il progetto d’integrazione europea, si ottiene una sorta di “curva a U invertita”, in cui il supporto all’UE risulta basso sia all’estrema destra che all’estrema sinistra, e più ampio invece nelle posizioni mediane dello spettro politico.
+
+**Partiti populisti che sono considerati anche euroscettici**
+
+Dopo aver analizzato i legami e gli intrecci tra questi due fenomeni sempre più dilaganti, è interessante vedere come alcuni partiti siano allo stesso tempo classificabili come populisti e come euroscettici, a dimostrazione del nesso esistente tra i due movimenti.
+
+Un esempio di partito che presenta entrambe le caratteristiche è il partito francese Rassemblement National (RN) citato precedentemente. Attualmente, alla guida di RN si trova Marine Le Pen, la quale è stata protagonista di una sfida con Macron per la guida dell’Eliseo alle elezioni del 2017; sfida che è stata persa da Le Pen, ma che comunque ha dimostrato il crescente consenso del suo partito in Francia – e in generale dei movimenti populisti.
+
+Rassemblement National si colloca nell’ala dei partiti populisti e ciò è confermato da alcune tematiche che occupano un ruolo di primo piano nella sua propaganda partitica: antiparlamentarismo, difesa dei piccoli contro i potenti, difesa delle tradizioni e del territorio. Le posizioni del partito sono anche fortemente euroscettiche: da anni, Le Pen porta avanti la sua battaglia contro l’Unione Europea, le sue istituzioni e la moneta comune.
+
+Un altro partito – forse tra quelli più discussi – riconducibile al populismo ed anche all’euroscetticismo è il partito ungherese Fidesz guidato da Viktor Orban. La sua opposizione verso l’Unione europea a causa delle sue posizioni nazionaliste, anti-immigrazioniste e anti-europeiste è nota, così come anche il suo modo di fare politica, che non può che essere definito populista.
+
+Anche in Italia sono molteplici i partiti populisti ed euroscettici: basti pensare alla Lega di Matteo Salvini e a Fratelli d’Italia di Giorgia Meloni, ma anche al Partito Comunista guidato da Marco Rizzo.
+
+Dunque, analizzando il sistema partitico europeo non si può che trovare la conferma del fatto che populismo ed euroscetticismo sono due fenomeni connessi tra loro. Seppur ognuno mantenga le proprie caratteristiche e le proprie peculiarità, nonché una propria origine e una propria storia, il corso degli eventi ci sta dimostrando come essi siano fortemente interconnessi, si sviluppino su un terreno comune e vengono alimentati dagli stessi “fuochi”, come le crisi economiche.
+
+ 
+
+CIVITAS EUROPA - COLLABORATRICE ESTERNA
+
+Maria Letizia Fiammenghi

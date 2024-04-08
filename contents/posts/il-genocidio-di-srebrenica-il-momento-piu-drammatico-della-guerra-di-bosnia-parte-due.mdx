@@ -1,0 +1,69 @@
+---
+title: "Il genocidio di Srebrenica, il momento più drammatico della guerra di Bosnia - Parte due"
+cover: "/images/posts/il-genocidio-di-srebrenica-il-momento-piu-drammatico-della-guerra-di-bosnia-parte-due.jpg"
+date: 1610473775
+authors:
+  - civitas-europa
+categories: 
+  - "articoli"
+  - "articoli-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+  - "senza-categoria"
+tags: 
+  - "accordi-di-dayton"
+  - "balcani"
+  - "bosnia"
+  - "genocidio"
+  - "guerra-di-bosnia"
+  - "jugoslavia"
+  - "nato"
+  - "onu"
+  - "sarajevo"
+  - "srebrenica"
+---
+
+_Dopo aver fatto il resoconto della [prima parte](https://civitaseuropadoteu.wordpress.com/2021/01/11/il-genocidio-di-srebrenica-il-momento-piu-drammatico-della-guerra-di-bosnia-parte-uno/) della guerra passiamo alla seconda. L'intervento della Nato, sebbene abbia mutato gli equilibri militari, non ha impedito il genocidio di Srebrenica del luglio 1995. Gli accordi di Dayton hanno cristallizzato la frammentazione etnica mentre l'Unione Europea ha dimostrato di non avere una vera e propria politica estera e di sicurezza comune._
+
+**La deterrenza della Nato**
+
+Il 5 febbraio 1994 avrà luogo il massacro di Markale che causerà un totale di 68 morti e 144 feriti. Sarà l’attacco più sanguinoso dell’assedio di Sarajevo. In risposta, il 9 febbraio, la Nato autorizzerà le Forze alleate del Sud Europa (CINCSOUTH) a lanciare un attacco aereo contro l’artiglieria e i mortai a Sarajevo e dintorni. In seguito, il Consiglio Nord Atlantico rivolge un ultimatum ai serbo-bosniaci sollecitando la rimozione di armi pesanti nelle vicinanze di Sarajevo entro il 20-21 febbraio.
+
+Nel frattempo, il 23 febbraio vengono firmati gli accordi di Washington che porteranno alla conclusione della guerra croato-musulmana, ufficializzata il 18 marzo 1994 con la firma del trattato di pace. Le due fazioni divisero il territorio in dieci cantoni autonomi dando vita alla Federazione di Bosnia ed Erzegovina.
+
+**L'intervento della Nato**
+
+Il 12 marzo, l’11 e il 12 aprile, la NATO riceverà richieste di supporto aereo da parte dell’UNPROFOR per difendere la zona protetta di Goražde. La prima volta, i ritardi hanno impedito l’arrivo del supporto aereo mentre nella seconda occasione è stato bombardato un avamposto serbo. Come ritorsione, i serbi presero 150 civili in ostaggio abbattendo anche un Sea Harrier inglese.
+
+Poco dopo, il 15 aprile, le linee di difesa del governo bosniaco si rompono. Il 29 aprile invece, nel villaggio di Kalesija, la brigata Nordbat 2 in servizio peacekeeping, dovette reagire a un agguato da parte della brigata serba Sekovici. Sempre su richiesta dell’UNPROFOR gli aerei della Nato eseguiranno altri due attacchi il 5 agosto e il 22 settembre. Le aggressioni serbe spingono gli Stati uniti a revocare unilateralmente l’embargo sulle armi contro il governo di Bosnia mentre il 19 novembre il Consiglio Nord Atlantico approvò l’estensione del Close Air Support in Croazia per la protezione delle forze dell’Onu.
+
+In risposta agli attacchi contro Bihac e il sud di Otoka, gli aerei della Nato attaccarono l’aerodromo serbo in Croazia il 21 novembre e, due giorni dopo, i radar di difesa aerea situati nel Nordovest della Bosnia.
+
+**Srebrenica, lo spartiacque della guerra di Bosnia**
+
+Come già menzionato nella [prima parte](https://civitaseuropadoteu.wordpress.com/2021/01/11/il-genocidio-di-srebrenica-il-momento-piu-drammatico-della-guerra-di-bosnia-parte-uno/), nel luglio 1995 ebbe luogo il massacro di Srebrenica. Fu il più cruento dopo la Seconda guerra mondiale. Il saldo, ripetiamo, fu di 8.732 morti. Erano tutti maschi con età comprese tra i 12 e 77 anni. In risposta, le forze croate invasero la Bosnia Occidentale annientando la Repubblica serba di Krajina. Le operazioni Estate 95 e Tempesta causarono lo sfollamento di 250.000 persone dalla Bosnia. L’alleanza bosniaco-croata reagì con le Operazioni Mistrai e Sana arrivando a soli 20 km dalla capitale serba Banja Luka.
+
+I massacri di Markale e Srebrenica persuasero la Nato ad avviare, su iniziativa dell’Onu, l’Operazione Deliberate Force attaccando tutta la Repubblica Serba. Essi furono sospesi il 14 settembre 1995 per consentire il ritiro delle armi pesanti intorno a Sarajevo. Alcuni giorni dopo, fu raggiunto un accordo base di pace tra i ministri esteri delle parti in conflitto (Bosnia ed Erzegovina, Croazia e Repubblica Federale di Jugoslavia). Un cessate al fuoco di 60 giorni sarebbe entrato in vigore il 12 ottobre.
+
+I negoziati di pace si tengono a Dayton, negli Stati Uniti, e il 21 novembre 1995 viene firmata la versione definitiva dell’accordo che prenderà il nome dall’omonima città e la cui versione definitiva sarà firmata il 14 dicembre 1995. Per implementare l’accordo di pace la Nato istituì l’Implementation Force (IFOR): una forza multinazionale composta da circa 60 mila sodati provenienti dagli Stati membri dell’alleanza con l’obiettivo di garantire l’applicazione dell’accordo.
+
+Secondo il Centro di ricerca e documentazione di Sarajevo, il conflitto ha causato un totale di 93.837 morti: 63.687 bosniaci, 24.216 serbi, 5.057 croati. Tra le vittime, risultano 877 che si dichiararono jugoslavi al censimento del 1991 o stranieri. Secondo l’UNCHR, il conflitto ha prodotto oltre 2,2 milioni di sfollati.
+
+**Considerazioni conclusive**
+
+Attualmente, la Bosnia-Erzegovina è una repubblica federale con un sistema parlamentare. Essa rimane tutt’ora “un Paese ingessato”. Con una Presidenza tripartita composta da esponenti dei tre gruppi etno-culturali più grandi del Paese, il Paese è retto da un fragile equilibrio che tiene unite le due entità che la compongono.
+
+La categorizzazione etnica come criterio di governabilità mantiene la Bosnia-Erzegovina sotto una condizione di stallo politico. Tuttavia, la prima autorità civile del Paese rimane nelle mani dell’Alto rappresentante dell’ONU, figura introdotta con gli accordi di Dayton. Nominato dal Peace _Implementation Council_ delle Nazioni Unite, l’Alto rappresentante esegue compiti di controllo, monitoraggio e supervisione. Esso ha anche il potere di introdurre provvedimenti legislativi e rimuovere funzionari dai loro incarichi nel caso in cui, con il loro operato, ostacolino l’implementazione della pace.
+
+La società bosniaca è frammentata e con un tessuto sociale sfaldato per le tante, troppe ferite della guerra. Sarajevo e Srebrenica, ad esempio, piangono ancora i propri morti. Nel caso di Srebrenica, la città rimane ferma nel tempo e rivive ogni estate per le commemorazioni ufficiali che diventano occasione di rientro per tante persone che si recano in massa al cimitero di Potocari per fare memoria.
+
+In effetti, il genocidio di Srebrenica fu un appello di fronte al quale l’Europa ha risentito le conseguenze di un processo di integrazione ancora acerbo, fragile a livello politico e carente di una Difesa comune. La titubanza della Comunità europea di fronte all’assedio che la città stava subendo, il non intervento dei contingenti olandesi delle UNPROFOR scarsamente armati e l’insistenza sul mantenimento di criteri etnici per dar vita a una strana divisione dei poteri sono alcuni degli errori che hanno provocato il massacro di Srebrenica e la sua mancata riparazione.
+
+“Il genocidio di Srebrenica rimane una ferita aperta nel cuore dell’Europa” ha dichiarato il commissario europeo Olivér Vàrhely lo scorso 10 luglio, un giorno prima del venticinquesimo anniversario di un massacro “riconosciuto come un atto di genocidio da ben due corti internazionali: il tribunale internazionale per l’ex-Yugoslavia nel 2004 e la Corte Internazionale di giustizia”, ritenendo inoltre “inaccettabili i tentativi di negazionismo e revisionismo”.
+
+Sotto la fattispecie di genocidio, il Tribunale penale internazionale per l’ex-Jugoslavia ha incriminato un totale di 21 persone, tra cui il generale Ratko Mladic e l’ex presidente della Repubblica Serba di Bosnia ed Erzegovina Radovan Karadzic condannati all’ergastolo e a 40 anni di prigione rispettivamente. Sebbene questi dipendessero da Belgrado, non ci fu un ordine esplicito da quest’ultimo. Pertanto, la Corte ha stabilito che il genocidio fu compiuto per opera di singole persone. Decisione replicata dalla Corte Internazionale di Giustizia che, nel 2007, ha applicato la pena dell’ergastolo a Karadzic confermando la natura genocida del massacro.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Estefano Soler

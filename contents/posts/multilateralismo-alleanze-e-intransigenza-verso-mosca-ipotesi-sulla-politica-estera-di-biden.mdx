@@ -1,0 +1,73 @@
+---
+title: "Multilateralismo, alleanze e intransigenza verso Mosca: ipotesi sulla politica estera di Biden"
+cover: "/images/posts/multilateralismo-alleanze-e-intransigenza-verso-mosca-ipotesi-sulla-politica-estera-di-biden.jpg"
+date: 1604997949
+authors:
+  - civitas-europa
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "cina"
+  - "geopolitica"
+  - "iran"
+  - "joe-biden"
+  - "libia"
+  - "mediterraneo-orientale"
+  - "nato"
+  - "politica-estera"
+  - "russia"
+  - "siria"
+  - "turchia"
+  - "ue"
+  - "unione-europea"
+---
+
+La presidenza di Donald Trump è stata caratterizzata da diversi elementi di discontinuità rispetto alle amministrazioni che l'hanno preceduta. Il disprezzo nei confronti delle organizzazioni internazionali e delle iniziative diplomatiche multilaterali e l'impazienza verso gli alleati storici erano dimostrazioni di una postura unilaterale cristallizzata nello slogan “America First”, traducibile in un'insofferenza per gli oneri globali di cui gli Stati Uniti si sono fatti carico a partire dal 1945.
+
+Joe Biden ha un'idea completamente diversa del ruolo dell'America nella politica internazionale, pertanto è lecito aspettarsi che la nuova amministrazione statunitense esegua una svolta rispetto alla precedente. Proviamo a ipotizzare la politica estera del neo eletto presidente.
+
+**Russia e Cina**
+
+Numerosi documenti dell'amministrazione statunitense redatti durante la presidenza Trump individuano nella Russia e nella Cina i due avversari strategici più temibili. Mentre la Russia è un avversario geopolitico e militare la Cina insidia la supremazia americana anche dal punto di vista economico e tecnologico.
+
+Trump, già durante la campagna elettorale per le elezioni del 2016, promise di normalizzare le relazioni con la Russia puntando a sviluppare cordiali rapporti personali con il presidente russo Vladimir Putin. Nonostante i tentativi del tycoon in questo senso, che hanno generato scandalo in patria, negli ultimi quattro anni le relazioni russo-americane non sono migliorate. Gli Stati Uniti hanno inasprito le sanzioni, estendendole al gasdotto russo-tedesco Nord Stream II, mentre Washington e Mosca hanno interessi confliggenti in Medio Oriente, specialmente in Siria, e in Libia.
+
+Biden non ha fatto cenno di voler migliorare i rapporti con i russi, anzi ha promesso che sarà più severo nei confronti di Mosca.
+
+Per quanto riguarda la Cina, la rivalità di quest'ultima con gli Stati Uniti è un dato di fatto che prescinde dall'appartenenza politica dell'inquilino della Casa Bianca. Le iniziative di contenimento anti-cinese risalgono infatti alla presidenza di Barack Obama, si pensi all'accordo commerciale Trans-Pacific Partnership (Tpp). Nei confronti della Cina Biden potrebbe adottare una linea più morbida, almeno dal punto di vista verbale,  ma nei fatti per quanto riguarda economia, tecnologia e geopolitica gli interessi di Washington e Pechino rimarranno confliggenti.
+
+**Iran e Medio Oriente**
+
+Il Joint Comprehensive Plan of Action (Jcpoa), colloquialmente noto come accordo sul nucleare iraniano, è stato uno dei principali successi diplomatici della presidenza Obama. Tale accordo è stato stracciato unilateralmente da Trump il quale, dopo aver applicato la massima pressione, ovvero lo strangolamento dell'economia iraniana attraverso l'imposizione di sanzioni, è arrivato a un passo dalla guerra con la Repubblica Islamica.
+
+Biden potrebbe ritentare la via della conciliazione in modo da ridurre l'impegno americano nella regione e allontanare l'Iran dalla Cina. Lo scorso luglio infatti Teheran e Pechino hanno firmato un accordo di cooperazione della durata di 25 anni che tocca numerosi ambiti, tra cui economia, energia e sicurezza, e che testimonia l'esistenza di uno stretto legame tra i due paesi, entrambi percepiti dagli Stati Uniti come rivali.
+
+Sebbene la fiducia degli iraniani nei confronti degli americani sia ai minimi, Teheran non può ignorare la presenza statunitense nella regione, né le sanzioni che stanno pregiudicando la sua crescita.
+
+Mentre Trump non si è sbilanciato in critiche all'Arabia Saudita, Biden potrebbe ridurre il sostegno statunitense all'intervento del regno nella guerra dello Yemen, che finora ha causato la morte di migliaia di civili inermi senza costringere i ribelli di Ansar Allah alla resa. In ogni caso, l'Arabia Saudita, insieme a Israele e agli Emirati Arabi Uniti, continuerà ad essere uno dei principali alleati nella regione.
+
+**Unione Europea e Nato**
+
+Senz'ombra di dubbio la presidenza Trump ha comportato una regressione delle relazioni trans-atlantiche. Il tycoon ha più volte criticato gli alleati europei, ma anche quelli asiatici, per non contribuire abbastanza alle spese per la sicurezza e la difesa. Trump inoltre si è ritirato dall'accordo di Parigi sul clima e, come già detto, da quello sul nucleare iraniano, che fu sottoscritto anche da Unione Europea, Regno Unito, Francia e Germania.
+
+Nei confronti degli alleati Biden intende tenere una postura opposta a quella di Trump. Mentre quest'ultimo non ha fatto altro che criticarli, danneggiando quindi la coesione delle alleanze multilaterali e bilaterali che costituiscono il pilastro della politica estera e di sicurezza statunitense, il neo eletto presidente democratico vuole tenere un atteggiamento più rispettoso e conciliante, riflesso della consapevolezza dell'importanza delle alleanze, specie in tempi di crescente antagonismo tra le grandi potenze. Ciò non significa che Biden non farà pressione sugli alleati per aumentare le spese militari. Con toni più o meno espliciti, la richiesta di maggiore impegno da parte degli alleati è stata fatta da quasi tutti i presidenti statunitensi del dopoguerra. Di sicuro Biden si relazionerà con gli alleati in modo più ponderato e istituzionale rispetto a Trump.
+
+L'approccio americano nei confronti dell'Europa e della Nato è destinato quindi a cambiare, ma tale cambiamento potrebbe tradursi in una riduzione degli spazi di manovra per gli Stati europei nei confronti della Russia. Considerando l'approccio intransigente che Biden intende tenere nei confronti di Mosca, c'è da aspettarsi che gli Stati Uniti continueranno a fare pressioni insistenti sugli europei affinché diversifichino le proprie importazioni di energia e allo stesso tempo si opporranno alle eventuali iniziative riconciliatorie europee che non siano compatibili con i loro interessi.
+
+Se davvero Biden intende rinsaldare la Nato, è possibile un intervento americano nella disputa che al momento sta dilaniando l'alleanza. La tensione tra Francia e Grecia da una parte e Turchia dall'altra è molto alta. La disputa inizialmente aveva a che fare con i confini marittimi greco-turchi e con le riserve di gas naturale che sarebbero presenti nel Mediterraneo orientale. Le tensioni tra Francia e Turchia coinvolgono però anche la Libia, dove Ankara e Parigi sostengono fazioni opposte, e sono degenerate in guerra verbale tra i presidenti dei due paesi. Il neo eletto presidente americano potrebbe intervenire nella disputa ponendosi come mediatore. Contenere i conflitti interni all'alleanza è necessario per garantirne la coesione nei confronti delle minacce esterne.
+
+Allo stesso tempo Biden potrebbe fare pressioni sulla Turchia affinché metta fine alla cooperazione diplomatica e militare con la Russia. Ciò potrebbe causare un inasprimento delle tensioni tra Washington e Ankara. In ogni caso la Turchia sarà al centro dell'attenzione dell'amministrazione Biden, in quanto la politica estera di quel paese rischia di destabilizzare gravemente la Nato.
+
+Il ritorno degli Stati Uniti in Europa presenta un vantaggio e uno svantaggio per gli europei. Lo svantaggio è stato detto poco sopra, e consiste cioè nella riduzione degli spazi di manovra autonomi nei confronti di Mosca ma anche Pechino. Questo svantaggio colpisce in particolare i paesi europei meno russofobi, come Francia, Germania e Italia. Al contrario i paesi russofobi, come Regno Unito, Polonia e repubbliche baltiche, vedono con favore un atteggiamento americano più severo nei confronti di Mosca.
+
+Il vantaggio consiste invece in un ritorno degli americani al multilateralismo. Qualora Biden voglia negoziare un nuovo accordo con l'Iran c'è da attendersi il coinvolgimento degli europei. Inoltre il neo eletto presidente sembra più sensibile alle problematiche relative ai cambiamenti climatici, per cui è possibile che gli Stati Uniti rientrino nell'accordo di Parigi del 2015, una mossa che indubbiamente sarebbe ben accolta dagli Stati europei.
+
+In sostanza, l'accorciamento delle distanze tra le due sponde dell'Atlantico rafforza la coesione tra Stati Uniti ed Europa, ma allo stesso tempo sottolinea la dipendenza di quest'ultima da Washington quando si tratta di politica estera e di sicurezza. Infine, va notato che il ritorno degli americani al multilateralismo potrebbe avere un prezzo: Washington potrebbe infatti chiedere maggiore impegno e partecipazione da parte degli alleati.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini

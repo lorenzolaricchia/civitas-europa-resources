@@ -1,0 +1,106 @@
+---
+title: "Le conseguenze della guerra in Ucraina sugli equilibri internazionali"
+cover: "/images/posts/le-conseguenze-della-guerra-in-ucraina-sugli-equilibri-internazionali.jpg"
+date: 1646726181
+authors:
+  - massimiliano-palladini
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "assemblea-generale"
+  - "geopolitica"
+  - "germania"
+  - "guerra-in-ucraina"
+  - "guerra-russo-ucraina"
+  - "india"
+  - "nato"
+  - "onu"
+  - "russia"
+  - "ucraina"
+  - "ue"
+  - "unione-europea"
+---
+
+L’invasione russa dell’Ucraina ha sconvolto non solo la comunità degli Stati ma anche l’opinione pubblica mondiale. I sentimenti di stupore e sdegno sono dovuti al fatto che era dai tempi della Seconda guerra mondiale che in Europa non si vedeva un’aggressione su vasta scala di queste dimensioni.
+
+La solidarietà nei confronti del popolo ucraino espressa dalle persone comuni è andata di pari passo con la ferma condanna della comunità internazionale. Il 2 marzo l’Assemblea Generale delle Nazioni Unite, riunitasi in seduta straordinaria, ha denunciato l’aggressione russa con una storica risoluzione. Il documento è stato approvato con il seguente, schiacciante risultato: 141 favorevoli, 35 astenuti, 5 contrari \[1\].
+
+L’invasione russa dell’Ucraina è un evento epocale i cui effetti si riverbereranno nel sistema internazionale per molti anni a venire. Tuttavia, già dopo pochi giorni, l’invasione ha prodotto conseguenze significative sul piano delle relazioni internazionali mentre è ragionevole attendersi il consolidamento di alcune dinamiche già emerse negli ultimi anni.
+
+Tali elementi di novità sono riscontrabili soprattutto in Europa, da dove cominciamo la nostra analisi.
+
+**La reazione europea: sanzioni, risveglio tedesco, neutralità ambigua**
+
+La risposta europea all’invasione russa è stata più severa di quanto molti si aspettassero. L’Unione Europea non ha esitato a scegliere [l’opzione atomica](https://civitaseuropadoteu.wordpress.com/2022/03/02/sanzioni-lopzione-atomica-delleuropa/), ovvero l’imposizione di durissime sanzioni economico-finanziarie, tra le quali figura l’esclusione delle principali banche commerciali russe dal sistema Swift. Inoltre, l’Unione ha deciso di finanziare la vendita di armi all’Ucraina. Si tratta della prima volta che Bruxelles prende una decisione del genere nei confronti di un paese in guerra \[2\].
+
+Reazioni significative ed inaspettate si notano anche osservando la politica adottata dai singoli paesi. In particolare, la Germania, rompendo una lunghissima tradizione, ha annunciato un netto aumento della spesa per la difesa. Nel 2021 Berlino ha destinato a questo settore 47 miliardi di euro; nel 2022 spenderà 100 miliardi di euro in investimenti militari \[3\].
+
+La Germania sembra così mettere la parola fine alla tradizionale cautela su tutto ciò che riguarda l’ambito militare. Per note ragioni storiche, nel dopoguerra Berlino ha sempre adottato una politica riluttante nei confronti dell’invio all’estero di truppe per missioni di combattimento e della vendita di armi a paesi in guerra. Allo stesso tempo, la quota di bilancio dedicata alla difesa è sempre stata bassa. L’aggressione russa ha imposto alla Germania un cambio di paradigma che potrebbe avere ripercussioni positive sullo sviluppo di una difesa comune europea \[4\].
+
+Finora il sonno tedesco ha rappresentato uno dei principali ostacoli allo sviluppo di una difesa comune europea. Berlino ha sempre sostenuto che non vi è bisogno di una difesa comune, anche complementare alla Nato, poiché la sicurezza europea è già garantita dagli Stati Uniti. La nuova era annunciata dal cancelliere Olaf Scholz potrebbe concretizzarsi in un approccio tedesco più favorevole alla questione della difesa comune europea. Tale cambio di approccio è auspicabile poiché per mandare avanti il progetto della difesa comune - così come qualsiasi altro progetto europeo significativo - è necessaria una salda intesa franco-tedesca.
+
+Due parole vanno spese anche sulla reazione di Svizzera e Svezia. Il paese alpino, incrinando la sua storica neutralità, si è unito alle sanzioni economico-finanziarie decise dall’Unione Europea \[5\]. Il paese scandinavo, anch’esso neutrale (infatti fa parte dell’Ue ma non della Nato), si è spinto oltre, decidendo di vendere armi all’Ucraina \[6\]. Negli ultimi giorni c’è stato anche un innalzamento della tensione tra Stoccolma e Mosca. Il 2 marzo quattro aerei da caccia russi hanno violato lo spazio aereo svedese. La violazione, prontamente denunciata, è avvenuta a est dell’isola di Gotland, nel mar Baltico. \[7\]
+
+**Il fronte dell'astensione: l'India tra due fuochi**
+
+Abbiamo accennato al risultato della votazione tenutasi all’Assemblea Generale delle Nazioni Unite. Il fronte degli astenuti, composto soprattutto da paesi africani ed asiatici, comprende anche Cina ed India, i due Stati più popolosi del mondo \[8\].
+
+Se l’astensione cinese era prevedibile, quella indiana merita qualche considerazione. Negli ultimi anni si è registrato un avvicinamento tra Washington e Nuova Delhi in chiave anticinese. L’India, in quanto Stato membro del Quad, è uno dei più convinti sostenitori dell’arginamento delle ambizioni regionali e globali di Pechino.
+
+Finora l’avvicinamento agli Stati Uniti si è limitato al contenimento della Cina. L’India, che si è astenuta anche in sede di Consiglio di Sicurezza \[9\], non ha assunto nei confronti dell’invasione russa una posizione così severa come quella degli alleati storici di Washington.
+
+Mosca è il principale fornitore di armi di Nuova Delhi. L’India acquista armi leggere, carri armati, veicoli corazzati, velivoli e il sistema antiaereo S-400. Si tratta di uno dei principali clienti dell’industria degli armamenti russa. I legami dal punto di vista militare tra i due paesi, che risalgono ai tempi dell’Unione Sovietica, sono stati al centro della visita del presidente russo Vladimir Putin in India, avvenuta lo scorso dicembre \[10\].
+
+La postura morbida assunta dall’India nei confronti dell’aggressione russa è diventata una fonte d’attrito con gli Stati Uniti. Washington esige da Nuova Delhi un atteggiamento più severo e potrebbe anche imporre sanzioni \[11\]. Resta da vedere se il governo indiano cederà alle pressioni statunitensi. Di sicuro, l’isolamento economico-finanziario della Russia, conseguenza delle severe sanzioni occidentali, è un problema per i legami economico-militari tra i due paesi.
+
+Nei prossimi mesi e anni Nuova Delhi sarà chiamata a destreggiarsi con abilità tra i legami storici con la Russia e la convergenza con gli Stati Uniti in chiave anticinese.
+
+**Le ripercussioni sul triangolo Washington-Mosca-Pechino**
+
+L’invasione dell’Ucraina è strettamente legata alle relazioni tra gli Stati Uniti e la Federazione Russa. Si può dire che l’aggressione decisa da Putin sia, almeno in una certa misura, la reazione russa a un percepito squilibrio nei rapporti di forza con gli Stati Uniti nel teatro europeo. Detto in parole povere, la Russia non accetta l’estensione della sfera d’influenza statunitense all’Ucraina. Mosca non tollera un governo ucraino ostile, cioè filo-occidentale e che, nei fatti, si avvicina sempre di più alla Nato attraverso l’acquisto di armamenti.
+
+Seppur con irritazione, i russi hanno tollerato l’espansione della Nato, quindi della sfera d’influenza statunitense, verso oriente. Ora, però, non accettano ulteriori allargamenti verso est e sono disposti a giocare la carta militare pur di rimuovere i governi amici degli Stati Uniti. Per il Cremlino, i governi di Bielorussia ed Ucraina non devono essere nemici della Russia.
+
+L’invasione dell’Ucraina ha decretato la rottura dei rapporti tra Unione Europea e Russia. Ciò comporta un rafforzamento dell’influenza statunitense in Europa e legittima la militarizzazione del fronte orientale della Nato. La Russia forse riuscirà ad infrangere le ambizioni euro-atlantiche dell’Ucraina ma di sicuro ha causato un aumento della presenza statunitense nel Vecchio Continente.
+
+È ragionevole supporre che nei prossimi anni i legami tra Russia e Cina si salderanno ulteriormente. Il carattere asimmetrico di questa relazione si accentuerà. La Russia, vedendosi sbarrata la porta verso i mercati europei, sarà costretta a rivolgersi alla Cina. Ciò implicherà un incremento della leva negoziale di Pechino nei confronti di Mosca, con quest’ultima che assumerà sempre più le sembianze di junior partner del gigante asiatico.
+
+In generale, gli effetti della guerra sul triangolo Washington-Mosca-Pechino sono così riassumibili: irrigidimento della competizione russo-americana; rafforzamento dell’influenza statunitense in Europa; militarizzazione del fianco orientale della Nato; ulteriore avvicinamento economico e politico tra Russia e Cina, con la seconda che vedrà aumentare le proprie leve negoziali nei confronti della prima.
+
+Infine, non bisogna dimenticare le possibili ripercussioni della guerra sulla stabilità della Russia. Alcuni hanno addirittura paventato l’eventualità di un colpo di Stato, uno scenario che potrebbe destabilizzare seriamente non solo la Russia ma l’intero sistema internazionale.
+
+Insomma, se non lo si fosse capito, ci attende un futuro plumbeo, poiché ci troviamo solo all’inizio della catena di eventi avviata dalla scellerata aggressione russa.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] _U.N. General Assembly in historic vote denounces Russia over Ukraine invasion_, reuters.com, 3 marzo 2022, [https://www.reuters.com/world/un-general-assembly-set-censure-russia-over-ukraine-invasion-2022-03-02/](https://www.reuters.com/world/un-general-assembly-set-censure-russia-over-ukraine-invasion-2022-03-02/).
+
+\[2\] _EU agrees to give €500M in arms, aid to Ukrainian military in “watershed” move_, politico.eu, 27 febbraio 2022, [https://www.politico.eu/article/eu-ukraine-russia-funding-weapons-budget-military-aid/](https://www.politico.eu/article/eu-ukraine-russia-funding-weapons-budget-military-aid/).
+
+\[3\] _Germany to increase defence spending in response to "Putin's war" - Scholz._ reuters.com, 27 febbraio 2022, https://www.reuters.com/business/aerospace-defense/germany-hike-defense-spending-scholz-says-further-policy-shift-2022-02-27/.
+
+\[4\] La decisione del governo tedesco è tutto meno che scontata, specialmente se si considera la ritrosia mostrata negli ultimi mesi. Si ricordi, a fine gennaio, l’irritazione di Vitali Klitschko, sindaco di Kiev, per la decisione di Berlino di limitarsi a fornire elmetti all’Ucraina. _“A joke”: Germany mocked over plan to send helmets to Ukraine_, aljazeera.com, 27 gennaio 2022, [https://www.aljazeera.com/news/2022/1/27/a-joke-germany-mocked-over-plan-to-send-helmets-to-ukraine](https://www.aljazeera.com/news/2022/1/27/a-joke-germany-mocked-over-plan-to-send-helmets-to-ukraine).
+
+\[5\] _Neutral Swiss join EU sanctions against Russia in break with past_, reuters.com, 28 febbraio 2022, reuters.com, [https://www.reuters.com/world/europe/neutral-swiss-adopt-sanctions-against-russia-2022-02-28/](https://www.reuters.com/world/europe/neutral-swiss-adopt-sanctions-against-russia-2022-02-28/).
+
+\[6\] _Sweden to send military aid to Ukraine – PM Andersson_, reuters.com, 27 febbraio, [https://www.reuters.com/world/europe/sweden-send-military-aid-ukraine-pm-andersson-2022-02-27/](https://www.reuters.com/world/europe/sweden-send-military-aid-ukraine-pm-andersson-2022-02-27/).
+
+\[7\] _Sweden summons Russian officials after fighter jets fly near Gotland island_, euronews.com, 3 marzo 2022, [https://www.euronews.com/2022/03/03/sweden-summons-russian-officials-after-fighter-jets-fly-near-gotland-island](https://www.euronews.com/2022/03/03/sweden-summons-russian-officials-after-fighter-jets-fly-near-gotland-island).
+
+\[8\] Per approfondire il risultato della votazione consultare _UN General Assembly demands Russian Federation withdraw all military forces from the territory of Ukraine_, eeas.europa.eu, 2 marzo 2022, [https://eeas.europa.eu/headquarters/headquarters-homepage/112080/un-general-assembly-demands-russian-federation-withdraw-all-military-forces-territory-ukraine\_en](https://eeas.europa.eu/headquarters/headquarters-homepage/112080/un-general-assembly-demands-russian-federation-withdraw-all-military-forces-territory-ukraine_en) ; _141 countries vote to condemn Russia at UN_, axios.com, 2 marzo 2022, [https://www.axios.com/united-nations-ukraine-russia-141-55872481-a143-4423-9d3d-80450f01c754.html](https://www.axios.com/united-nations-ukraine-russia-141-55872481-a143-4423-9d3d-80450f01c754.html).
+
+\[9\] _India abstains on UN resolution that condemns Russian invasion of Ukraine_, _explains move_, indiatoday.in, 26 febbraio 2022, [https://www.indiatoday.in/india/story/india-abstains-on-unsc-resolution-that-condemns-russia-s-aggression-against-ukraine-1918048-2022-02-26](https://www.indiatoday.in/india/story/india-abstains-on-unsc-resolution-that-condemns-russia-s-aggression-against-ukraine-1918048-2022-02-26).
+
+\[10\] _India, Russia sign trade, arms deals during Putin visit to New Delhi_, france24.com, 7 dicembre 2021, [https://www.france24.com/en/asia-pacific/20211207-india-russia-sign-trade-arms-deals-during-putin-visit-to-new-dehli](https://www.france24.com/en/asia-pacific/20211207-india-russia-sign-trade-arms-deals-during-putin-visit-to-new-dehli).
+
+\[11\] _Biden weighing sanctions on India over Russian military stockpiles_, thehill.com, 3 marzo 2022, [https://thehill.com/policy/international/596693-biden-weighing-sanctions-on-india-over-russian-military-stockpiles](https://thehill.com/policy/international/596693-biden-weighing-sanctions-on-india-over-russian-military-stockpiles).

@@ -1,0 +1,78 @@
+---
+title: "L'armata russa nel pantano ucraino: intervista ad Umberto Mastropietro (parte II)"
+cover: "/images/posts/larmata-russa-nel-pantano-ucraino-intervista-ad-umberto-mastropietro-parte-ii.jpg"
+date: 1650700092
+authors:
+  - civitas-europa
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "donbass"
+  - "guerra-russo-ucraina"
+  - "nato"
+  - "polonia"
+  - "russia"
+  - "ucraina"
+  - "vladimir-putin"
+  - "volodymyr-zelensky"
+---
+
+Pubblichiamo la seconda parte dell'intervista ad **Umberto Mastropietro**, ex militare attivo nella riserva dell'esercito tedesco, autore per diverse riviste tedesche di tattica e strategia militare e consigliere per il [Comites di Berlino](http://www.comites-berlin.de/). Per leggere la prima parte dell'intervista cliccate [qui](https://civitaseuropadoteu.wordpress.com/2022/04/22/larmata-russa-nel-pantano-ucraino-intervista-ad-umberto-mastropietro-parte-i/).
+
+**_Nel suo intervento per [Lombardi nel Mondo](https://www.youtube.com/watch?v=ZrNfjHYqLUg&t=1731s&ab_channel=lombardinelmondo) ha sostenuto che per ogni uomo al fronte ne servono altri quattro se non di più nelle retrovie. Ciò significa che dei 200.000 uomini adoperati in Ucraina, non più di 50.000 sono davvero in armi. Potrebbe spiegarci il rapporto che intercorre fra soldati al fronte e militari di supporto/logistica? Come si calcola e come varia questo rapporto da operazioni di attacco-presidio del territorio nemico a operazioni di difesa di un territorio?_**
+
+Ogni soldato al fronte ha bisogno di riserve, rinforzi e di riposo. Ciò significa che su 200.000 combattenti solo una parte di essi si trova in prima linea. Inoltre le grandi unità hanno bisogno di ospedali da campo, cucine, truppe addette ai trasporti e ai rifornimenti, officine mobili, polizia militare, magazzini, genio ferrovieri, genio pontieri, trasmissioni, personale aeroportuale, più un mini-esercito di burocrati che proprio nell'apparato militare russo è molto presente.
+
+Le variabili che determinano il rapporto sono numerose. Si va da un minimo di 1 a 4 fino a estremi tipo 1 a 12 (un esempio di ciò è l'esercito americano, dove la logistica impegna il numero maggiore di militari).
+
+La conquista di territori nemici, soprattutto se molto popolati, aumenta il numero di truppe da distrarre dalla linea del fronte. Presidiare una città come Kiev richiede decine di migliaia di soldati. Inoltre l'esercito occupante, almeno inizialmente, è costretto a farsi carico anche dell'approvvigionamento della popolazione occupata con sforzi logistici enormi che richiedono un numero gigantesco di addetti. Si può ipotizzare che su 200.000 militari schierati alla vigilia dell'invasione i combattenti di prima linea non siano stati più di 50.000.
+
+**_Una domanda sulla supremazia aerea.  È vero che i russi non riescono ad ottenere la SEAD (Suppression of Enemy Air Defenses), cioè la soppressione delle difese anti-aree nemiche, perché non hanno l'addestramento necessario oppure c’è qualche altro motivo?_**
+
+I russi all’inizio del conflitto non hanno saputo concentrare il fuoco sui radar di sorveglianza aerea, sui nodi di comando e controllo (C2), sul sistema di difesa aerea integrato (IADS), sui SAM e sugli aerei.  In qualsiasi guerra, l'ondata iniziale di attacchi è solitamente la più distruttiva (poiché c'è almeno una certa sorpresa) e colpi ben piazzati possono accecare l'avversario e interrompere le sue comunicazioni o almeno disturbarne i sistemi di sorveglianza. La Russia non è riuscita a farlo. Di conseguenza, l'IADS ucraino sembra essere ancora operativo e sta rilevando, identificando e passando obiettivi russi ai lanciatori ucraini.
+
+La pietra angolare delle tattiche SEAD consiste nell'attirare i sistemi di difesa aerea per attivare i loro radar e quindi puntare quei radar con missili anti-radiazioni (ARM), che mirano alle emissioni radar. I missili portatili tipo Stinger sono difficili da rilevare poiché hanno piccole firme radar e i loro cercatori passivi non emettono un segnale proprio.
+
+L'esercito russo è consapevole della necessità della SEAD e schiera una varietà di missili per questa missione e si addestra per il loro impiego. Tuttavia, né la Russia né l'Unione Sovietica hanno mai condotto un'operazione SEAD paragonabile a quelle svolte dagli Stati Uniti o da Israele.
+
+Comunque questo fatto, cioè la scarsa intensità ed efficacia degli attacchi iniziali, conferma la mia tesi secondo cui l'offensiva sia stata preparata con uno zampino politico. Da un punto di vista militare, non è tipico dei russi attaccare le difese aeree nemiche in maniera così lieve. La loro strategia di terra si basa sulla superiorità aerea. Sono addestratissimi a distruggere aeroporti o ad occuparli con truppe aviotrasportate. Probabilmente Putin non voleva fare troppi danni pensando ad una resa immediata degli ucraini che gli avrebbe permesso poi di prendersi i mezzi non distrutti.
+
+I generali russi sono molto competenti e preparati. Non avrebbero mai commesso un errore del genere se avessero potuto decidere in maniera autonoma.
+
+**_Armi nucleari e anti-nucleari: pensando al peggio, in caso di lancio di missili nucleari quali sono gli obiettivi principali  e quali sono i siti di lancio più probabili? La tecnologia anti-missilistica quanto può impedire che eventuali missili colpiscano i bersagli?_**
+
+Se scoppia una guerra tra Nato e Russia non ci saranno vincitori immediati e bisogna temere l'escalation nucleare.
+
+I sistemi di difesa anti-nucleare, cioè l'intercettazione di missili nucleari utilizzando altri missili, sono efficaci solo teoricamente e in maniera sommaria. Il bombardamento nucleare di centri abitati è di scarsa utilità dal punto di vista militare e mette l'attaccante a rischio di subire ritorsioni simili. Diverso è invece l'utilizzo di armi nucleari tattiche per colpire ammassamenti di truppe o per mettere fuori uso infrastrutture aeroportuali, oppure per rendere una zona impraticabile.
+
+Lo stesso vale anche per l'utilizzo di gas tossici. Questi sono molto utili se si attacca una base aerea perché ne blocca l'utilizzo immediato ma ne conserva l'operatività nel caso la si conquistasse. I russi hanno fatto molte esercitazioni di questo tipo: attacco con armi chimiche su aeroporti nemici e successiva conquista con truppe aviotrasportate.
+
+Ma tornando alle armi nucleari: l'utilizzo su obiettivi civili potrebbe essere un' opzione per i russi in caso di disfatta imminente ma non sarebbe una scelta militare bensì politica, ad esempio per costringere la NATO a un cessate il fuoco.
+
+**_Per concludere, una domanda comparativa. V__olendo fare un breve paragone fra Russia, Germania, Polonia e Italia, quali sono a suo avviso i principali punti di forza e di debolezza dei rispettivi eserciti?_**
+
+L'esercito russo non è strutturato per una guerra difensiva. La dottrina militare russa ha sempre affidato la difesa del territorio nazionale ai grandi spazi. Per intenderci, le enormi distanze e la conformazione geografica della Russia, oltre alle estreme condizioni atmosferiche unite a una rete stradale e ferroviaria fatiscente, impediscono a un attaccante di manovrare efficacemente in profondità e in velocità.
+
+L'esercito sovietico e poi quello russo hanno quindi preferito specializzarsi in tattiche di attacco. I comandi russi prediligono la guerra di difesa attiva, cioè attaccare un nemico che è egli stesso in procinto di attaccare e cercare d'infliggergli il maggior numero di perdite possibili nel giro di pochi giorni.
+
+L'esercito tedesco, invece, soprattutto dagli anni Ottanta in poi, ha cercato di adattarsi a questa tattica prediligendo l'utilizzo di una difesa profonda, con capisaldi in grado di resistere alcune settimane, in attesa di eventuali rinforzi NATO, soprattutto americani. I tedeschi hanno sviluppato truppe corazzate di alta qualità, supportate da elicotteri d'attacco e da brigate meccanizzate (_panzergrenadier_) con capacità anticarro e anti-elicottero.
+
+Attualmente però l'esercito tedesco è in pessime condizioni in quanto a partire dagli anni Duemila si è preferito utilizzare unità di piccola-media grandezza in missioni all'estero, cannibalizzando spesso mezzi e strutture per mantenere attive un paio di brigate a danno delle altre. I magazzini munizioni sono vuoti e si calcola che siano necessari almeno 10 miliardi di euro solo per riportare le scorte a livelli accettabili.
+
+Un problema grave per i tedeschi è la difesa della popolazione. Quasi tutti i bunker antiaerei sono fuori uso. Per riattivare le sirene di allarme è stato predisposto proprio in questi giorni un piano da 180 milioni di euro. La Germania da sola avrebbe serie difficoltà a sostenere un urto russo.
+
+La Polonia invece è da sempre sensibile alla minaccia russa e pian piano ha sostituito quasi tutti gli armamenti di provenienza sovietica con standard NATO, soprattutto per quanto riguarda la difesa aerea e antimissile.
+
+Circa un anno fa l'esercito polacco ha compiuto una gigantesca esercitazione in cui si simulava un attacco di sorpresa da parte dei russi, che in questa simulazione avrebbero eseguito un "All-Out-Assault", prima nel Suwalki Gap (per isolare le repubbliche baltiche) e poi marciando direttamente su Varsavia.
+
+L'esercitazione fu una catastrofe. Nel giro di quattro giorni i russi avrebbero circondato Varsavia e il giorno dopo sarebbero arrivati al confine con la Germania. Questa situazione prevedeva però la sorpresa totale delle forze polacche, che ora è improbabile. Probabilmente la Polonia riuscirebbe a rallentare un’avanzata russa fino all'arrivo di ulteriori rinforzi NATO.
+
+L'Italia dispone di 5 brigate in grado di combattere. La Russia ne ha 79. Le nostre sono leggere, con poca artiglieria, pochi missili, carri armati non certamente al livello di un Leopard o di un Abrams e un numero di effettivi inferiore a quelle americane o russe. L'aviazione sarebbe però in grado di difendere lo spazio aereo e la marina non dovrebbe avere difficoltà a controllare il Mediterraneo assieme alle altre navi NATO.
+
+In generale, in una guerra tra Russia e Nato, un successo russo può avverarsi solo se la NATO venisse colta di sorpresa e solo se la logistica russa compisse dei miracoli. In uno scontro diretto, allo stato attuale, la Russia avrebbe difficoltà a fare breccia nel sistema difensivo della NATO che però a sua volta avrebbe difficoltà a contrattaccare massicciamente. Probabilmente la Polonia e gli Stati baltici si trasformerebbero in immensi campi di battaglia con perdite di mezzi e uomini immense.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI

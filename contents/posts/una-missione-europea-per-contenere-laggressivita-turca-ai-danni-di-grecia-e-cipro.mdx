@@ -1,0 +1,84 @@
+---
+title: "Una missione europea per contenere l'aggressività turca ai danni di Grecia e Cipro?"
+cover: "/images/posts/una-missione-europea-per-contenere-laggressivita-turca-ai-danni-di-grecia-e-cipro.jpg"
+date: 1607360993
+authors:
+  - civitas-europa
+categories: 
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "cipro"
+  - "francia"
+  - "grecia"
+  - "heiko-maas"
+  - "joe-biden"
+  - "libia"
+  - "mar-egeo"
+  - "mediterraneo"
+  - "mediterraneo-orientale"
+  - "nato"
+  - "operazione-irini"
+  - "tripolitania"
+  - "turchia"
+  - "ue"
+  - "unione-europea"
+---
+
+Il conflitto interno alla Nato tra Grecia e Francia da una parte e Turchia dall'altra è tutto meno che risolto. Ankara non rinuncia a compiere ricerche intorno a Cipro e alle isole greche dell'Egeo mentre la Francia sembra essere l'unico paese dell'Unione Europea a prendere con determinazione le difese della Grecia e a condannare la condotta turca.
+
+Ricordiamo che la disputa franco-turca coinvolge anche la Libia, dove Ankara e Parigi sostengono fazioni opposte. La prima supporta il governo riconosciuto di Fayez al-Serraj, la seconda sostiene il feldmaresciallo cirenaico Khalifa Haftar.
+
+Le tensioni nel Mediterraneo portano alla luce, per l'ennesima volta, la mancanza di incisività dell'Unione nella politica internazionale, perfino quando si tratta di un'area di confine così strategica. Finora le istituzioni europee si sono limitate a condannare pubblicamente la Turchia \[1\] ma nel concreto non è stato fatto nulla per impedire ad Ankara di reiterare i suoi atteggiamenti aggressivi che minacciano la sovranità di ben due Stati membri.
+
+L’assenza di una politica estera coesa ed efficace da parte dell’Ue ha lasciato fin troppo spazio a una Turchia che, senza mezzi termini, applica un’aggressiva politica di potenza che va dall’Egeo fino alla Libia. Una politica di potenza che irrita più Parigi che Berlino e che vede, ancora una volta, una Farnesina in stato di paralisi. Se, a livello europeo, la condanna alle mire espansionistiche turche nell’Egeo e nel Mediterraneo orientale sembra unanime in quanto esse rappresentano un’aggressione diretta conto la Grecia e Cipro, Stati membri dell’Ue nonché, per quanto riguarda la Grecia, matrice culturale del Vecchio continente, sulla Libia invece c’è più silenzio e omertà.
+
+Mentre Parigi condanna, Roma non si schiera apertamente. È come se la presenza di Ankara a Tripoli avesse assunto, a tratti, una tonalità chiaroscura costituendo, da una parte, una minaccia in prossimità alle nostre coste e, dall’altra, il configurarsi della legge del contrappasso nei confronti della Francia che, nel 2011, ha mosso cielo, terra e alleati per strappare all’Italia la sua ultima sfera d’influenza.
+
+Infatti, dopo la caduta del regime di Gheddafi, la Libia è diventata per l’Italia come l’uva per la volpe nel racconto attribuito a Esopo, a proposito della Grecia. Anche il Mediterraneo è diventato più estraneo. Sebbene non fossimo più ai tempi della moglie americana e dell’amante araba, l’Italia manteneva una certa attenzione nei confronti delle altre sponde del Mediterraneo. I primi anni del XXI secolo hanno portato con sé un totale ridimensionamento della Farnesina nel Mare Nostrum. Ridimensionamento che, appunto, raggiunge il suo climax con le primavere arabe e con la capitolazione del regime di Tripoli.
+
+A quasi dieci anni da quegli eventi il simulacro di politica estera europea verso la Libia è rappresentato dall'Operazione Irini (clicca [qui](https://civitaseuropadoteu.wordpress.com/2020/06/12/operazione-irini-lue-e-la-difficile-implementazione-dellembargo-onu-alla-libia/) per leggere il nostro articolo di approfondimento). Tale missione però si limita a tentare di implementare l'embargo delle Nazioni Unite sulla vendita di armi alla Libia, peraltro senza riuscirci, giacché Irini non ha impedito alla Turchia di intervenire militarmente nella guerra ribaltandone le sorti. Il vuoto lasciato dagli europei in Tripolitania ha permesso l'inserimento della Turchia, la quale è intenzionata a piantarvi le tende \[2\].
+
+Per quanto non sia in grado di implementare a dovere l'embargo delle Nazioni Unite, l'Operazione Irini dimostra che l'Unione è in grado di creare un contingente militare capace di renderla un attore in grado di intervenire concretamente sulla scena internazionale. Le forze di Irini hanno infatti ispezionato diverse navi sospette \[3\].
+
+Ritornando all'Egeo e al Mediterraneo orientale, per arginare la Turchia le istituzioni europee dovrebbero varare una missione militare che consista nel pattugliamento delle acque intorno a Cipro e alle isole egee contese.
+
+Le criticità che rendono una missione del genere altamente improbabile sono quattro.
+
+In primis manca un appoggio legale. L'Operazione Irini infatti si propone di implementare una risoluzione del Consiglio di Sicurezza delle Nazioni Unite.
+
+In secondo luogo, nessuno Stato membro, a parte la Grecia e la Francia, dimostra la volontà politica di impegnarsi in una missione così onerosa. Infatti, come già osservato sopra, i paesi maggiori dell'Unione la pensano in maniera diversa sulla Turchia. Mentre la Francia è convintamente anti-turca, la Germania, e soprattutto l'Italia, sono più caute. Lo scorso mese però il ministro degli esteri tedesco Heiko Maas ha evocato l'eventualità di imporre delle sanzioni qualora la Turchia non metta fine alle provocazioni \[4\].
+
+In terzo luogo, e questa criticità è collegata alla seconda, la missione ipotizzata potrebbe inasprire notevolmente i rapporti tra Ue e Turchia, un rischio che quasi nessuno Stato membro è disposto ad assumersi. L'Operazione Irini ha già creato delle tensioni tra Bruxelles e Ankara \[5\], figuriamoci una missione che si svolgerebbe in prossimità delle coste turche.
+
+Infine, la missione ipotizzata, siccome probabilmente verrebbe percepita dalla Turchia come un affronto e quindi potrebbe incrementare le tensioni interne alla Nato, potrebbe andare incontro al veto degli Stati Uniti.
+
+Questo quarto punto ci permette di precisare ciò a cui si è accennato in partenza, ovvero che le tensioni nel Mediterraneo orientale e nell'Egeo sono, prima di tutto, un conflitto interno alla Nato. Ragionando sulle tensioni in atto occorre quindi tenere in considerazione il ruolo degli Stati Uniti.
+
+L'amministrazione Biden avrà due possibilità.
+
+Imporre alla Turchia di tornare sui suoi passi, magari sostenendo le eventuali sanzioni europee di cui si discuterà durante il Consiglio Europeo del 10-11 dicembre. Isolare Ankara potrebbe però spingerla a rafforzare la cooperazione diplomatica e militare con la Russia.
+
+Oppure adottare una linea più morbida favorendo il dialogo all'interno della Nato. Così facendo si evita di arrivare al punto di rottura con Ankara, eventualità che danneggerebbe la coesione interna dell'alleanza, che Joe Biden intende rinsaldare, e legittimerebbe la cooperazione russo-turca.
+
+In ogni caso, per il neo-eletto presidente la Turchia sarà un rompicapo alquanto difficile da risolvere.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini; Estefano Soler
+
+ 
+
+**Note**
+
+\[1\] "European Council conclusions on external relations, 1 October 2020", consilium.europa.eu, 1° ottobre 2020. Ultimo accesso 7 dicembre 2020.
+
+\[2\] "In Libya, Turkey and Qatar deepen their footprint amid deadlock in negotiations", middleeasteye.net, 20 agosto 2020. Ultimo accesso 7 dicembre 2020.
+
+\[3\] "Operation IRINI inspected a Panama-flagged vessel", operationirini.eu, 3 dicembre 2020. Ultimo accesso 7 dicembre 2020.
+
+\[4\] "Germany to Turkey: calm tensions or face EU sanctions", politico.eu, 19 novembre 2020. Ultimo accesso 7 dicembre 2020.
+
+\[5\] "Germany angers Turkey with attempt to police Libya arms embargo", reuters.com, 23 novembre 2020. Ultimo accesso 7 dicembre 2020.

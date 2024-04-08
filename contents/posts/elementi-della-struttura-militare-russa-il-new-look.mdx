@@ -1,0 +1,128 @@
+---
+title: "Elementi della struttura militare russa: il New Look"
+cover: "/images/posts/elementi-della-struttura-militare-russa-il-new-look.jpg"
+date: 1691658030
+authors:
+  - alessandro-verdoliva
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "artiglieria"
+  - "aviazione"
+  - "bashar-al-assad"
+  - "donbass"
+  - "esercito-russo"
+  - "geopolitica"
+  - "georgia"
+  - "intelligence"
+  - "nato"
+  - "new-look"
+  - "russia"
+  - "siria"
+  - "ucraina"
+  - "vladimir-putin"
+---
+
+_Questo dossier è dedicato alla riforma delle forze armate della Federazione Russa. Nello specifico il dossier si divide in cinque parti e si focalizza su una finestra temporale di dieci anni,_ _a cavallo fra le due principali guerre contemporanee in cui la Russia ha cercato di contenere, mantenere ed espandere le proprie proiezioni di forza, ovvero la guerra russo-georgiana (2008) e l’intervento nella guerra civile siriana (2015), passando per l’annessione della Crimea e l’intervento nel Donbass (2014). In conclusione, una veloce radiografia dei giorni nostri alla luce dei fatti in Ucraina._
+
+ 
+
+**1\. La guerra russo-georgiana: una campagna vittoriosa ma non efficiente**
+
+Come ribadito nel [precedente articolo](https://civitaseuropadoteu.wordpress.com/2023/08/08/elementi-della-struttura-geopolitica-russa/), la Russia nasce _in nuce_ come piccola potenza europea che attacca per difesa, costruendosi negli anni una profondità strategica tale da garantire una supremazia territoriale e una influenza netta sul proprio “estero vicino”.
+
+La Russia ha una lunga storia di bellicosità che ha radici nella debolezza strutturale del suo territorio, esposto ad infiltrazioni nemiche. Questa situazione ha portato alla creazione di un'ideologia imperiale russa, che ha sempre avuto come obiettivo la difesa del territorio attraverso l'aggressione preventiva.
+
+La perdita di controllo sul proprio estero vicino mina le fondamenta della collettività russa, poiché le collettività si basano sulle percezioni più che sui numeri. In altre parole, se la Russia non riesce a mantenere l'egemonia sui suoi confini, la sua stessa esistenza come nazione potrebbe essere messa in pericolo.
+
+Riprendendo il ragionamento del dottor Michael Kofman, la strategia russa parte dalla competizione tra grandi potenze con la decisione di stabilire livelli convenzionali efficaci e deterrenza nucleare, modellando direttamente l'equilibrio militare, che paradossalmente garantisce a Mosca la fiducia di perseguire un approccio indiretto contro gli Stati Uniti. Questa è una strategia di imposizione dei costi e di erosione, un indiretto approccio che potrebbe essere considerato una forma di razzia. Finché regge la deterrenza convenzionale e nucleare, essa rende diverse forme di concorrenza al di sotto della soglia di guerra non solo praticabile, ma altamente attraente.
+
+Guardiamo il caso della Georgia. La guerra cominciò il 1°agosto 2008 in seguito allo scoppio delle ostilità in Ossezia del Sud fra le forze locali e il governo centrale. L’Ossezia del Sud è una regione della Georgia con una rilevante minoranza etnica russa, un altro retaggio sovietico con cui tutti gli ex Stati comunisti devono convivere. Fra il 7 e l’8 agosto la Russia entra formalmente nel conflitto dal traforo di Roki in Ossezia del Sud; il 9 agosto i separatisti dell’Abkhasia sponsorizzati da Mosca aprono un secondo fronte dalla valle del Kodori. Lo stesso giorno la Flotta del Mar Nero attacca la Marina georgiana nelle acque di Sukhumi la quale deve ritirarsi verso Poti. La Flotta russa opererà in uno scenario anfibio. Si tratta infatti di uno dei rarissimi esempi di battaglia navale con sbarco che i russi abbiano mai affrontato con successo.
+
+In pochi giorni la totalità delle regioni georgiane dell’Abkhasia e dell’Ossezia del Sud vengono interamente occupate dai russi e il grosso dell’esercito georgiano dovette presto battere in ritirata tattica a Mtskheta per proteggere la capitale Tbilisi, mentre diversi contingenti georgiani coprivano la ritirata alleata nei pressi di Gori. Il 12 agosto si ha l’armistizio e le ostilità cessano.
+
+Nonostante la Russia abbia avuto la meglio vanno considerate diversi fattori. In primis, il modus operandi, che risulta sempre lo stesso: sponsorizzare i separatismi altrui e poi fare ingresso con l’esercito al fine di sgretolare il fronte interno avversario col sempre verde divide et impera. In secundis, è necessario radiografare la struttura militare russa, in quanto la guerra russo-Georgiana rappresenta uno spartiacque decisivo per le forze armate della Federazione dato che è il primo conflitto con utilizzo massiccio di armi convenzionali su relativamente ampia scala. Vi furono inoltre delle enormi criticità in merito al coordinamento.
+
+Se la quantità schiacciante dei numeri è sempre a favore dei russi, ciò che ha sempre rappresentato il tallone d’Achille riguarda l’ambito coordinativo, riorganizzativo e il situational awareness generale di tutte le forze (cioè la capacità di leggere la situazione operativa nel minor tempo possibile). Durante la guerra del 2008 contro la Georgia, un totale dei 2/3 degli aerei russi persi furono abbattuti dal fuoco amico (regolari russi e separatisti osseti). Fortunatamente per Mosca, il punto di culmine, seguendo la logica di Luttwak, non fu superato e il conflitto si concluse sostanzialmente in favore di Mosca.
+
+Tuttavia, si erano palesate le lacune organizzative sul campo. Qualora il nemico si fosse dimostrato più forte rispetto ai georgiani, l’esito avrebbe potuto essere ben diverso. Sia le truppe sovietiche che quelle russe hanno tradizionalmente incontrato difficoltà con il comando e controllo (C2) e con le forze avio-terrestri, spesso afflitte da inaffidabili comunicazioni e problemi di navigazione, soprattutto in territorio sconosciuto. Questi problemi si ripresentarono ancora nel 2008 durante il conflitto con la Georgia, quando le forze russe si sono mostrate consapevoli della situazione estremamente problematica con la comunicazione militare, palesando un coordinamento limitato tra i diversi rami dell’esercito.
+
+Da non dimenticare come le unità militari si sono, in tale conflitto, coordinate tra loro utilizzando telefoni cellulari civili. Ad esempio, il comandante di guerra della 58° armata russa ha lottato per stabilire una comunicazione con le unità dell'esercito ed è stato costretto a utilizzare un telefono satellitare preso in prestito da un corrispondente di un giornale. Da allora sono stati compiuti progressi significativi ma non sufficienti.
+
+Il conflitto contro la Georgia è durato solo cinque giorni, la Russia ha utilizzato la sua gamma completa di armi convenzionali, inclusi bombardieri a lungo raggio, missili balistici a corto raggio e la Marina russa ha effettuato un'operazione di sbarco. Diversi battaglioni aviotrasportati furono trasportati in aereo da migliaia di chilometri di distanza dimostrando una discreta capacità logistica.
+
+La vittoria sulla Georgia è stata rapida e decisiva, ma l'avversario era molto debole e sarebbe stato strano vedere un risultato differente. Inoltre, l'operazione ha rivelato una pletora di problemi nell'esercito russo.
+
+ 
+
+**2\. Il “New Look” delle forze armate russe**
+
+Alla luce delle criticità emerse durante la campagna georgiana, le forze armate russe hanno intrapreso un radicale processo di riforma che ne ha cambiato radicalmente l’aspetto. Il 12 agosto 2008, il presidente russo Dmitry Medvedev ha ordinato la fine dell'operazione di pace in Georgia, ponendo effettivamente fine alla guerra russo-georgiana iniziata solo cinque giorni prima. Le forze armate russe avevano rapidamente raggiunto i loro obiettivi in ​​Ossezia meridionale e Abkhazia e si erano spinte nella Georgia vera e propria, ma una revisione interna condotta dall'esercito russo ha evidenziato molti fallimenti durante la campagna. Tre mesi dopo la conclusione della guerra russo-georgiana, il generale Nikolai Makarov, allora capo di stato maggiore delle forze armate russe, propose una massiccia revisione dell'esercito russo intitolata "The Future Look of the RF \[Russian Federation\] Armed Forces and Top-Priority Measures for its Formation in 2009-2020”. Queste misure divennero presto note come il "New Look" e la Russia le adottò rapidamente e le mise in atto all'inizio del 2009”.
+
+Queste riforme hanno rappresentato un cambiamento completo nella struttura militare. In contrasto con la strategia di mobilitazione di massa che ha guidato la dottrina militare russa dal diciannovesimo secolo, le riforme del "New Look" hanno posto l'accento su un esercito più piccolo e più professionale. Per realizzare questa trasformazione, l'esercito russo ridusse i suoi sei distretti militari in soli quattro, eliminò le unità dei quadri, convertì tutte le unità rimanenti in Forze di preparazione permanenti, ridusse drasticamente il corpo degli ufficiali, riorganizzò la struttura di comando in un sistema a tre livelli di distretti militari da esercito a brigata promettendo una massiccia modernizzazione delle armi e delle attrezzature militari.
+
+ 
+
+**3\. 2014-15: il biennio degli interventi militari all’estero**
+
+In seguito alle riforme del "New Look" Mosca ha adottato una politica estera più aggressiva. Dal crollo dell'Unione Sovietica nel 1991 all'annuncio delle riforme del "New Look" nel 2008, la Federazione Russa ha compiuto un solo intervento militare diretto all’estero, ovvero la guerra russo-georgiana. Da quando sono iniziate le riforme del "New Look", la Russia ha impegnato i suoi militari in tre conflitti internazionali.
+
+In primo luogo, nel 2014, sotto la copertura di una vasta esercitazione militare al confine tra Russia e Ucraina, le forze speciali russe e le truppe aviotrasportate si sono infiltrate in Crimea. Lì presero sistematicamente il controllo degli uffici politici e delle basi militari ucraine. La Russia ha annesso la Crimea dopo un referendum nel marzo dello stesso anno. In secondo luogo, nel 2014, la Russia ha fomentato un movimento separatista nell'Ucraina orientale con armi, rifornimenti e "volontari" prima di intervenire due volte con le truppe per sostenere le difese separatiste sull'orlo del collasso. In terzo luogo, a partire dal 2015, la Russia ha schierato parte della sua forza aerea per aiutare Bashar al-Assad in Siria e ha iniziato una campagna di bombardamenti contro l'ISIS e le forze di opposizione siriane.
+
+Con l’intensificarsi della guerra civile siriana, ultimo anello delle rivoluzioni arabe, Assad chiede aiuti militari a Putin, che già da anni inviava rifornimenti militari alla Siria. Mosca nel 2015 non si fa pregare per intervenire in modo più massiccio: in Siria vi è l’unica base navale russa sul Mediterraneo a Tartus. Partendo da questo presupposto si capisce il principale interesse per la Siria: lo sbocco su un mare caldo.
+
+Sul finire del settembre 2015, il permesso formale di intervenire in Siria è concesso dalla camera alta russa. Seguendo la scia douhettiana, l’impegno russo in Siria si concretizzerà soprattutto in attacchi aerei. Come riporta “The Guardian”, il ministero della difesa russo segnala i primi attacchi aerei e dall'inizio è chiara un'ambiguità strategica. Mentre Mosca afferma che gli attacchi erano contro obiettivi dell'Isis, alcuni osservatori non concordano, sostenendo che sembravano principalmente colpire gruppi ribelli meno estremi che combattevano il regime di Assad e che potevano essere ricondotti principalmente ad un membro NATO: la Turchia.
+
+Il governo russo considera tutti questi interventi dei successi. L'annessione della Crimea e il sostegno ai separatisti nel Donbass hanno protetto il maggiore interesse militare della Russia nella regione e ritardato indefinitamente la possibilità che l'Ucraina aderisca alla NATO o all'Unione Europea. I bombardamenti strategici hanno ribaltato le sorti della guerra civile siriana e hanno consentito alle forze di Assad di passare all'offensiva per la prima volta dall’inizio del conflitto.
+
+Dopo tre interventi militari riusciti, nel dicembre 2015 il Cremlino ha aggiornato la sua dottrina militare e la sua strategia di sicurezza nazionale. Il Parlamento europeo ha esaminato la dottrina militare russa e la sua strategia di sicurezza nazionale e ha concluso che entrambi i documenti “sottolineano l'importanza del ruolo della forza militare nelle relazioni internazionali”. Putin è ovviamente disposto a utilizzare l'esercito russo per tentare di ripristinare un prestigio russo e riaffermare il suo status di grande potenza. E’ ragionevole attendersi che Putin continui a utilizzare le forze armate russe per esercitare il potere e l'influenza russa nella regione, in particolare per prevenire un'ulteriore adesione della NATO verso est. La dipendenza di Mosca dalle sue forze armate come strumento di politica estera aumenterà man mano che il suo potere economico diminuisce. Mentre la Russia continuerà ad adottare soluzioni politiche e non militari ai problemi internazionali, la sua migliorata capacità militare renderà la forza un'opzione valida, soprattutto nelle controversie regionali.
+
+ 
+
+**4\. Successi e criticità delle riforme**
+
+Durante la campagna siriana, il Ministero della Difesa russo ha firmato un contratto per la fornitura di due battaglioni sperimentali di carri armati principali: l’Armata e un battaglione con pesanti BMP T-15, costruiti sul telaio dell’Armata. Le prove di circa 100 veicoli saranno poi completate non prima del 2020 e determineranno se questi nuovi veicoli blindati potranno essere completamente schierati sul fronte o meno. In fase di prova vi furono anche altri nuovi sistemi, tra cui un veicolo da combattimento di fanteria, un corazzato per il trasporto di personale corazzato e sistema di artiglieria semovente.
+
+L'artiglieria, tuttavia, da allora ha subito un significativo mutamento rispetto ad altre armi delle forze di terra. Parlando di artiglieria bisogna tenere conto di questo aspetto quasi napoleonico della dottrina militare russa: qualsiasi manovra militare necessita la scarica preventiva di tonnellate di munizioni per stabilire una annichilente supremazia di fuoco terra-terra. Quasi tutta la dottrina russa convenzionale si basa tutt’ora sull’uso dell’artiglieria. La soppressione del nemico con una potenza di fuoco superiore rimane la tattica preferita delle forze di terra russe ed è per questo motivo che la Russia schiera molta più artiglieria con le sue unità rispetto agli Stati Uniti o ad altri paesi della NATO.
+
+Nella stessa ottica viene inquadrato il ruolo aereo: non come supremazia dei cieli in senso multi-ruolo o coordinativa, bensì come unità di cannoni volanti. La riforma dell'artiglieria mirava ad ampliare la zona di controllo per le unità russe aumentando la gamma di potenza di fuoco dell'artiglieria rispetto agli eserciti stranieri, senza considerare però l’ingente dissanguamento logistico che ciò comporta. Per raggiungere questo obiettivo, il vecchio cannone da 122mm sui modelli BM21 Grad MRLS (Multi-launch rocket system) precedentemente schierati con divisioni e brigate di fucili a motore è stato sostituito con sistemi Tornado-G MRLS da 122 mm, che hanno una portata molto più lunga (40 km contro 20 km). È stato aggiunto anche un Uragan MLRS con cannoni da 220 mm con un raggio di oltre 90 km che è compatibile con una varietà di munizioni, inclusi clusters.
+
+Questa tendenza all’uso di munizioni in quantità soverchiante continuerà con l'acquisto degli obici semoventi Koalition da 152 mm. L'esperienza della Siria e dell'Ucraina nel 2014 ha dimostrato che l'artiglieria da 122 mm e 152 mm non è abbastanza potente da distruggere postazioni ben fortificate ed edifici in cemento armato. Pertanto, la Russia sta attivamente rianimando l'artiglieria pesante da 203 mm e i mortai da 240 mm, utilizzati negli esercizi con le munizioni a guida laser Smelchak. Sono scelti non per la loro portata, ma per la loro potenza di fuoco. Le munizioni di artiglieria guidata pesante forniscono ai comandanti la capacità tattica di colpire con precisione singoli edifici da una lunga distanza, che è particolarmente importante per il combattimento urbano, ambiente in cui tuttavia i russi, dopo Stalingrado, hanno messo raramente piede.
+
+In Georgia, ai comandanti di reggimento e di brigata russi mancava l'intelligence e la capacità di ricognizione e fuoco di artiglieria diretto a lunghe distanze. I droni leggeri, in grado di monitorare l'artiglieria per l'intero raggio fino a 120 km, sono ora inclusi nelle brigate e riescono a fornire un grande aiuto alle operazioni organizzative, rimanendo comunque lontani dagli standard NATO. Infatti, i lanci di artiglieria in Siria sono stati principalmente condotti con UAV (Unmanned Aerial Vehicle) che monitorano i risultati dell'artiglieria in tempo reale. Inoltre, un sistema automatizzato per regolare il fuoco dell'artiglieria dai droni è stato in fase di test ma non se ne vedono gli esatti risultati
+
+I teorici militari russi considerano l'uso dei droni un modo significativo per risparmiare sulle munizioni, nonché un mezzo per vincere duelli di artiglieria in controbatteria. Nonostante ciò, l'armamento delle forze di terra russe non è significativamente diverso da quello che era durante il conflitto in Georgia. L'enorme dimensione delle forze al suolo lo rende resistente ai cambiamenti su larga scala. Anche gli aggiornamenti alle divise hanno richiesto diversi anni di sforzi: per molti anni neanche i calzettoni erano forniti ai soldati i quali dovevano adagiarsi con dei bendaggi per i piedi.
+
+La sostituzione delle attrezzature pesanti è stata ulteriormente complicata dal fatto che le forze di terra non sono state considerate una priorità nel programma statale di armamento 2010-2020. Di conseguenza, alla fine del 2017, solo il 42% delle loro attrezzature era nuovo o modernizzato, la percentuale più bassa tra tutti gli altri rami militari: i nuovi veicoli blindati acquistati non possono davvero essere definiti moderni.
+
+Ad esempio, i carri armati T-72B3, i veicoli da combattimento della fanteria BMP-3, i veicoli corazzati per il trasporto di personale BTR-82AM e l'obice semovente MSTA-S sono versioni modernizzate del vetusto equipaggiamento sovietico. Il loro acquisto è una soluzione temporanea perché nuove piattaforme di veicoli blindati sono in fase di test e sono lontane dalla produzione di massa. Ma anche una volta che questi sistemi saranno pronti per la produzione di massa, il riarmo completo richiederà molti anni, sia per ragioni finanziarie che di capacità produttiva. Anche la modernizzazione dell'arma caratteristica della Russia, i carri armati, è stata gravemente limitata per motivi economici. Il T-72B3 aggiornato, implementato nel 2011, non ha ricevuto capacità di protezione o potenza di fuoco rispetto al modello T-72B di base.
+
+L'analisi delle loro prestazioni in combattimento in Siria e nel Donbass, ha mostrato che questa nuova modifica aveva delle mancanze in aree chiave, mancanze esacerbate contro gli ucraini nel 2022. Nel 2016, la Russia aveva iniziato a utilizzare un modello modernizzato, T-72B3(M), che includeva una protezione molto migliore dagli attacchi di munizioni cumulative e un'armatura rimovibile aggiuntiva per gli ambienti urbani, provvedimenti necessari ma non sufficienti. Anche la protezione del carro armato T-90A utilizzato in Siria è stata ritenuta insufficiente, richiedendo la sostituzione con il nuovissimo T-90M, che è dotato di una migliore armatura. Il primo battaglione di questi nuovi carri armati sarà impiegato dalle forze di terra nel 2018.
+
+ 
+
+**5\. Il New Look e il problema della leva**
+
+Come riporta la professoressa Bettina Renz “dopo quasi 20 anni che hanno consentito alle forze armate convenzionali russe di andare in rovina, un vasto programma di modernizzazione annunciato nel 2008, col nome di New Look, ha prodotto risultati impressionanti e ha avviato un processo di rilancio militare russo. In seguito all'intervento militare in Ucraina, all'annessione della Crimea e la prima operazione di spedizione della Russia al di fuori dell'ex regione sovietica, in Siria, i recenti sviluppi nella politica di difesa russa hanno portato a crescenti preoccupazioni per una Russia militarmente in ripresa e le potenziali implicazioni di ciò per i suoi vicini, la NATO e l'Occidente".
+
+Nelle parole dell'ex NATO SACEUR (Supreme Allied Commander Europe), il generale statunitense Curtis Scaparotti, che ha prestato giuramento nel maggio 2016, “una Russia in ripresa sta lottando per proiettarsi come potenza mondiale... Per affrontare queste sfide, dobbiamo continuare a mantenere e rafforzare i nostri livelli di prontezza e la nostra agilità nello spirito di poter combattere stasera se la deterrenza fallisce”.
+
+A inizio riforme, fu varato un aumento del salario per i militari professionisti che li poneva su un livello del 25% superiore rispetto alla media salariale del Paese. La Russia mira a ridurre ulteriormente il numero di coscritti del 30%, 150.000 in organico, entro il 2020-2021. Tuttavia, se non è in grado di attrarre un numero sufficiente di soldati a contratto, la carenza sarà probabilmente compensata mantenendo il numero dei coscritti vicino ai livelli attuali fallendo nella sopracitata riduzione e abbassando quindi il livello di qualità generale. Per via dell’inflazione che aumenta a tassi superiori rispetto all’aumento salariale, la via del militare professionista potrebbe risultare in futuro via via marginalmente meno appetibile.
+
+Anton Lavorv sostiene che la Russia è attualmente in fondo a una "fossa demografica". Ciò significa che un numero storicamente basso di giovani uomini - solo circa 600.000 - raggiunge l'età di leva ogni anno: reclutarne 200.000-250.000 si è dimostrato un livello fattibile ma non aureo. Gran parte dei i coscritti ridurranno la qualità complessiva del personale militare, ma consentiranno di mantenere il reclutamento al 95%.
+
+Ad oggi, le forze armate russe arruolano uomini semestralmente, con la leva autunnale che dura dal 1° ottobre al 31 dicembre e la leva di primavera che va dal 1° aprile al 15 luglio. Nel 2022, il Cremlino ha annunciato la leva di primavera il 18 febbraio. La leva riguarda tutti gli uomini di età compresa tra i 18 e i 27 anni, anche se alcuni coscritti possono avere appena 16 anni. I coscritti russi in genere servono un anno. Il numero annuale di coscrizioni di tutti gli uomini russi in età militare è di circa 1,2 milioni di persone, anche se solo circa la metà sono costretti a presentarsi al loro “Voenkomat”, il commissariato militare locale.
+
+Lo stato maggiore russo ha riferito di aver arruolato 127.000 persone per la leva dell'autunno 2021 e 134.000 persone nella primavera del 2021 su 672.000 uomini convocati. Il numero di coscritti è relativamente costante anno dopo anno, con 263.000 nel 2020 e 267.000 nel 2019. Circa 261.000 coscritti dal 2021 stanno attualmente prestando servizio in tutte le unità russe, con i coscritti dell'autunno 2021 che entrano nel loro terzo mese di addestramento. I nuovi coscritti sono sottoposti a un addestramento di base da uno a due mesi, seguito da tre a sei mesi di addestramento avanzato prima di arrivare alle unità assegnate.
+
+La legge attuale impedisce ai coscritti di schierarsi in combattimento con meno di quattro mesi di addestramento; tuttavia, la legge marziale o la mobilitazione generale potrebbero sostituire la politica attuale, consentendo l'impiego immediato di nuovi coscritti o riservisti mobilitati. È probabile che alcuni dei coscritti dell'autunno 2021 stiano già prestando servizio in unità combattenti in Ucraina oggi. È improbabile che il rapido impiego di riservisti relativamente non addestrati possa materialmente aumentare la potenza di combattimento della Russia in Ucraina. Storicamente, solo il 10 per cento di i riservisti ricevono una formazione di aggiornamento dopo aver completato il loro mandato iniziale di servizio. La Russia non ha la capacità amministrativa e finanziaria per formare i riservisti su base continuativa. Secondo un’analisi del 2019, la Russia aveva solo da 4.000 a 5.000 soldati in quella che sarebbe considerata una riserva attiva nel senso occidentale, intendendo i soldati che frequentano un addestramento mensile e annuale regolare.
+
+Il ministro della difesa Sergey Shoigu ha ripetutamente affermato che le forze armate russe speravano di avere 80.000-100.000 uomini attivi di riserva in senso occidentale: riserva, cioè, costantemente allenata. Nel 2021, l'esercito russo ha avviato una nuova iniziativa per rimediare alla mancanza di una riserva pronta, la BARS-2021. Essa mirava a stabilire una riserva ristretta e attiva di volontari per un contratto di servizio triennale. BARS-2021 ha operato sullo stesso principio delle riserve degli Stati Uniti e della NATO, dove i riservisti si addestrano attivamente e vengono compensati. Il concetto di BARS-2021 era che i riservisti russi volontari avrebbero partecipato regolarmente alle esercitazioni mensili per mantenere la loro prontezza alla mobilitazione pur mantenendo le proprie professioni civili.
+
+ 
+
+ 
+
+Alessandro Verdoliva

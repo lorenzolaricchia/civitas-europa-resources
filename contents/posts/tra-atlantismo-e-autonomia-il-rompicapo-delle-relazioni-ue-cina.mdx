@@ -1,0 +1,62 @@
+---
+title: "Tra atlantismo e autonomia: il rompicapo delle relazioni Ue-Cina"
+cover: "/images/posts/tra-atlantismo-e-autonomia-il-rompicapo-delle-relazioni-ue-cina.jpeg"
+date: 1624602495
+authors:
+  - civitas-europa
+categories: 
+  - "analisi"
+  - "analisi-relazioni-internazionali"
+  - "divisione-relazioni-internazionali"
+tags: 
+  - "bruxelles"
+  - "cina"
+  - "diritti-umani"
+  - "pechino"
+  - "relazioni-internazionali"
+  - "sanzioni"
+  - "stati-uniti"
+  - "ue"
+  - "uiguri"
+  - "unione-europea"
+---
+
+Nell'[articolo sulle relazioni Ue-Cina](https://civitaseuropadoteu.wordpress.com/2021/05/25/commercio-vie-della-seta-e-diritti-umani-le-relazioni-ue-cina/) abbiamo notato che tra Bruxelles e Pechino c'è un terzo incomodo, Washington. Per gli Stati Uniti le relazioni sino-europee sono una questione di primaria importanza in quanto hanno a che fare con due attori cruciali per la politica estera e di sicurezza statunitense. I Ventisette costituiscono il gruppo di alleati più importanti mentre la Cina rappresenta il principale rivale strategico. Di conseguenza, per gli Stati Uniti un eccessivo avvicinamento tra Ue e Cina sarebbe deleterio poiché da un lato rafforzerebbe Pechino e dall'altro allontanerebbe gli alleati europei dall'orbita statunitense, depotenziando la strategia di contenimento del gigante asiatico.
+
+L'Unione si trova quindi in una posizione scomoda, stretta tra fedeltà atlantica e autonomia. Sebbene la Cina presenti enormi opportunità, la pressione statunitense è irresistibile, specialmente ora che la nuova amministrazione democratica ha adottato toni più concilianti nei confronti degli alleati europei con l'obiettivo di creare un club delle democrazie da contrapporre alle autocrazie di Russia e Cina. \[1\]
+
+Non è un caso che il presidente Joe Biden, per riallacciare i rapporti atlantici dopo le turbolenze della presidenza Trump, abbia deciso di far leva su democrazia e diritti umani. Ciò, negli auspici statunitensi, permette a Washington di ottenere tre successi contemporaneamente: compattare gli alleati, nel senso di farli allineare alle proprie priorità strategiche; delegittimare e isolare Russia e Cina adottando la logica dei blocchi (democrazie contro autocrazie); rafforzare la strategia di contenimento di questi due paesi, coinvolgendo anche gli alleati.
+
+Spostando la rivalità con Cina e Russia sul campo dei valori e delle differenze di sistema politico, gli Stati Uniti puntano ad incassare l'adesione degli alleati alla propria strategia. Se però l'Unione Europea vuole essere un soggetto, e non un oggetto, della politica internazionale, non può allinearsi acriticamente alla strategia americana. L'Unione deve evitare di farsi trascinare nella logica della rivalità tra grandi potenze e rivendicare una propria autonomia. Solo così può diventare un attore autorevole della politica internazionale.
+
+La recente crisi nelle relazioni sino-europee, che ha portato alle sanzioni reciproche e al blocco dell'accordo sugli investimenti firmato lo scorso dicembre, rappresenta un caso emblematico di come l'Unione non dovrebbe rapportarsi alla Cina. È vero che i diritti umani costituiscono uno dei pilastri fondamentali dell'integrazione europea e che l'Unione si impegna a diffonderli su scala globale; ciononostante, le sanzioni mirate sono tutto meno che uno strumento efficace per portare avanti la causa dei diritti umani.
+
+L'unica conseguenza tangibile delle sanzioni mirate è l'innesco di un circolo vizioso che porta le relazioni diplomatiche in una situazione di stallo e crea diffidenza reciproca. Infatti, la Cina ha immediatamente risposto alle sanzioni occidentali colpendo alcuni funzionari dell'Unione Europea ed entità legate ad essa, la quale a sua volta ha risposto congelando l'accordo sugli investimenti e chiedendo la rimozione delle sanzioni cinesi come condizione per la sua ratifica. \[2\]
+
+Vi sono altri modi  più efficaci per portare avanti la causa dei diritti umani. L'Unione dovrebbe criticare pubblicamente la Cina per la repressione degli uiguri, condurre indagini, finanziare gli enti e le organizzazioni non governative che si occupano del monitoraggio dei diritti umani, proporre programmi di aiuto e dare asilo a coloro che riescono a fuggire.
+
+Le sanzioni sono inutili e non fanno altro che innescare circoli viziosi da cui è difficile uscire. Oltretutto, esse non sono la manifestazione dell'adesione ai valori che stanno alla base dell'integrazione europea, bensì rispondono a logiche politiche che hanno a che fare con la rivalità tra Stati Uniti e Cina.
+
+L'economia, in particolare il commercio e le infrastrutture, rimangono gli ambiti più importanti delle relazioni sino-europee. L'Unione dovrebbe sfruttare le enormi opportunità che la Cina, trattandosi della seconda economia mondiale, presenta. Anche in questo caso però la politica fa sentire il suo peso: l'esclusione delle aziende cinesi dalla costruzione delle reti 5G e da tutti quei settori ritenuti importanti per la sicurezza nazionale è già un dato di fatto mentre l'implementazione dell'accordo sugli investimenti è stata bloccata. L'irrigidirsi della rivalità sino-americana renderà più difficile la distinzione tra politica ed economia con conseguenze negative per il commercio sino-europeo.
+
+Infine, le dispute nei Mari Cinesi sono un'altra questione che in futuro potrebbe incrinare ulteriormente le relazioni Bruxelles-Pechino. Anche in questo caso l'Unione dovrebbe rifuggire la logica della rivalità tra le grandi potenze. È legittimo che gli Stati europei compiano esercitazioni militari con gli alleati presenti nella regione, come Giappone ed Australia. Allo stesso tempo dovrebbero evitare inutili provocazioni. \[3\]
+
+I paesi europei non hanno motivo di creare innalzamenti della tensione. Essi dovrebbero fare appello a tutti gli Stati della regione affinché risolvano le dispute nel rispetto del diritto internazionale e prendere posizione contro Pechino qualora compia azioni aggressive ai danni degli Stati rivieraschi.
+
+In conclusione, l'Ue non deve limitarsi all'allineamento acritico agli Stati Uniti perché gli interessi di Washington non coincidono con quelli di Bruxelles. Inoltre, l'allineamento acritico produrrebbe almeno due conseguenze negative per l'Unione: diverrebbe palese la sua natura di oggetto della politica internazionale e la sua reputazione ne risentirebbe.  Se l'Unione si riduce a fare da mera cassa di risonanza dell'amministrazione statunitense non aspettiamoci che il resto del mondo prenda sul serio Bruxelles.
+
+ 
+
+CIVITAS EUROPA - DIVISIONE RELAZIONI INTERNAZIONALI
+
+Massimiliano Palladini
+
+ 
+
+**Note**
+
+\[1\] "Il viaggio di Biden in Europa e il ritorno della competizione tra blocchi", civitaseuropa.com, 18 giugno 2021.
+
+\[2\] Per la recente crisi tra Bruxelles e Pechino vedere il paragrafo "La questione dei diritti umani" nel [precedente articolo sulle relazioni sino-europee](https://civitaseuropadoteu.wordpress.com/2021/05/25/commercio-vie-della-seta-e-diritti-umani-le-relazioni-ue-cina/).
+
+\[3\] Per un esempio di provocazione inutile vedere "British Navy HMS Albion warned over South China Sea "provocation"", bbc.com, 6 settembre 2018. Ultimo accesso 24 giugno 2021.

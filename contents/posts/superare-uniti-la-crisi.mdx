@@ -1,0 +1,127 @@
+---
+title: "Superare (uniti) la crisi."
+cover: "/images/posts/superare-uniti-la-crisi.jpg"
+date: 1585669480
+authors:
+  - civitas-europa
+categories: 
+  - "senza-categoria"
+---
+
+**L’Unione Europea si trova ad affrontare la più grave crisi economica e sociale dalla fine della Seconda Guerra Mondiale**. Nonostante le difficoltà affrontate durante la crisi finanziaria del 2008, e la successiva crisi del debito sovrano che ha piegato le economie più fragili dell’Eurozona, la sfida che si prospetta appare di dimensioni ancora più vaste.
+
+Nel 2011 l’impreparazione era dovuta alla mancanza di strumenti comunitari adatti ad affrontare tempestivamente l’emergenza. Negli anni precedenti il processo di integrazione si era arenato dopo aver registrato frizioni e rotture sulla proposta (rifiutata, nel 2005) della creazione di una costituzione europea, e la successiva sostituzione della stessa con il Trattato di Lisbona.
+
+ 
+
+**Oggi l’Europa dimostra un diverso tipo di impreparazione**, dovuto alla mancanza di volontà politica e alle difficoltà di conciliare le posizioni che dividono i paesi dell’Unione.
+
+Quando nel 2008 la crisi dei mutui _subprime_, che aveva sconvolto il mercato finanziario statunitense, si diffonde nell’economia globale, le banche europee si ritrovano con una grande quantità di titoli tossici tra le mani.
+
+ 
+
+**I derivati inquinati diffondono la patologia in maniera del tutto simile ad un virus finanziario**.
+
+Questi titoli, considerati sicuri (rating AAA) perché legati al mercato immobiliare, sono stati venduti ed acquistati dagli istituti bancari di tutto l’occidente.  La mancanza di istituzioni che vigilassero rigidamente sul mercato finanziario ha reso possibile la creazione di questi derivati speculativi dannosi, che hanno condotto le economie più avanzate nel vortice della recessione globale.
+
+Le economie europee hanno finito improvvisamente per fare i conti con previsioni finanziarie funeste. Ma il peggio doveva ancora arrivare.
+
+Nel 2011, infatti, scoppia la cosiddetta “Crisi dell’Eurozona”. I paesi più fragili a livello di conti pubblici si ritrovano a pagare interessi sul debito molto elevati. I tassi d’interesse si impennano, mettendo in difficoltà le casse dei suddetti stati, in un momento già difficile.
+
+ 
+
+**La condivisione di una moneta comune emessa da un organo indipendente ha complicato la situazione per paesi come Grecia, Spagna e Italia, dato che la BCE, per scelta degli Stati nazionali (volontà formalizzata nello Statuto BCE), non è autorizzata a monetizzare il debito degli stati membri.**
+
+Lo shock era endogeno alla UE, e metteva alcuni membri nella condizione di dover richiedere aiuto ai membri più virtuosi a livello di finanza pubblica. Ma lo scollamento dell’Unione, e **la mancanza di strumenti comunitari adatti, ha giocato un ruolo fondamentale nel prolungare la crisi**.
+
+Per via della scarsa reattività degli stati nel decidere l’attivazione di strumenti di supporto finanziario istantaneo, simili a quelli utilizzati tra il 2008 e il 2009 dagli USA, la tenuta dei conti pubblici dei paesi in difficoltà è stata compromessa.
+
+Gli accordi comunitari sono stati rafforzati durante la crisi: con l’introduzione del Fiscal Compact, che ha emendato il Patto di Stabilità del 1997, sono stati resi più stringenti i criteri contenuti nello stesso. Le novità riguardavano il recepimento delle norme a livello costituzionale per tutti gli stati membri, l’inserimento dell’obbligo di pareggio di bilancio (disposizione, questa, recepita dall’Italia come “equilibrio di bilancio), il perseguimento di una significativa riduzione del rapporto Debito/PIL e l’impegno a coordinare i piani nazionali di emissione del debito con il Consiglio dell’UE e la Commissione Europea.
+
+ 
+
+**La creazione del pacchetto di norme è stata affidata interamente alle contrattazioni intergovernative, senza il coinvolgimento diretto della Commissione e l’esclusione totale del Parlamento Europeo**.
+
+L’altro strumento di contrasto, adottato nel 2012, è quello del MES[\[1\]](#_ftn1), che tanto infiamma il dibattito politico di queste settimane.
+
+Ma la frattura tra i due blocchi di stati era ormai profonda, e nel decennio passato molto poco è stato fatto, da una parte e dall’altra, perché venisse risanata.
+
+La diffusione del Covid-19 sul territorio europeo ha riaperto le divisioni tra i paesi finanziariamente virtuosi e i paesi dell’Europa mediterranea. La crisi economica che inizia a serpeggiare per il globo si prospetta di dimensioni maggiori di quella del 2008, e presenta la fondamentale differenza di coinvolgere immediatamente non solo i mercati finanziari, ma anche l’economia reale.
+
+Le differenze tra i pacchetti di interventi della _Federal Reserve_ costituiscono indicatori significativi per comprendere la diversa natura delle due situazioni: nel 2008 la banca federale statunitense è intervenuta principalmente per ricapitalizzare o nazionalizzare banche, protagoniste della crisi.  Quella odierna, invece, risulta essere una crisi contemporanea dell’offerta e della domanda causata dall’interruzione della produzione, che a sua volta comporta una sospensione o riduzione del pagamento dei salari, soprattutto nelle piccole e medie imprese.
+
+ 
+
+**L’intervento che risulta necessario, quindi, ha come obiettivi principali i lavoratori e le imprese, da sostenersi tramite un’iniezione di liquidità nelle casse dello Stato.**
+
+La stessa problematica coinvolge gli stati europei e l’intera economia dell’Unione.
+
+L’Europa si è trovata improvvisamente a costituire l’epicentro della pandemia partita dalla Cina.
+
+All’oggettiva necessità di sostenere le spese sanitarie necessarie a contrastare il virus, si somma l’urgenza di adottare misure a sostegno della produzione, fortemente compromessa da settimane di _lockdown_.
+
+Ma anche in una situazione di profonda difficoltà, la frattura politica tra i Paesi non si è risanata, ma ha finito per esasperarsi.
+
+Le richieste dei ministri delle finanze di nove paesi dell’Eurozona, tra cui quelli di Italia, Francia e Spagna, hanno acceso il dibattito riguardante la possibile soluzione comune alla crisi.
+
+ 
+
+**La possibilità ventilata di emettere i cosiddetti “Eurobonds” ha riscosso subito la reazione ostile dei paesi più rigorosi.**
+
+Ma quali sono le alternative che si presentano ad un paese dell’Eurozona, per reperire la liquidità necessaria a far fronte all’emergenza?
+
+La prima, **data la sospensione del Patto di Stabilità**, è l’emissione di titoli di stato. Il principale vantaggio che può derivare da tale soluzione è la sua immediatezza, oltre alla possibilità di utilizzare la liquidità ottenuta a discrezione del governo nazionale.
+
+Il risvolto negativo riguarda i costi legati ai tassi d’interesse sul debito, decisi dal mercato, che variano da paese a paese. L’Italia, ad esempio, rischierebbe di vedere i tassi crescere a seguito del crollo della produzione e dell’emergenza sanitaria, ritrovandosi in un circolo vizioso. L’indebitamento necessario a sostenere le spese potrebbe aggravare ulteriormente il costo di questa epidemia.
+
+**Una dell’alternative “comunitarie”, invece, sarebbe il ricorso all’attivazione del Meccanismo Europeo di Stabilità**. Questo comporterebbe una drastica riduzione dei tassi d’interesse sul costo dell’indebitamento, data dal fatto che il MES presta soldi indebitandosi nei mercati internazionali ad un costo molto più basso rispetto al singolo paese.
+
+ 
+
+Naturalmente anche in questo caso sorgono problemi: il primo riguarda la capacità di prestito attualmente disponibile nel MES, che è circa di 400 miliardi di euro, troppo ridotta per essere utilizzata dai paesi più bisognosi. L’aumento del capitale comporta un negoziato politico fra gli Stati membri.
+
+Ma, soprattutto, l’attivazione dello strumento prevede delle condizionalità, stipulate in un _memorandum of understanding_ che coinvolge il paese richiedente e il MES.
+
+Queste condizionalità, allo stato attuale, costituiscono il presupposto dell’ostilità dei paesi più bisognosi verso l’attivazione dello strumento, data la necessità di impiegare le risorse ottenute con la maggiore flessibilità possibile.
+
+**L’alternativa che più delle altre darebbe impulso all’integrazione europea è quella della creazione degli “Eurobonds”.** Ma è anche la più complessa e improbabile.
+
+Il principale pregio sarebbe la distribuzione della garanzia sul debito a livello comunitario, il che abbasserebbe i tassi d’interesse, giovando a tutti i paesi membri. Gli stati potrebbero reperire la necessaria liquidità ad un costo contenuto. Ma, a differenza del MES, non sarebbero soggetti alle condizionalità.
+
+La costituzione di tali titoli potrebbe aprire la strada ad un trasferimento generalizzato di competenze e sovranità all’Unione Europea, **facendo sì che le risorse generate dall’indebitamento comune vengano gestite a livello comunitario**.
+
+I difetti sono tutti relativi alla sfera politica: il primo è il tempo che necessita l’attuazione di un tale progetto. Gli stati membri necessitano di un piano di azione immediato e non posso attendere le tempistiche delle modifiche ai trattati e del negoziato politico che ne scaturirebbe.
+
+**Un’altra problematica riguarda il fenomeno dell’”azzardo morale”**, che potrebbe spingere i paesi che più beneficerebbero da questa soluzione ad indebitarsi maggiormente anche passata l’emergenza. **Un rischio, questo, che i paesi più virtuosi non sono intenzionati a correre.**
+
+Per superare lo stallo è necessaria una soluzione di compromesso che **coniughi il principio di solidarietà tra gli stati membri** e **condizionalità che ancorino i fondi ottenuti alle spese sanitarie e al sostegno ai lavoratori**, alle famiglie e alle imprese.
+
+ 
+
+Un “_Coronabond_” di questo tipo, emesso temporaneamente, potrebbe rafforzare la fiducia tra i membri dell’Unione nel caso gli Stati ottemperassero ai doveri di spesa sottoscritti.
+
+ 
+
+In questo articolo abbiamo cercato di raccogliere le alternative che si offrono agli Stati europei e all’Unione. Quella degli Eurobonds è sicuramente la soluzione più “europeista” tra quelle riportate e come Associazione auspichiamo che un accordo venga trovato sulla questione. Ma non possiamo ignorare le oggettive difficoltà negoziali che questa discussione comporta.
+
+ 
+
+In ogni caso, facciamo **un appello ai capi di Stato e di governo e ai rappresentanti delle istituzioni comunitarie perché si ricerchi la soluzione migliore per uscire uniti da questa emergenza**, guardando al futuro dell’Unione.
+
+ 
+
+CIVITAS EUROPA - Divisione Economia
+
+Andrea Scipione, Riccardo Raspanti, Lorenzo Ricci
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[\[1\]](#_ftnref1) per approfondire, si veda l’articolo dedicato, pubblicato su questa stessa piattaforma: https://atomic-temporary-174199255.wpcomstaging.com/2020/03/24/messo-da-che-parte/
