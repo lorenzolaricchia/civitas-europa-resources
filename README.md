@@ -4,6 +4,7 @@
 
 + https://stackedit.io: editor in tempo reale di markdown
 + https://word2md.com: converte un file .doc in un file markdown
++ https://compressor.io: ottimizza un'immagine
 
 ### Imparare a creare un file .md (procedura vista insieme)
 
@@ -17,7 +18,7 @@ PS. Per i più temerari si può scrivere tutto l'articolo direttamente sul sito 
 
 ### Come si crea un post
 
-0. Possedere la cover e il contenuto del post. La cover è un file nel formato `.jpg`, `.jpeg` o `.png`. Il contenuto è un file nel formato `.md`. Consultare le risorse utili per ottenerlo.
+0. Possedere la cover e il contenuto del post. La cover è un file nel formato `.jpg`, `.jpeg` o `.png`. Consiglio di ottimizzarla grazie al sito https://compressor.io. Il contenuto è un file nel formato `.md`. Consultare le risorse utili per ottenerlo.
 1. Accedere al sito https://civitas-europa.vercel.app (si consiglia Google Chrome come browser)
 2. Cliccare su "Login" nella barra in alto e inserire le credenziali fornite
 3. Compilare i campi presenti nel form;
@@ -31,9 +32,10 @@ Note:
 - Sul browser Safari sia per macOS che per iOS (mac e iPhone) può capitare che vengano visualizzati errori nel form di creazione del post; Ad esempio "La cover è obbligatoria" e/o "Il contenuto è obbligatorio". Questo può accadere a causa di un ritardo nel caricamento dei file su Safari. Per risolvere il problema (e se si è sicuri di aver caricato i file correttamente), semplicemente cliccare più volte sul bottone blu di conferma "Crea un post".
 - L'immagine di copertina (cover) deve essere in formato `.jpg`, `.jpeg` o `.png`
 - Il file con il contenuto del post deve essere in formato `.md`. Questo non deve contenere il titolo del post che va inserito nel campo dedicato del form.
+- Il sito https://compressor.io permette di ridurre le dimensioni di un'immagine senza perdere qualità. Per ottimizzare un'immagine basta trascinarla nella pagina e scaricare il file compresso.
 
 ### Video Tutorial
 
-[Guarda il video tutorial per desktop](https://drive.google.com/file/d/1wTmqJ6FuqeQQ_s_eBsf41FA7Y-2zoVi5/view?usp=share_link)
-[Guarda il video tutorial per mobile](https://drive.google.com/file/d/14iaVYa8yoTU2mkbLOfzLLsZcewqVi4jg/view?usp=share_link)
++ [Guarda il video tutorial per desktop](https://drive.google.com/file/d/1wTmqJ6FuqeQQ_s_eBsf41FA7Y-2zoVi5/view?usp=share_link)
++ [Guarda il video tutorial per mobile](https://drive.google.com/file/d/14iaVYa8yoTU2mkbLOfzLLsZcewqVi4jg/view?usp=share_link)
 
