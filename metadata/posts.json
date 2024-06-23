@@ -2390,8 +2390,8 @@
     "slug": "germania-fra-afd-e-linke-breve-analisi-della-politica-tedesca"
   },
   {
-    "title": "Crisi Egeo - Grecia e Turchia: alleati in rotta di collisione (video)",
-    "cover": "/images/posts/crisi-egeo-grecia-e-turchia-alleati-in-rotta-di-collisione-video.jpg",
+    "title": "Crisi Egeo - Grecia e Turchia: alleati in rotta di collisione",
+    "cover": "/images/posts/crisi-egeo-grecia-e-turchia-alleati-in-rotta-di-collisione.jpg",
     "date": 1598091919,
     "authors": [
       "alessandro-verdoliva"
@@ -2413,7 +2413,7 @@
       "turchia",
       "unione-europea"
     ],
-    "slug": "crisi-egeo-grecia-e-turchia-alleati-in-rotta-di-collisione-video"
+    "slug": "crisi-egeo-grecia-e-turchia-alleati-in-rotta-di-collisione"
   },
   {
     "title": "Bielorussia, l'Ue non riconosce il risultato delle elezioni presidenziali e prepara sanzioni",
@@ -3162,7 +3162,7 @@
     "slug": "il-senso-dellunione-europea-unanalisi-strategica-della-geopolitica-alla-base-dellintegrazione-degli-stati-sovrani"
   },
   {
-    "title": "Pandemia-19: La &quot;deresponsabilizzazione&quot; degli Stati europei di fronte all’emergenza degli ‘altri’.",
+    "title": "Pandemia-19: la deresponsabilizzazione degli Stati europei di fronte all’emergenza degli “altri”",
     "cover": "/images/posts/eea01-martin-sanchez-b1bu7r41huu-unsplash.jpg",
     "date": 1584375728,
     "authors": [
@@ -3188,9 +3188,9 @@
     "slug": "u-e-e-covid-19-quali-sono-le-conseguenze"
   },
   {
-    "title": "L&#039;Unione Europea nelle relazioni internazionali",
+    "title": "L’Unione Europea nelle relazioni internazionali",
     "excerpt": "Il riaccendersi della crisi migratoria al confine tra Grecia e Turchia ha dimostrato inequivocabilmente quanto potere di ricatto nei confronti dell'Unione Europea il presidente turco Recep Tayyip Erdogan detenga nelle sue mani. È bastata una sua decisione per far aleggiare sull'Europa i timori di una nuova crisi migratoria come quella del 2015-2016, risoltasi con l'ambiguo accordo attraverso cui Bruxelles essenzialmente paga Ankara per tenersi i rifugiati e i migranti che vorrebbero stabilirsi nei paesi più ricchi dell'Unione.",
-    "cover": "/images/posts/example-post-3.jpg",
+    "cover": "/images/posts/lunione-europea-nelle-relazioni-internazionali.jpg",
     "date": 1584197649,
     "authors": [
       "massimiliano-palladini"
@@ -3198,30 +3198,6 @@
     "categories": [
       "senza-categoria"
     ],
-    "slug": "example-post-3"
-  },
-  {
-    "title": "Prossimo contenuto in uscita,30-03-2020.",
-    "cover": "/images/posts/example-post-2.png",
-    "date": 1584197648,
-    "authors": [
-      "riccardo-raspanti"
-    ],
-    "categories": [
-      "senza-categoria"
-    ],
-    "slug": "example-post-2"
-  },
-  {
-    "title": "Prossimo contenuto in uscita, 6-04-2020.",
-    "cover": "/images/posts/screenshot-12-1-e1584216962159.png",
-    "date": 1584197647,
-    "authors": [
-      "riccardo-raspanti"
-    ],
-    "categories": [
-      "senza-categoria"
-    ],
-    "slug": "example-post"
+    "slug": "lunione-europea-nelle-relazioni-internazionali"
   }
 ]
