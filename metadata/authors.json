@@ -9,7 +9,7 @@
     "slug": "alessandro-verdoliva"
   },
   {
-    "avatar": "/images/authors/andrea-scipione.png",
+    "avatar": "/images/authors/andrea-scipione.jpg",
     "instagram": null,
     "linkedin": null,
     "name": "Andrea Scipione",
@@ -27,7 +27,7 @@
     "slug": "civitas-europa"
   },
   {
-    "avatar": "/images/authors/estefano-tamburrini.png",
+    "avatar": "/images/authors/estefano-tamburrini.jpg",
     "instagram": null,
     "linkedin": null,
     "name": "Estefano Tamburrini",
@@ -63,7 +63,7 @@
     "slug": "lorenzo-ricci"
   },
   {
-    "avatar": "/images/authors/massimiliano-palladini.png",
+    "avatar": "/images/authors/massimiliano-palladini.jpg",
     "instagram": null,
     "linkedin": null,
     "name": "Massimiliano Palladini",
@@ -72,8 +72,8 @@
     "slug": "massimiliano-palladini"
   },
   {
-    "avatar": "/images/authors/omar-yazidi.png",
-    "instagram": null,
+    "avatar": "/images/authors/omar-yazidi.jpg",
+    "instagram": "https://www.instagram.com/mryzd25/",
     "linkedin": null,
     "name": "Omar Yazidi",
     "twitter": null,
@@ -81,7 +81,7 @@
     "slug": "omar-yazidi"
   },
   {
-    "avatar": "/images/authors/riccardo-raspanti.png",
+    "avatar": "/images/authors/riccardo-raspanti.jpg",
     "instagram": null,
     "linkedin": null,
     "name": "Riccardo Raspanti",
