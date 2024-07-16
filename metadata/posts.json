@@ -1,5 +1,15 @@
 [
   {
+    "title": "L'infiltrato",
+    "cover": "/images/posts/linfiltrato.jpeg",
+    "date": 1721115600,
+    "excerpt": "Il semestre ungherese non è iniziato nella maniera migliore: l'Infiltrato si muove già.",
+    "authors": [
+      "riccardo-raspanti"
+    ],
+    "slug": "linfiltrato"
+  },
+  {
     "title": "Come sono andate le elezioni europee?",
     "cover": "/images/posts/come-sono-andate-le-elezioni-europee.jpeg",
     "date": 1718728573,
